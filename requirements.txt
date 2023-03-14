@@ -1,0 +1,5 @@
+transformers
+torch
+torchvision
+torchaudio
+git+https://github.com/amazon-science/ReFinED/archive/refs/tags/V1.zip
