@@ -1,0 +1,1147 @@
+predicate,uri
+face value,P3934
+position held,P39
+country,P17
+has list,P2354
+country of origin,P495
+genre,P136
+location of formation,P740
+inception,P571
+work period (start),P2031
+start time,P580
+point in time,P585
+developer,P178
+distributed by,P750
+subclass of,P279
+part of,P361
+continent,P30
+author,P50
+creator,P170
+founded by,P112
+publication date,P577
+follows,P155
+followed by,P156
+instance of,P31
+located in the administrative territorial entity,P131
+location,P276
+contains administrative territorial entity,P150
+sport,P641
+occupation,P106
+country of citizenship,P27
+date of birth,P569
+original broadcaster,P449
+member of sports team,P54
+publisher,P123
+uses,P2283
+powered by,P516
+place of birth,P19
+position played on team / speciality,P413
+league,P118
+made from material,P186
+military rank,P410
+date of death,P570
+conflict,P607
+religion,P140
+notable work,P800
+sports discipline competed in,P2416
+performer,P175
+record label,P264
+occupant,P466
+place of death,P20
+named after,P138
+practiced by,P3095
+religious order,P611
+patron saint,P417
+employer,P108
+participant in,P1344
+work location,P937
+capital,P36
+commissioned by,P88
+shares border with,P47
+central bank,P1304
+represents,P1268
+educated at,P69
+member of political party,P102
+encodes,P688
+owned by,P127
+owner of,P1830
+sports season of league or competition,P3450
+winner,P1346
+spouse,P26
+child,P40
+father,P22
+mother,P25
+country for sport,P1532
+parent taxon,P171
+taxonomic type,P427
+present in work,P1441
+cast member,P161
+characters,P674
+has part,P527
+facet of,P1269
+award received,P166
+headquarters location,P159
+date of official opening,P1619
+head of state,P35
+has effect,P1542
+director,P57
+language used,P2936
+operator,P137
+participant,P710
+historic county,P7959
+significant event,P793
+court,P4884
+industry,P452
+participating team,P1923
+indigenous to,P2341
+conferred by,P1027
+connecting line,P81
+member of,P463
+depicts,P180
+collection,P195
+presenter,P371
+maintained by,P126
+screenwriter,P58
+legislated by,P467
+composer,P86
+authority,P797
+service entry,P729
+main subject,P921
+product or material produced,P1056
+space launch vehicle,P375
+manufacturer,P176
+interested in,P2650
+candidacy in election,P3602
+family,P53
+located in or next to body of water,P206
+language of work or name,P407
+connects with,P2789
+political ideology,P1142
+instrument,P1303
+"dissolved, abolished or demolished date",P576
+end time,P582
+part of the series,P179
+replaced by,P1366
+architectural style,P149
+structure replaces,P1398
+organizer,P664
+movement,P135
+place of burial,P119
+home venue,P115
+head coach,P286
+season,P4908
+crosses,P177
+architect,P84
+applies to jurisdiction,P1001
+diplomatic relation,P530
+published in,P1433
+sibling,P3373
+writing language,P6886
+place of publication,P291
+replaces,P1365
+different from,P1889
+mountain range,P4552
+parent astronomical body,P397
+child astronomical body,P398
+heritage designation,P1435
+located on terrain feature,P706
+director / manager,P1037
+named by,P3938
+parent organization,P749
+military branch,P241
+number of hospital beds,P6801
+production company,P272
+has phenotype,P6532
+operating area,P2541
+season of club or team,P5138
+platform,P400
+basin country,P205
+highest point,P610
+subsidiary,P355
+population,P1082
+chairperson,P488
+place served by transport hub,P931
+relative,P1038
+competition class,P2094
+site of astronomical discovery,P65
+endemic to,P183
+elevation above sea level,P2044
+narrative location,P840
+field of work,P101
+drafted by,P647
+contains settlement,P1383
+has boundary,P4777
+ethnic group,P172
+capital of,P1376
+parent club,P831
+surface played on,P765
+destination point,P1444
+twinned administrative body,P190
+librettist,P87
+director of photography,P344
+film editor,P1040
+publication interval,P2896
+service retirement,P730
+constellation,P59
+enclave within,P501
+terminus,P559
+producer,P162
+afflicts,P689
+discoverer or inventor,P61
+school district,P5353
+adjacent station,P197
+contains,P4330
+commanded by,P4791
+mouth of the watercourse,P403
+tributary,P974
+studies,P2578
+first flight,P606
+broadcast by,P3301
+residence,P551
+terminus location,P609
+has parts of the class,P2670
+influenced by,P737
+has works in the collection,P6379
+track gauge,P1064
+this taxon is source of,P1672
+crew member,P1029
+astronaut mission,P450
+earthquake magnitude on the moment magnitude scale,P2527
+student of,P1066
+office held by head of government,P1313
+cause of death,P509
+located in protected area,P3018
+carries,P2505
+affiliation,P1416
+number of participants,P1132
+currency,P38
+set in period,P2408
+given name,P735
+primary destinations,P1302
+field of this occupation,P425
+date of first performance,P1191
+voice type,P412
+natural product of taxon,P1582
+convicted of,P1399
+highway system,P16
+operating system,P306
+geography of topic,P2633
+original language of film or TV show,P364
+item operated,P121
+date of official closure,P3999
+ammunition,P739
+legislative body,P194
+number of seasons,P2437
+cell component,P681
+located in time zone,P421
+sports league level,P3983
+editor,P98
+inflows,P200
+history of topic,P2184
+based on,P144
+derivative work,P4969
+diocese,P708
+dam,P4792
+lakes on river,P469
+length,P2043
+width,P2049
+statement is subject of,P805
+number of episodes,P1113
+airline hub,P113
+designed by,P287
+opposite of,P461
+worshipped by,P1049
+software engine,P408
+number of representations,P5027
+office contested,P541
+successful candidate,P991
+candidate,P726
+located in the statistical territorial entity,P8138
+linguistic typology,P4132
+effective date,P7588
+event distance,P3157
+executive body,P208
+organization directed by the office or position,P2389
+measured physical quantity,P111
+office held by head of state,P1906
+officeholder,P1308
+use,P366
+inspired by,P941
+doctoral advisor,P184
+list of characters,P1881
+location of first performance,P4647
+duration,P2047
+nominated for,P1411
+student,P802
+event interval,P2257
+time period,P2348
+used by,P1535
+house publication,P2813
+newspaper format,P3912
+manner of death,P1196
+illustrator,P110
+victory,P2522
+located in present-day administrative territorial entity,P3842
+writing system,P282
+color,P462
+molecular function,P680
+biological process,P682
+area,P2046
+licensed to broadcast to,P1408
+ranking,P1352
+incarnation of,P3701
+mass,P2067
+Gram staining,P2597
+pole position,P3764
+temperature,P2076
+tonality,P826
+coach of sports team,P6087
+signatory,P1891
+lyrics by,P676
+located on street,P669
+copyright license,P275
+said to be the same as,P460
+secretary general,P3975
+flag bearer,P3022
+number of matches played/races/starts,P1350
+mount,P3091
+general classification of race participants,P2321
+points classification,P3494
+number of seats,P1342
+qualifies for event,P3085
+allegiance,P945
+dialect of,P4913
+reservoir created,P4661
+wheel arrangement,P2978
+significant person,P3342
+"languages spoken, written or signed",P1412
+medical condition treated,P2175
+drug used for treatment,P2176
+quantity,P1114
+start point,P1427
+academic degree,P512
+programming language,P277
+stock exchange,P414
+work period (end),P2032
+animal breed,P4743
+advertises,P6291
+enemy of,P7047
+title of chess person,P2962
+brand,P1716
+significant place,P7153
+origin of the watercourse,P885
+studied by,P2579
+dedicated to,P825
+production designer,P2554
+interaction,P517
+chief executive officer,P169
+host,P2975
+number of deaths,P1120
+engine configuration,P1002
+musical conductor,P3300
+legal form,P1454
+contributed to creative work,P3919
+vessel class,P289
+edibility,P789
+mushroom ecological type,P788
+after a work by,P1877
+found in taxon,P703
+symptoms,P780
+head of government,P6
+gens,P5025
+overlies,P568
+has cause,P828
+doctoral student,P185
+main regulatory text,P92
+highest judicial authority,P209
+earthquake magnitude on the Richter magnitude scale,P2528
+colorist,P6338
+business division,P199
+lake outflow,P201
+radio format,P415
+model item,P5869
+health specialty,P1995
+described by source,P1343
+rector,P1075
+IUCN conservation status,P141
+product certification,P1389
+supports programming language,P3985
+readable file format,P1072
+from narrative universe,P1080
+taxon rank,P105
+list of episodes,P1811
+floruit,P1317
+manifestation of,P1557
+GUI toolkit or framework,P1414
+historical region,P6885
+sponsor,P859
+flag,P163
+coat of arms,P237
+anthem,P85
+number of parts of this work,P2635
+grants,P5460
+contributing factor of,P1537
+UTC date of spacecraft launch,P619
+official residence,P263
+installed capacity,P2109
+electronegativity,P1108
+central bank/issuer,P562
+emulates,P4043
+location of discovery,P189
+connecting service,P1192
+filming location,P915
+target,P533
+electoral district,P768
+noble title,P97
+home port,P504
+country of registry,P8047
+political alignment,P1387
+ancestral home,P66
+cathedral,P1885
+medical condition,P1050
+member count,P2124
+stock market index,P3679
+floors above ground,P1101
+canonization status,P411
+domain of saint or deity,P2925
+calculated from,P4934
+item disputed by,P7378
+physically interacts with,P129
+subject has role,P2868
+vaccine for,P1924
+genetic association,P2293
+fictional universe described in,P1445
+takes place in fictional universe,P1434
+culture,P2596
+awarded for period,P4566
+interchange station,P833
+parent peak,P3137
+vehicle,P1876
+proved by,P1318
+location of creation,P1071
+located on astronomical body,P376
+associated electoral district,P7938
+regulated by,P3719
+airline alliance,P114
+territory claimed by,P1336
+presented in,P5072
+discontinued date,P2669
+office held by head of the organization,P2388
+appointed by,P748
+online service,P2361
+is a list of,P360
+sex or gender,P21
+possible treatment,P924
+partially coincident with,P1382
+day in year for periodic occurrence,P837
+input method,P479
+has edition or translation,P747
+date of commercialization,P5204
+commemorates,P547
+distribution format,P437
+discography,P358
+soundtrack release,P406
+standards body,P1462
+focal height,P2923
+tracklist,P658
+has fruit type,P4000
+number of constituencies,P4253
+game mode,P404
+partner in business or sport,P1327
+repealed by,P2568
+family name,P734
+frequency,P2144
+anatomical location,P927
+apparent magnitude,P1215
+media franchise,P8345
+official language,P37
+foundational text,P457
+speaker,P823
+numeric value,P1181
+archives at,P485
+depicted by,P1299
+structural engineer,P631
+structure replaced by,P167
+represented by,P1875
+minor planet group,P196
+cuisine,P2012
+fabrication method,P2079
+game mechanics,P4151
+iconographic symbol,P4185
+produced by,P2849
+recommended unit of measurement,P8111
+term length of office,P2097
+costume designer,P2515
+polymer of,P4600
+monomer of,P4599
+curator,P1640
+native language,P103
+honorific prefix,P511
+programmer,P943
+final event,P3967
+number of cylinders,P1100
+series spin-off,P2512
+inhibitor of,P3776
+instrumentation,P870
+place of detention,P2632
+vehicle normally used,P3438
+type of orbit,P522
+has written for,P6872
+top-level Internet domain,P78
+atomic number,P1086
+"parent of this hybrid, breed, or cultivar",P1531
+killed by,P157
+partnership with,P2652
+merged into,P7888
+promoted,P2881
+discovery method,P1046
+file format,P2701
+parent cell line,P3432
+voice actor,P725
+programming paradigm,P3966
+has facility,P912
+semi-major axis of an orbit,P2233
+elector,P2319
+reward program,P4446
+perpetrator,P8031
+form of creative work,P7937
+separated from,P807
+order of battle,P4220
+debut participant,P2318
+youth wing,P4379
+member of the crew of,P5096
+depends on software,P1547
+league system,P6587
+substitute/deputy/replacement of office/officeholder,P2098
+edition or translation of,P629
+has melody,P1625
+bowling style,P2545
+number of survivors,P1561
+type of variable star,P881
+indexed in bibliographic review,P8875
+honorific suffix,P1035
+exemplar of,P1574
+develops from,P3094
+production date,P2754
+issued by,P2378
+active ingredient in,P3780
+has active ingredient,P3781
+mascot,P822
+implementation of,P4428
+launch contractor,P1079
+professorship,P803
+fee,P2555
+category of associated people,P1792
+route of administration,P636
+list of works,P1455
+amended by,P2567
+microarchitecture,P6889
+marriageable age,P3000
+radius,P2120
+luminosity,P2060
+location of landing,P1158
+time of spacecraft landing,P620
+offers view on,P3173
+has contributing factor,P1479
+source of energy,P618
+inscription mentions,P6568
+sidekick of,P2546
+CPU,P880
+judge,P1594
+business model,P7936
+board member,P3320
+personal best,P2415
+diameter,P2386
+measurement scale,P1880
+league level below,P2500
+unveiled by,P1656
+investor,P1951
+Catholic rite,P3501
+oxidation state,P1121
+redshift,P1090
+taxon author,P405
+cover art by,P736
+party chief representative,P210
+cause of destruction,P770
+Open Data portal,P8402
+carries scientific instrument,P1202
+age of consent,P2999
+melting point,P2101
+display technology,P5307
+date of disappearance,P746
+greater than,P5135
+contributor to the creative work or subject,P767
+measures,P2575
+package management system,P3033
+adapted by,P5202
+language regulatory body,P1018
+general manager,P505
+filmography,P1283
+species kept,P1990
+coordinate location,P625
+by-product of,P2822
+vertical depth,P4511
+stepparent,P3448
+charted in,P2291
+social classification,P3716
+height,P2048
+train depot,P834
+plaintiff,P1620
+risk factor,P5642
+topographic prominence,P2660
+suggests the existence of,P5132
+crystal system,P556
+designated as terrorist by,P3461
+port,P1641
+first appearance,P4584
+exclave of,P500
+seal description,P418
+commander of (DEPRECATED),P598
+writable file format,P1073
+foods traditionally associated,P868
+penalty,P1596
+adjacent building,P3032
+distance from Earth,P2583
+orbital eccentricity,P1096
+temporal range start,P523
+number of injured,P1339
+points/goal scored by,P1363
+time of discovery or invention,P575
+storage device,P4788
+in opposition to,P5004
+has quality,P1552
+elected in,P2715
+executive producer,P1431
+record held,P1000
+repeals,P3148
+announcement date,P6949
+objective of project or action,P3712
+possible medical findings,P5131
+unmarried partner,P451
+election called by,P7508
+valid in period,P1264
+Code of nomenclature,P944
+category combines topics,P971
+intended public,P2360
+drainage basin,P4614
+has anatomical branch,P3262
+anatomical branch of,P3261
+samples from work,P5707
+stellar rotational velocity,P4296
+total produced,P1092
+number of spans,P1314
+employees,P1128
+theme music,P942
+consecrator,P1598
+number of children,P1971
+officially opened by,P542
+pathogen transmission process,P1060
+codomain,P1571
+destroyed,P3082
+narrator,P2438
+scenographer,P4608
+caliber,P4403
+sexual orientation,P91
+place of origin (Switzerland),P1321
+number of representatives in an organization/legislature or won in elections,P1410
+has natural reservoir,P1605
+armament,P520
+date of baptism in early childhood,P1636
+shape,P1419
+first aid measures,P2239
+spacecraft docking/undocking date,P622
+editor-in-chief,P5769
+has pet,P1429
+type of electrification,P930
+statement describes,P2384
+economy of topic,P8744
+this zoological name is coordinate with,P2743
+Gregorian calendar start date,P7295
+time of earliest written record,P1249
+taxa especially protected in area,P6569
+narrative role,P5800
+league level above,P2499
+age of candidacy,P2998
+notation,P913
+solved by,P1136
+criterion used,P1013
+medical examinations,P923
+Mohs' hardness,P1088
+choreographer,P1809
+companion of,P399
+update method,P4387
+age of majority,P2997
+defendant,P1591
+charge,P1595
+designed to carry,P3349
+political coalition,P5832
+public holiday,P832
+godparent,P1290
+number of pages,P1104
+stated in,P248
+socket supported,P1041
+number of platform tracks,P1103
+addressee,P1817
+number of households,P1538
+wears,P3828
+relegated,P2882
+main building contractor,P193
+uses capitalization for,P6106
+wind speed,P5065
+therapeutic area,P4044
+chromosome,P1057
+next crossing downstream,P2674
+next crossing upstream,P2673
+peak bagging classification,P8450
+intangible cultural heritage status,P3259
+translator,P655
+investigated by,P1840
+temporal range end,P524
+accredited by,P5514
+set in environment,P8411
+academic major,P812
+underlies,P567
+art director,P3174
+cites work,P2860
+appears in the form of,P4675
+Fach,P1731
+chief operating officer,P1789
+demonym of,P6271
+metallicity,P2227
+theorised by,P8403
+basic form of government,P122
+connector,P2935
+motto,P1546
+sports competition competed at,P5249
+floors below ground,P1139
+expansion of,P8646
+via,P2825
+official religion,P3075
+street address,P6375
+located in the ecclesiastical territorial entity,P5607
+parish church,P8289
+next higher rank,P3730
+volume as quantity,P2234
+conjugate acid,P4147
+conjugate base,P4149
+approved by,P790
+climbing route,P7309
+territory overlaps,P3179
+number of processor cores,P1141
+mother house,P612
+interleaves with,P514
+on focus list of Wikimedia project,P5008
+lifestyle,P1576
+source of material,P2647
+has grammatical case,P2989
+majority opinion by,P5826
+total goals in career,P6509
+total assists in career,P6545
+binding of software library,P1372
+referee,P1652
+has immediate cause,P1478
+VAT-rate,P2855
+public transport stop,P8453
+camera setup,P4312
+volcano observatory,P3815
+price,P2284
+diaspora,P3833
+egg incubation period,P7770
+number of elevators,P1301
+storyboard artist,P3275
+perimeter,P2547
+member of the deme,P2462
+habitat,P2974
+music video,P6718
+official symbol,P2238
+copyright status,P6216
+time of spacecraft orbit decay,P621
+port of registry,P532
+visitor centre,P2872
+type foundry,P4586
+trophy awarded,P4622
+printed by,P872
+side effect,P1909
+feast day,P841
+ratified by,P6193
+maximum capacity,P1083
+captain,P634
+penalty minutes in career,P6546
+parallax,P2214
+lowest point,P1589
+longest span,P2787
+clearance,P2793
+backup or reserve team or crew,P3015
+spin quantum number,P1122
+coextensive with,P3403
+speed,P2052
+number of wins,P1355
+Human Development Index,P1081
+asteroid family,P744
+rotation period,P2147
+wing configuration,P1654
+school of,P1780
+organized response related to outbreak,P8045
+mandates,P4424
+members have occupation,P3989
+acknowledged,P7137
+together with,P1706
+of,P642
+worn by,P7376
+protocol,P2700
+supported sports team,P6758
+mod of,P7075
+type locality (geology),P2695
+scheduled service destination,P521
+has grammatical mood,P3161
+laws applied,P3014
+generalization of,P7719
+total points in career,P6544
+computes solution to,P2159
+people or cargo transported,P3437
+prize money,P2121
+established from medical condition,P5166
+solid solution series with,P2155
+par,P3530
+wingspan,P2050
+antiparticle,P2152
+venous drainage,P2289
+extinction date,P8556
+home world,P1165
+recording or performance of,P2550
+corporate officer,P2828
+patronym or matronym for this person,P5056
+card network,P4443
+landscape architect,P7514
+number of perpetrators,P3886
+avionics,P878
+number of cases,P1603
+watershed area,P2053
+is pollinator of,P1704
+year of taxon publication,P574
+clock speed,P2149
+minimum age,P2899
+narrative motif,P6962
+asteroid spectral type,P720
+military casualty classification,P1347
+statistical leader,P3279
+victim,P8032
+fandom,P8693
+parallel street,P8702
+enclosure,P3158
+memory capacity,P2928
+invasive to,P5588
+railway signalling system,P3019
+cabinet,P5054
+list of monuments,P1456
+output method,P5196
+does not have part,P3113
+superpartner of,P2376
+has superpartner,P2375
+wavelength,P2808
+biological variant of,P3433
+encoded by,P702
+fuel system,P1211
+film crew member,P3092
+energy storage capacity,P4140
+name version for other gender,P1560
+modified version of,P5059
+conversion to SI unit,P2370
+supervisory board member,P5052
+M sin i,P2051
+produced sound,P4733
+fastest lap,P5053
+density,P2054
+torch lit by,P545
+disjoint union of,P2738
+era name,P6902
+co-driver,P2095
+does not have quality,P6477
+innervates,P3190
+donated by,P1028
+character designer,P8670
+date depicted,P2913
+absolute magnitude,P1457
+recorded at studio or venue,P483
+choral conductor,P5024
+date of burial or cremation,P4602
+data size,P3575
+valid in place,P3005
+collection creator,P6241
+follower of,P1775
+thickness,P2610
+number of clubs,P4999
+animator,P6942
+agonist of,P3772
+appears in the heritage monument list,P2817
+superhuman feature or ability,P2563
+maximum size or capacity,P3559
+number of decimal digits,P7316
+prime factor,P5236
+fictional analog of,P1074
+UTC timezone offset,P2907
+scale,P1752
+facial hair,P8852
+educational stage,P7374
+exhibition history,P608
+typeface/font used,P2739
+applies to people,P6001
+applies to part,P518
+OSI Model layer location,P5805
+month of the year,P2922
+parliamentary term,P2937
+has facet polytope,P1312
+has vertex figure,P1678
+dual to,P1322
+typically sells,P7163
+female population,P1539
+overrules,P4006
+currency symbol description,P489
+date of assent,P7589
+hair color,P1884
+magnetic ordering,P922
+innervated by,P3189
+graph diameter,P7462
+graph girth,P8986
+copyright holder,P3931
+geomorphological unit,P4688
+character role,P453
+complies with,P5009
+instruction set,P1068
+decays to,P816
+Euler characteristic,P6438
+symbol of,P8058
+coolant,P588
+grammatical option indicates,P2591
+has tense,P3103
+relevant qualification,P4968
+introduced feature,P751
+has operator,P8866
+by-product,P2821
+used metre,P2551
+attested in,P5323
+angular resolution,P3439
+chromosome count,P5230
+vapor pressure,P2119
+next lower rank,P3729
+beam,P2261
+surface gravity,P7015
+half-life,P2114
+orbital inclination,P2045
+definition domain,P1568
+record or record progression,P2869
+parity quantum number,P1123
+substrate of,P2414
+highest break,P6590
+towards,P5051
+catalog,P972
+focal length,P2151
+emergency phone number,P2852
+original film format,P3803
+guidance system,P624
+mean age,P4442
+life expectancy,P2250
+conversion to standard unit,P2442
+number of points/goals/set scored,P1351
+taxon synonym,P1420
+fossil found in this unit,P1137
+colonel-in-chief,P3460
+satellite bus,P707
+orbital period,P2146
+lighthouse range,P2929
+orbits completed,P1418
+proxy,P1393
+sexually homologous with,P4545
+research site,P6153
+handedness,P552
+Roman praenomen,P2358
+is pollinated by,P1703
+immediate cause of,P1536
+explosive energy equivalent,P2145
+significant drug interaction,P769
+tournament format,P8127
+global warming potential,P2565
+voting system,P8196
+guest of honor,P967
+group cardinality,P1164
+quotes work,P6166
+neutron number,P1148
+annual energy output,P4131
+retirement age,P3001
+director of archaeological fieldwork,P4345
+bore,P2556
+size designation,P8030
+Roman cognomen,P2365
+speed limit,P3086
+main food source,P1034
+aperture,P7863
+Digital Rights Management system,P1032
+Football Money League rank,P6697
+statement supported by,P3680
+is metaclass for,P8225
+permanent duplicated item,P2959
+ICTV virus genome composition,P4628
+radix,P3264
+distributary,P5998
+Roman agnomen,P2366
+end cause,P1534
+classification of race,P2502
+pendant of,P1639
+solubility,P2177
+students count,P2196
+ordered by,P8004
+less than,P5136
+stereoisomer of,P3364
+regulates (molecular biology),P128
+is verso of,P2682
+water as percent of area,P2927
+time-weighted average exposure limit,P2404
+academic thesis,P1026
+number of platform faces,P5595
+attendance,P1110
+damaged,P3081
+alcohol by volume,P2665
+website account on,P553
+entry receptor,P8339
+muscle insertion,P3491
+public domain date,P3893
+possible creator,P1779
+development of anatomical structure,P4843
+time index,P4895
+defender,P1593
+ortholog,P684
+official color or colors,P6364
+number of casualties,P1590
+arterial supply,P2286
+isospin quantum number,P1126
+mountains classification,P4320
+block size,P2599
+including,P1012
+sitter,P2634
+dedicated heritage entity,P8786
+mode of inheritance,P1199
+voltage,P2436
+game artist,P3080
+has lyrics,P6439
+Vox-ATypI classification,P1878
+symbolizes,P4878
+chivalric order,P550
+graph radius,P7391
+title,P1476
+Erdős number,P2021
+prerequisite,P4967
+copyright representative,P6275
+"references work, tradition or theory",P8371
+possessed by spirit,P4292
+radial velocity,P2216
+number of branches,P8368
+biological phase,P4774
+stroke,P2557
+determination method,P459
+points awarded,P3260
+pKa,P1117
+astronomical filter,P1227
+recording location,P8546
+BBFC rating,P2629
+blocker of,P3774
+funder,P8324
+earliest date,P1319
+payment types accepted,P2851
+number of victims of killer,P1345
+relative to,P2210
+key col,P7479
+principal investigator,P8329
+style of karate,P7406
+prosecutor,P1592
+minimum temperature record,P7422
+source of income,P2770
+quantity buried,P2324
+discharge,P2225
+microstructure,P5589
+academic appointment,P8413
+Unicode block,P5522
+member of military unit,P7779
+means of locomotion,P3512
+gait,P2839
+oath made by,P543
+total shots in career,P6543
+reply to,P2675
+does not have effect,P7167
+account charge / subscription fee,P5897
+number of speakers,P1098
+number of volunteers,P6125
+parliamentary group,P4100
+has pattern,P5422
+narrative age,P6249
+cost,P2130
+plot expanded in,P5940
+residence time of water,P3020
+throughput,P2957
+draft,P2262
+season starts,P4794
+horizontal depth,P5524
+GPU,P2560
+antagonist of,P3773
+online access status,P6954
+day of week,P2894
+positive therapeutic predictor,P3354
+patient of,P3205
+postsynaptic connection,P926
+presynaptic connection,P925
+signed form,P3969
+related category,P7084
+external auditor,P8571
+prohibits,P8739
+maximum gradient,P2595
+located on linear feature,P795
+epithet,P8822
+latest date,P1326
+may prevent,P4954
+payload mass,P4519
+script directionality,P1406
+compression ratio,P1247
+endorsed by,P8001
+supervised by,P7604
+phase point,P873
+direction,P560
+admissible rule in,P2577
+plea,P1437
+number of losses,P1356
+albedo,P4501
+recovered by,P3093
+has listed ingredient,P4543
+patronage,P3872
+docking port,P546
+number of graves,P2351
+author of foreword,P2679
+real estate developer,P6237
+angle from vertical,P4183
+index case of,P1677
+has index case,P1660
+aspect ratio,P2061
+boiling point,P2102
+base,P3263
+decay mode,P817
+antagonist muscle,P2329
+streak color,P534
+slope,P4184
+chassis,P7045
+undercarriage,P1637
+apoapsis,P2243
+nominated by,P4353
+short-term exposure limit,P2407
+target muscle,P6884
+Alexa rank,P1661
+maintenance method,P6440
+maximum temperature record,P6591
+taxa found at location,P6803
+number of arrests,P5582
+moved by,P6939
+student organization of,P6840
+defined daily dose,P4250
+for work,P1686
+exonerated of,P7781
+broader concept,P4900
+gross tonnage,P1093
+net tonnage,P2790
+age estimated by a dating method,P7584

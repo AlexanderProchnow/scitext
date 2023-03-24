@@ -16,6 +16,8 @@ class Rebel():
             "num_return_sequences": 5,
         }
 
+        self.vocab = pd.read_csv('data/rebel_dataset/rebel_vocab.csv')
+
 
     def predict(self, sent: str) -> pd.DataFrame:
         """Predict triples from a sentence.
