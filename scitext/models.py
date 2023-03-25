@@ -3,7 +3,7 @@ from refined.inference.processor import Refined
 
 class Rebel():
     """A class to extract triples from text using REBEL from Babelscape."""
-    def __init__(self):
+    def __init__(self, num_triples: int=5):
         from transformers import AutoModelForSeq2SeqLM, AutoTokenizer
 
         # Load model and tokenizer
@@ -12,8 +12,8 @@ class Rebel():
         self.gen_kwargs = {
             "max_length": 256,
             "length_penalty": 0,
-            "num_beams": 5,
-            "num_return_sequences": 5,
+            "num_beams": num_triples,
+            "num_return_sequences": num_triples
         }
 
         self.vocab = pd.read_csv('data/rebel_dataset/rebel_vocab.csv')

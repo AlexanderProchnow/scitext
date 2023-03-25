@@ -31,13 +31,14 @@ class Paper(PdfReader):
         for page_num in tqdm(range(1, self.number_of_pages)):
             # Extract text from page
             text = self.get_text(page_num)
-            
 
             # Extract relations from page using REBEL
             sentences = sent_tokenize(text)
             for i, sent in enumerate(sentences): #tqdm(enumerate(sentences), total=len(sentences)):
                 # Preprocess sentence
-                sent = "".join(ch for ch in sent if ch not in ['.', ',', '!', '?', '-', '(', ')', ':', ';', '\'', '\n'])
+                sent = "".join(ch for ch in sent if ch not in [
+                    ',', '!', '?', '-', '(', ')', ':', ';', '\'', '\n'#, '.'
+                ])
 
                 # Extract entities from sentence using ReFinEd
                 entities = pd.DataFrame(refined.process_text(sent))
@@ -48,47 +49,73 @@ class Paper(PdfReader):
                 # Extract/predict relations from sentence using REBEL
                 triples = rebel.predict(sent)
 
-                for _, triple in triples.iterrows():
-                    # Search for head and tail in extracted entities
-                    head = triple['head']
-                    tail = triple['tail']
-
-                    head_match = entities[entities['text'].str.contains(head, case=False)]
-                    tail_match = entities[entities['text'].str.contains(tail, case=False)]
-
-                    if len(head_match) == 0 or len(tail_match) == 0:
-                        continue
-
-                    else:
-                        # create entries in the final KG TODO add date handling
-                        for _, h in head_match[head_match['coarse_type'] != 'DATE'].iterrows():
-                            head_entry = rdflib.URIRef(h['predicted_entity'])
-                            for _, t in tail_match[tail_match['coarse_type'] != 'DATE'].iterrows():
-                                if t['coarse_type'] in ['QUANTITY', 'CARDINAL']:
-                                    tail_entry = rdflib.Literal(t['text'])
-                                else:
-                                    tail_entry = rdflib.URIRef(t['predicted_entity'])
-
-                                relation_entry = rebel.vocab[
-                                    rebel.vocab['predicate'].str.match(triple['relation'])
-                                ]
-                                if relation_entry.empty:
-                                    # save unfound relations to file
-                                    with open('data/rebel_dataset/unfound_relations.txt', 'a') as f:
-                                        f.write(triple['relation'] + '\n')
-                                    continue
-
-                                relation_entry = f'https://www.wikidata.org/wiki/Property:{relation_entry["uri"].iloc[0]}'
-                                relation_entry = rdflib.URIRef(relation_entry)
-                                kg.add(head_entry, relation_entry, tail_entry)
+                self._match_and_add(kg, entities, triples, rebel)
 
         return kg
 
 
+    def _match_and_add(self, kg: kglab.KnowledgeGraph, entities: pd.DataFrame, triples: pd.DataFrame,
+                        rebel: Rebel):
+        for _, triple in triples.iterrows():
+            # Search for head and tail in extracted entities
+            head = triple['head']
+            tail = triple['tail']
+
+            head_match = entities[entities['text'].str.contains(head, case=False)]
+            tail_match = entities[entities['text'].str.contains(tail, case=False)]
+
+            if len(head_match) == 0 or len(tail_match) == 0:
+                continue
+
+            # create entries in the final KG TODO add date handling
+            for _, h in head_match[head_match['coarse_type'] != 'DATE'].iterrows():
+                head_entry = self._to_URI(h, kg, head=True)
+                if head_entry is None:
+                    continue
+
+                for _, t in tail_match[tail_match['coarse_type'] != 'DATE'].iterrows():
+                    if t['coarse_type'] in ['QUANTITY', 'CARDINAL']:
+                        tail_entry = rdflib.Literal(t['text'])
+                    else:
+                        tail_entry = self._to_URI(t, kg, head=False) #rdflib.URIRef(t['predicted_entity'])
+
+                    relation_entry = rebel.vocab[
+                        rebel.vocab['predicate'].str.match(triple['relation'])
+                    ]
+                    if relation_entry.empty:
+                        # save unfound relations to file
+                        with open('data/rebel_dataset/unfound_relations.txt', 'a') as f:
+                            f.write(triple['relation'] + '\n')
+                        continue
+
+                    relation_entry = rdflib.URIRef(
+                        f'https://www.wikidata.org/wiki/Property:{relation_entry["uri"].iloc[0]}'
+                    )
+                    print(head_entry, relation_entry, tail_entry)
+                    kg.add(head_entry, relation_entry, tail_entry)
 
 
+    def _to_URI(self, h: pd.Series, kg: kglab.KnowledgeGraph, head: bool) -> rdflib.URIRef:
+        # if no entity predicted, take best candidate
+        # TODO add confidence score of link prediction to KG
+        if h['predicted_entity']['wikidata_entity_id'] == None:
+            if h['candidate_entities']:
+                qid, confidence = h['candidate_entities'][0]
+            else: 
+                if not head:
+                    node = rdflib.Literal(h['text'])
+                    # TODO do always?
+                    # add predicted class to entity, e.g. node a scientist.
+                    # for this, node must be made a IRI
+                    # if h['predicted_entity_types']:
+                    #     qid, name, conf = h['predicted_entity_types'][0]
+                    #     kg.add(node, rdflib.RDF.type, rdflib.URIRef(f'http://www.wikidata.org/wiki/{qid}'))
+                    return node
+                else: return None
+        else:
+            qid = h['predicted_entity']['wikidata_entity_id']
 
-
+        return rdflib.URIRef(f'https://www.wikidata.org/wiki/{qid}')
             
 
 
