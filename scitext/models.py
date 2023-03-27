@@ -1,14 +1,17 @@
 import pandas as pd
 from refined.inference.processor import Refined
+import torch
+
+DEVICE = 'cuda' if torch.cuda.is_available() else 'cpu'
 
 class Rebel():
-    """A class to extract triples from text using REBEL from Babelscape."""
-    def __init__(self, num_triples: int=5):
+    """A class to generate triples from text using REBEL from Babelscape."""
+    def __init__(self, num_triples: int=3):
         from transformers import AutoModelForSeq2SeqLM, AutoTokenizer
 
         # Load model and tokenizer
         self.tokenizer = AutoTokenizer.from_pretrained("Babelscape/rebel-large")
-        self.model = AutoModelForSeq2SeqLM.from_pretrained("Babelscape/rebel-large")
+        self.model = AutoModelForSeq2SeqLM.from_pretrained("Babelscape/rebel-large").to(DEVICE)
         self.gen_kwargs = {
             "max_length": 256,
             "length_penalty": 0,
@@ -25,7 +28,7 @@ class Rebel():
         Code adapted from the REBEL documentation."""
 
         model_inputs = self.tokenizer(sent, max_length=256, padding=True,
-                                       truncation=True, return_tensors = 'pt')
+                                       truncation=True, return_tensors = 'pt').to(DEVICE)
 
         # Generate
         generated_tokens = self.model.generate(
@@ -101,7 +104,8 @@ def load_models() -> tuple[Rebel, Refined]:
     # load ReFinEd
     refined = Refined.from_pretrained(
         model_name='wikipedia_model_with_numbers',
-        entity_set="wikipedia"
+        entity_set="wikipedia",
+        device=DEVICE
     )
 
     # load REBEL

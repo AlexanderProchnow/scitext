@@ -21,7 +21,7 @@ class Paper(PdfReader):
         """Extract text from a specific page."""
         return self.pages[page_num].extract_text()
     
-    # TODO function to extract all images using page.images
+    # TODO function to extract all images using page.images and add them to the KG
     
     def extract_kg(self, refined: Refined, rebel: Rebel) -> kglab.KnowledgeGraph:
         """Extract knowledge graph from a paper."""
