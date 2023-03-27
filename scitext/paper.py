@@ -89,7 +89,8 @@ class Paper(PdfReader):
                         continue
 
                     relation_entry = rdflib.URIRef(
-                        f'https://www.wikidata.org/wiki/Property:{relation_entry["uri"].iloc[0]}'
+                        # f'https://www.wikidata.org/wiki/Property:{relation_entry["uri"].iloc[0]}'
+                        f'http://www.wikidata.org/prop/direct/{relation_entry["uri"].iloc[0]}' 
                     )
                     print(head_entry, relation_entry, tail_entry)
                     kg.add(head_entry, relation_entry, tail_entry)
@@ -115,7 +116,8 @@ class Paper(PdfReader):
         else:
             qid = h['predicted_entity']['wikidata_entity_id']
 
-        return rdflib.URIRef(f'https://www.wikidata.org/wiki/{qid}')
+        # return rdflib.URIRef(f'https://www.wikidata.org/wiki/{qid}')
+        return rdflib.URIRef(f'http://www.wikidata.org/entity/{qid}')
             
 
 
