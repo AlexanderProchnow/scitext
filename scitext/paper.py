@@ -16,6 +16,7 @@ class Paper(PdfReader):
         super().__init__(path)
         self.name = path.stem
         self.number_of_pages = len(self.pages)
+        self.ttl_path = f"{self.name}.ttl"
 
     def get_text(self, page_num: int=1):
         """Extract text from a specific page."""
@@ -23,8 +24,11 @@ class Paper(PdfReader):
     
     # TODO function to extract all images using page.images and add them to the KG
     
-    def extract_kg(self, refined: Refined, rebel: Rebel) -> kglab.KnowledgeGraph:
-        """Extract knowledge graph from a paper."""
+    def extract_kg(self, refined: Refined, rebel: Rebel, confidence_threshold: float=0.5) -> kglab.KnowledgeGraph:
+        """Extract knowledge graph from a paper.
+        
+        confidence_threshold: minimum confidence score for an entity extracted by ReFinEd
+        to be included in the KG."""
         
         kg = kglab.KnowledgeGraph()
 
@@ -45,6 +49,10 @@ class Paper(PdfReader):
 
                 if entities.empty:
                     continue
+
+                # filter entities by confidence, replace NaN with 1 (occurs e.g. by DATE)
+                conf_scores = entities['entity_linking_model_confidence_score'].fillna(1)
+                entities = entities[conf_scores > confidence_threshold]
 
                 # Extract/predict relations from sentence using REBEL
                 triples = rebel.predict(sent)
@@ -99,7 +107,7 @@ class Paper(PdfReader):
     def _to_URI(self, h: pd.Series, kg: kglab.KnowledgeGraph, head: bool) -> rdflib.URIRef:
         # if no entity predicted, take best candidate
         # TODO add confidence score of link prediction to KG
-        if h['predicted_entity']['wikidata_entity_id'] == None:
+        if h['predicted_entity'] == None or h['predicted_entity']['wikidata_entity_id'] == None:
             if h['candidate_entities']:
                 qid, confidence = h['candidate_entities'][0]
             else: 
