@@ -99,7 +99,9 @@ class Rebel():
 def load_models() -> tuple[Rebel, Refined]:
     """Load models for extracting KGs from text.
     
-    This may take up to 1h in total (around 10min for REBEL and 50min for ReFinEd)."""
+    On first execution the model download may take up to 1h in total
+    (around 10min for REBEL and 50min for ReFinEd).
+    """
     
     # load ReFinEd
     refined = Refined.from_pretrained(

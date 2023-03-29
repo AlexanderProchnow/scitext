@@ -65,4 +65,4 @@ def evaluate_kg(path_to_kg: Path, print_summary: bool=False):
 
 
 if __name__ == '__main__':
-    evaluate_kg(Path('../36-ramirez-llodra_gpu.ttl'))
+    evaluate_kg(Path('results/35-arrigo.ttl'), print_summary=True)

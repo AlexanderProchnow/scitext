@@ -1,0 +1,48 @@
+s,slabel,p,plabel,o,olabel,evaluation
+http://www.wikidata.org/entity/Q25819,racemization,http://www.wikidata.org/prop/direct/P1269,facet of,http://www.wikidata.org/entity/Q8066,amino acid,yes
+http://www.wikidata.org/entity/Q3565247,Moffett Federal Airfield,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,yes
+http://www.wikidata.org/entity/Q604029,Scripps Institution of Oceanography,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,yes
+http://www.wikidata.org/entity/Q6244106,John Winebrenner,http://www.wikidata.org/prop/direct/P138,named after,http://www.wikidata.org/entity/Q6244106,John Winebrenner,yes
+http://www.wikidata.org/entity/Q189325,Jet Propulsion Laboratory,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,yes
+http://www.wikidata.org/entity/Q189325,Jet Propulsion Laboratory,http://www.wikidata.org/prop/direct/P749,parent organization,http://www.wikidata.org/entity/Q23548,National Aeronautics and Space Administration,yes
+http://www.wikidata.org/entity/Q189325,Jet Propulsion Laboratory,http://www.wikidata.org/prop/direct/P749,parent organization,http://www.wikidata.org/entity/Q161562,California Institute of Technology,yes
+http://www.wikidata.org/entity/Q3143,Europa,http://www.wikidata.org/prop/direct/P527,has part,http://www.wikidata.org/entity/Q3303,Enceladus,no
+http://www.wikidata.org/entity/Q8066,amino acid,http://www.wikidata.org/prop/direct/P1542,has effect,http://www.wikidata.org/entity/Q25819,racemization,yes
+http://www.wikidata.org/entity/Q5112101,Christopher F. Chyba,http://www.wikidata.org/prop/direct/P131,located in the administrative territorial entity,http://www.wikidata.org/entity/Q5112101,Christopher F. Chyba,no
+http://www.wikidata.org/entity/Q23548,National Aeronautics and Space Administration,http://www.wikidata.org/prop/direct/P355,subsidiary,http://www.wikidata.org/entity/Q189325,Jet Propulsion Laboratory,yes
+http://www.wikidata.org/entity/Q40936,pH,http://www.wikidata.org/prop/direct/P1269,facet of,http://www.wikidata.org/entity/Q3303,Enceladus,no
+http://www.wikidata.org/entity/Q25819,racemization,http://www.wikidata.org/prop/direct/P279,subclass of,http://www.wikidata.org/entity/Q8066,amino acid,no
+http://www.wikidata.org/entity/Q219563,University of Washington,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,yes
+http://www.wikidata.org/entity/Q85756163,Deep Sea Research,http://www.wikidata.org/prop/direct/P1132,number of participants,49,,yes
+http://www.wikidata.org/entity/Q181052,Ames Research Center,http://www.wikidata.org/prop/direct/P749,parent organization,http://www.wikidata.org/entity/Q181052,Ames Research Center,no
+http://www.wikidata.org/entity/Q602303,Armbrust,http://www.wikidata.org/prop/direct/P206,located in or next to body of water,http://www.wikidata.org/entity/Q602303,Armbrust,no
+http://www.wikidata.org/entity/Q10876,bacteria,http://www.wikidata.org/prop/direct/P1889,different from,http://www.wikidata.org/entity/Q162678,Diatomea,yes
+http://www.wikidata.org/entity/Q181052,Ames Research Center,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,yes
+http://www.wikidata.org/entity/Q1708210,Princeton University Press,http://www.wikidata.org/prop/direct/P159,headquarters location,Princeton USA,,yes
+http://www.wikidata.org/entity/Q23548,National Aeronautics and Space Administration,http://www.wikidata.org/prop/direct/P355,subsidiary,Planetary Science Division,,yes
+http://www.wikidata.org/entity/Q39833,microorganism,http://www.wikidata.org/prop/direct/P279,subclass of,http://www.wikidata.org/entity/Q39833,microorganism,yes
+http://www.wikidata.org/entity/Q840668,La Jolla,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,yes
+http://www.wikidata.org/entity/Q189325,Jet Propulsion Laboratory,http://www.wikidata.org/prop/direct/P355,subsidiary,http://www.wikidata.org/entity/Q189325,Jet Propulsion Laboratory,no
+http://www.wikidata.org/entity/Q162678,Diatomea,http://www.wikidata.org/prop/direct/P2670,has parts of the class,http://www.wikidata.org/entity/Q10876,bacteria,no
+http://www.wikidata.org/entity/Q189325,Jet Propulsion Laboratory,http://www.wikidata.org/prop/direct/P159,headquarters location,http://www.wikidata.org/entity/Q485176,Pasadena,yes
+http://www.wikidata.org/entity/Q22908384,Figure 1,http://www.wikidata.org/prop/direct/P180,depicts,http://www.wikidata.org/entity/Q2,Earth,yes
+http://www.wikidata.org/entity/Q602303,Armbrust,http://www.wikidata.org/prop/direct/P138,named after,http://www.wikidata.org/entity/Q602303,Armbrust,no
+http://www.wikidata.org/entity/Q18537,biomass,http://www.wikidata.org/prop/direct/P279,subclass of,http://www.wikidata.org/entity/Q18537,biomass,no
+http://www.wikidata.org/entity/Q23548,National Aeronautics and Space Administration,http://www.wikidata.org/prop/direct/P355,subsidiary,Planetary Science and Technology from Analog Research,,yes
+http://www.wikidata.org/entity/Q3303,Enceladus,http://www.wikidata.org/prop/direct/P47,shares border with,http://www.wikidata.org/entity/Q3143,Europa,no
+http://www.wikidata.org/entity/Q249373,Johns Hopkins University Applied Physics Laboratory,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,yes
+http://www.wikidata.org/entity/Q755275,Laurel,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,no
+http://www.wikidata.org/entity/Q181052,Ames Research Center,http://www.wikidata.org/prop/direct/P355,subsidiary,http://www.wikidata.org/entity/Q181052,Ames Research Center,no
+http://www.wikidata.org/entity/Q622664,"University of California, San Diego",http://www.wikidata.org/prop/direct/P527,has part,http://www.wikidata.org/entity/Q604029,Scripps Institution of Oceanography,yes
+http://www.wikidata.org/entity/Q3143,Europa,http://www.wikidata.org/prop/direct/P47,shares border with,http://www.wikidata.org/entity/Q3303,Enceladus,no
+http://www.wikidata.org/entity/Q485176,Pasadena,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,yes
+http://www.wikidata.org/entity/Q189325,Jet Propulsion Laboratory,http://www.wikidata.org/prop/direct/P749,parent organization,http://www.wikidata.org/entity/Q189325,Jet Propulsion Laboratory,no
+http://www.wikidata.org/entity/Q162678,Diatomea,http://www.wikidata.org/prop/direct/P279,subclass of,http://www.wikidata.org/entity/Q10876,bacteria,no
+http://www.wikidata.org/entity/Q6244106,John Winebrenner,http://www.wikidata.org/prop/direct/P1056,product or material produced,http://www.wikidata.org/entity/Q6244106,John Winebrenner,no
+http://www.wikidata.org/entity/Q18537,biomass,http://www.wikidata.org/prop/direct/P527,has part,http://www.wikidata.org/entity/Q181394,nutrient,yes
+http://www.wikidata.org/entity/Q162678,Diatomea,http://www.wikidata.org/prop/direct/P1889,different from,http://www.wikidata.org/entity/Q10876,bacteria,yes
+http://www.wikidata.org/entity/Q622664,"University of California, San Diego",http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,yes
+http://www.wikidata.org/entity/Q602303,Armbrust,http://www.wikidata.org/prop/direct/P131,located in the administrative territorial entity,http://www.wikidata.org/entity/Q602303,Armbrust,no
+http://www.wikidata.org/entity/Q249373,Johns Hopkins University Applied Physics Laboratory,http://www.wikidata.org/prop/direct/P131,located in the administrative territorial entity,http://www.wikidata.org/entity/Q755275,Laurel,yes
+http://www.wikidata.org/entity/Q3304561,marine ecosystem,http://www.wikidata.org/prop/direct/P31,instance of,http://www.wikidata.org/entity/Q3304561,marine ecosystem,yes
+http://www.wikidata.org/entity/Q219563,University of Washington,http://www.wikidata.org/prop/direct/P131,located in the administrative territorial entity,http://www.wikidata.org/entity/Q219563,University of Washington,no

@@ -1,0 +1,114 @@
+@prefix ns1: <http://www.wikidata.org/prop/direct/> .
+
+<http://www.wikidata.org/entity/Q1047293> ns1:P17 <http://www.wikidata.org/entity/Q30> .
+
+<http://www.wikidata.org/entity/Q113081> ns1:P26 "C. Wunsch" ;
+    ns1:P3373 "C. Wunsch" .
+
+<http://www.wikidata.org/entity/Q1404053> ns1:P131 <http://www.wikidata.org/entity/Q771>,
+        "Christopher R. German" ;
+    ns1:P17 <http://www.wikidata.org/entity/Q30> .
+
+<http://www.wikidata.org/entity/Q23406> ns1:P361 <http://www.wikidata.org/entity/Q3301962> .
+
+<http://www.wikidata.org/entity/Q298> ns1:P206 <http://www.wikidata.org/entity/Q98> .
+
+<http://www.wikidata.org/entity/Q3565247> ns1:P17 <http://www.wikidata.org/entity/Q30> .
+
+<http://www.wikidata.org/entity/Q411> ns1:P674 "Enceladus Orbilander" .
+
+<http://www.wikidata.org/entity/Q4201942> ns1:P3373 "F. Nimmo" .
+
+<http://www.wikidata.org/entity/Q464704> ns1:P131 <http://www.wikidata.org/entity/Q61> ;
+    ns1:P159 <http://www.wikidata.org/entity/Q61> .
+
+<http://www.wikidata.org/entity/Q485176> ns1:P17 <http://www.wikidata.org/entity/Q30> .
+
+<http://www.wikidata.org/entity/Q49108> ns1:P159 <http://www.wikidata.org/entity/Q49111> ;
+    ns1:P17 <http://www.wikidata.org/entity/Q30> .
+
+<http://www.wikidata.org/entity/Q5172902> ns1:P123 <http://www.wikidata.org/entity/Q35794> ;
+    ns1:P361 <http://www.wikidata.org/entity/Q35794> ;
+    ns1:P664 <http://www.wikidata.org/entity/Q35794> .
+
+<http://www.wikidata.org/entity/Q58705> ns1:P361 <http://www.wikidata.org/entity/Q98> .
+
+<http://www.wikidata.org/entity/Q670897> ns1:P131 <http://www.wikidata.org/entity/Q51685> ;
+    ns1:P17 <http://www.wikidata.org/entity/Q30> .
+
+<http://www.wikidata.org/entity/Q1045138> ns1:P361 <http://www.wikidata.org/entity/Q544> .
+
+<http://www.wikidata.org/entity/Q1193928> ns1:P47 <http://www.wikidata.org/entity/Q7354> ;
+    ns1:P527 <http://www.wikidata.org/entity/Q7354> .
+
+<http://www.wikidata.org/entity/Q1527> ns1:P17 <http://www.wikidata.org/entity/Q30> .
+
+<http://www.wikidata.org/entity/Q15637513> ns1:P127 <http://www.wikidata.org/entity/Q23548> ;
+    ns1:P137 <http://www.wikidata.org/entity/Q23548> .
+
+<http://www.wikidata.org/entity/Q165585> ns1:P155 <http://www.wikidata.org/entity/Q3303> ;
+    ns1:P2578 <http://www.wikidata.org/entity/Q3303> .
+
+<http://www.wikidata.org/entity/Q17141164> ns1:P50 <http://www.wikidata.org/entity/Q17141164> .
+
+<http://www.wikidata.org/entity/Q188> ns1:P2936 <http://www.wikidata.org/entity/Q188> .
+
+<http://www.wikidata.org/entity/Q319> ns1:P527 <http://www.wikidata.org/entity/Q3143> .
+
+<http://www.wikidata.org/entity/Q49111> ns1:P17 <http://www.wikidata.org/entity/Q30> .
+
+<http://www.wikidata.org/entity/Q51685> ns1:P17 <http://www.wikidata.org/entity/Q30> .
+
+<http://www.wikidata.org/entity/Q544> ns1:P527 <http://www.wikidata.org/entity/Q1045138> .
+
+<http://www.wikidata.org/entity/Q5533966> ns1:P31 <http://www.wikidata.org/entity/Q5533966> .
+
+<http://www.wikidata.org/entity/Q623> ns1:P527 <http://www.wikidata.org/entity/Q677> .
+
+<http://www.wikidata.org/entity/Q677> ns1:P527 <http://www.wikidata.org/entity/Q623> .
+
+<http://www.wikidata.org/entity/Q7318406> ns1:P921 <http://www.wikidata.org/entity/Q7318406> .
+
+<http://www.wikidata.org/entity/Q80796> ns1:P577 "4124–124" ;
+    ns1:P921 <http://www.wikidata.org/entity/Q80796> .
+
+<http://www.wikidata.org/entity/Q181052> ns1:P17 <http://www.wikidata.org/entity/Q30> ;
+    ns1:P355 <http://www.wikidata.org/entity/Q181052> ;
+    ns1:P749 <http://www.wikidata.org/entity/Q181052> .
+
+<http://www.wikidata.org/entity/Q189325> ns1:P17 <http://www.wikidata.org/entity/Q30> ;
+    ns1:P355 <http://www.wikidata.org/entity/Q189325> ;
+    ns1:P749 <http://www.wikidata.org/entity/Q189325> .
+
+<http://www.wikidata.org/entity/Q22908384> ns1:P180 <http://www.wikidata.org/entity/Q22908384> ;
+    ns1:P2043 <http://www.wikidata.org/entity/Q22908384> .
+
+<http://www.wikidata.org/entity/Q23548> ns1:P1830 <http://www.wikidata.org/entity/Q15637513> .
+
+<http://www.wikidata.org/entity/Q3143> ns1:P361 <http://www.wikidata.org/entity/Q319> ;
+    ns1:P527 <http://www.wikidata.org/entity/Q3303> .
+
+<http://www.wikidata.org/entity/Q56173831> ns1:P131 <http://www.wikidata.org/entity/Q56173831> ;
+    ns1:P138 <http://www.wikidata.org/entity/Q56173831> .
+
+<http://www.wikidata.org/entity/Q6244106> ns1:P1056 <http://www.wikidata.org/entity/Q6244106> ;
+    ns1:P138 <http://www.wikidata.org/entity/Q6244106> .
+
+<http://www.wikidata.org/entity/Q7354> ns1:P47 <http://www.wikidata.org/entity/Q1193928> .
+
+<http://www.wikidata.org/entity/Q3303> ns1:P156 <http://www.wikidata.org/entity/Q165585> ;
+    ns1:P361 <http://www.wikidata.org/entity/Q3143> .
+
+<http://www.wikidata.org/entity/Q644521> ns1:P31 <http://www.wikidata.org/entity/Q644521> ;
+    ns1:P361 <http://www.wikidata.org/entity/Q644521> ;
+    ns1:P527 <http://www.wikidata.org/entity/Q644521> .
+
+<http://www.wikidata.org/entity/Q852508> ns1:P138 <http://www.wikidata.org/entity/Q852508> ;
+    ns1:P1889 <http://www.wikidata.org/entity/Q852508> ;
+    ns1:P31 <http://www.wikidata.org/entity/Q852508> .
+
+<http://www.wikidata.org/entity/Q98> ns1:P31 <http://www.wikidata.org/entity/Q98> .
+
+<http://www.wikidata.org/entity/Q30> ns1:P150 <http://www.wikidata.org/entity/Q1527> ;
+    ns1:P206 <http://www.wikidata.org/entity/Q98> .
+

@@ -1,0 +1,49 @@
+@prefix ns1: <http://www.wikidata.org/prop/direct/> .
+
+<http://www.wikidata.org/entity/Q47509047> ns1:P277 <http://www.wikidata.org/entity/Q28865> .
+
+<http://www.wikidata.org/entity/Q1231558> ns1:P279 <http://www.wikidata.org/entity/Q1231558> .
+
+<http://www.wikidata.org/entity/Q131566> ns1:P355 <http://www.wikidata.org/entity/Q1666471> .
+
+<http://www.wikidata.org/entity/Q15709949> ns1:P279 <http://www.wikidata.org/entity/Q15709949> .
+
+<http://www.wikidata.org/entity/Q1666471> ns1:P749 <http://www.wikidata.org/entity/Q131566> .
+
+<http://www.wikidata.org/entity/Q172491> ns1:P127 <http://www.wikidata.org/entity/Q14772> ;
+    ns1:P749 <http://www.wikidata.org/entity/Q14772> .
+
+<http://www.wikidata.org/entity/Q4501917> ns1:P17 <http://www.wikidata.org/entity/Q4501917> .
+
+<http://www.wikidata.org/entity/Q14772> ns1:P355 <http://www.wikidata.org/entity/Q172491> .
+
+<http://www.wikidata.org/entity/Q1961016> ns1:P131 <http://www.wikidata.org/entity/Q1961016> ;
+    ns1:P31 <http://www.wikidata.org/entity/Q1961016> ;
+    ns1:P571 "2440–24" ;
+    ns1:P577 "2440–24" ;
+    ns1:P580 "2440–24" .
+
+<http://www.wikidata.org/entity/Q3828114> ns1:P361 <http://www.wikidata.org/entity/Q3828114> ;
+    ns1:P527 <http://www.wikidata.org/entity/Q3828114> .
+
+<http://www.wikidata.org/entity/Q863401> ns1:P123 <http://www.wikidata.org/entity/Q863401> ;
+    ns1:P50 <http://www.wikidata.org/entity/Q863401> .
+
+<http://www.wikidata.org/entity/Q15131386> ns1:P3983 <http://www.wikidata.org/entity/Q15131386> ;
+    ns1:P415 <http://www.wikidata.org/entity/Q15131386> ;
+    ns1:P585 <http://www.wikidata.org/entity/Q15131386> .
+
+<http://www.wikidata.org/entity/Q2739680> ns1:P127 <http://www.wikidata.org/entity/Q2739680> ;
+    ns1:P1416 <http://www.wikidata.org/entity/Q2739680> ;
+    ns1:P585 "922–929" ;
+    ns1:P749 <http://www.wikidata.org/entity/Q2739680> .
+
+<http://www.wikidata.org/entity/Q73820> ns1:P31 <http://www.wikidata.org/entity/Q73820> ;
+    ns1:P355 <http://www.wikidata.org/entity/Q73820> ;
+    ns1:P749 <http://www.wikidata.org/entity/Q73820> .
+
+<http://www.wikidata.org/entity/Q5099725> ns1:P17 <http://www.wikidata.org/entity/Q5099725> ;
+    ns1:P31 <http://www.wikidata.org/entity/Q5099725> ;
+    ns1:P355 <http://www.wikidata.org/entity/Q5099725> ;
+    ns1:P749 <http://www.wikidata.org/entity/Q5099725> .
+

@@ -1,0 +1,56 @@
+@prefix ns1: <http://www.wikidata.org/prop/direct/> .
+
+<http://www.wikidata.org/entity/Q1337483> ns1:P577 "14185–189" .
+
+<http://www.wikidata.org/entity/Q15637513> ns1:P137 <http://www.wikidata.org/entity/Q23548> .
+
+<http://www.wikidata.org/entity/Q223> ns1:P30 <http://www.wikidata.org/entity/Q51> .
+
+<http://www.wikidata.org/entity/Q2928358> ns1:P131 <http://www.wikidata.org/entity/Q61> ;
+    ns1:P159 <http://www.wikidata.org/entity/Q61> .
+
+<http://www.wikidata.org/entity/Q3233780> ns1:P355 "the Space Studies Board SSB" .
+
+<http://www.wikidata.org/entity/Q5112> ns1:P17 <http://www.wikidata.org/entity/Q408> .
+
+<http://www.wikidata.org/entity/Q681447> ns1:P527 "NASEM 2018" .
+
+<http://www.wikidata.org/entity/Q6970107> ns1:P131 <http://www.wikidata.org/entity/Q61> ;
+    ns1:P159 <http://www.wikidata.org/entity/Q61> ;
+    ns1:P740 <http://www.wikidata.org/entity/Q61> .
+
+<http://www.wikidata.org/entity/Q7813481> ns1:P156 "CassiniHuygens" .
+
+<http://www.wikidata.org/entity/Q20712647> ns1:P361 <http://www.wikidata.org/entity/Q219563> ;
+    ns1:P749 <http://www.wikidata.org/entity/Q219563> .
+
+<http://www.wikidata.org/entity/Q214700> ns1:P355 <http://www.wikidata.org/entity/Q934589> .
+
+<http://www.wikidata.org/entity/Q934589> ns1:P159 <http://www.wikidata.org/entity/Q192517> ;
+    ns1:P749 <http://www.wikidata.org/entity/Q214700> .
+
+<http://www.wikidata.org/entity/Q1147312> ns1:P101 <http://www.wikidata.org/entity/Q2> ;
+    ns1:P355 <http://www.wikidata.org/entity/Q1147312> ;
+    ns1:P749 <http://www.wikidata.org/entity/Q1147312> .
+
+<http://www.wikidata.org/entity/Q1162568> ns1:P355 <http://www.wikidata.org/entity/Q1115753> ;
+    ns1:P527 <http://www.wikidata.org/entity/Q1115753> .
+
+<http://www.wikidata.org/entity/Q12599> ns1:P1889 <http://www.wikidata.org/entity/Q35666> ;
+    ns1:P279 <http://www.wikidata.org/entity/Q35666> .
+
+<http://www.wikidata.org/entity/Q219563> ns1:P355 <http://www.wikidata.org/entity/Q20712647> .
+
+<http://www.wikidata.org/entity/Q23548> ns1:P159 <http://www.wikidata.org/entity/Q61> ;
+    ns1:P355 <http://www.wikidata.org/entity/Q1115753>,
+        <http://www.wikidata.org/entity/Q179103>,
+        <http://www.wikidata.org/entity/Q42262> ;
+    ns1:P54 <http://www.wikidata.org/entity/Q1115753> .
+
+<http://www.wikidata.org/entity/Q35666> ns1:P1889 <http://www.wikidata.org/entity/Q12599> ;
+    ns1:P279 <http://www.wikidata.org/entity/Q12599> .
+
+<http://www.wikidata.org/entity/Q1115753> ns1:P361 <http://www.wikidata.org/entity/Q1162568> ;
+    ns1:P749 <http://www.wikidata.org/entity/Q1162568>,
+        <http://www.wikidata.org/entity/Q23548> .
+
