@@ -1,0 +1,26 @@
+@prefix ns1: <http://www.wikidata.org/prop/direct/> .
+
+<http://www.wikidata.org/entity/Q131566> ns1:P131 <http://www.wikidata.org/entity/Q16555> ;
+    ns1:P159 <http://www.wikidata.org/entity/Q16555> ;
+    ns1:P740 <http://www.wikidata.org/entity/Q16555> .
+
+<http://www.wikidata.org/entity/Q28470421> ns1:P2283 "TensorflowTM" .
+
+<http://www.wikidata.org/entity/Q611360> ns1:P749 "SIIT Thammasat University" .
+
+<http://www.wikidata.org/entity/Q7301484> ns1:P131 <http://www.wikidata.org/entity/Q65>,
+        "CA2009" .
+
+<http://www.wikidata.org/entity/Q83813> ns1:P17 <http://www.wikidata.org/entity/Q30> .
+
+<http://www.wikidata.org/entity/Q5051810> ns1:P279 <http://www.wikidata.org/entity/Q5051810> .
+
+<http://www.wikidata.org/entity/Q5970536> ns1:P178 <http://www.wikidata.org/entity/Q5970536> ;
+    ns1:P2283 "UTC" .
+
+<http://www.wikidata.org/entity/Q29037> ns1:P361 <http://www.wikidata.org/entity/Q29037> ;
+    ns1:P527 <http://www.wikidata.org/entity/Q29037> .
+
+<http://www.wikidata.org/entity/Q7554146> ns1:P279 <http://www.wikidata.org/entity/Q7554146> ;
+    ns1:P31 <http://www.wikidata.org/entity/Q7554146> .
+

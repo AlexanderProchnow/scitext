@@ -1,0 +1,106 @@
+s,slabel,p,plabel,o,olabel,evaluation
+http://www.wikidata.org/entity/Q5084107,Charleston Bump,http://www.wikidata.org/prop/direct/P200,inflows,http://www.wikidata.org/entity/Q130905,Gulf Stream,yes
+http://www.wikidata.org/entity/Q747172,Woods Hole,http://www.wikidata.org/prop/direct/P17,country,MA USA,,no
+http://www.wikidata.org/entity/Q1887075,marine energy,http://www.wikidata.org/prop/direct/P361,part of,North Carolina Renewable Ocean Energy Program,,yes
+http://www.wikidata.org/entity/Q41087,Raleigh,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,no
+http://www.wikidata.org/entity/Q978032,Cape Hatteras,http://www.wikidata.org/prop/direct/P974,tributary,http://www.wikidata.org/entity/Q130905,Gulf Stream,no
+http://www.wikidata.org/entity/Q978032,Cape Hatteras,http://www.wikidata.org/prop/direct/P206,located in or next to body of water,http://www.wikidata.org/entity/Q130905,Gulf Stream,no
+http://www.wikidata.org/entity/Q130905,Gulf Stream,http://www.wikidata.org/prop/direct/P706,located on terrain feature,http://www.wikidata.org/entity/Q97,Atlantic Ocean,yes
+http://www.wikidata.org/entity/Q130905,Gulf Stream,http://www.wikidata.org/prop/direct/P403,mouth of the watercourse,http://www.wikidata.org/entity/Q978032,Cape Hatteras,no
+http://www.wikidata.org/entity/Q18389,New England,http://www.wikidata.org/prop/direct/P206,located in or next to body of water,http://www.wikidata.org/entity/Q130905,Gulf Stream,no
+http://www.wikidata.org/entity/Q16552,San Diego,http://www.wikidata.org/prop/direct/P131,located in the administrative territorial entity,http://www.wikidata.org/entity/Q99,California,yes
+http://www.wikidata.org/entity/Q1454,North Carolina,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,yes
+http://www.wikidata.org/entity/Q5084107,Charleston Bump,http://www.wikidata.org/prop/direct/P206,located in or next to body of water,South Atlantic Bight,,yes
+http://www.wikidata.org/entity/Q14686831,Skidaway Institute of Oceanography,http://www.wikidata.org/prop/direct/P131,located in the administrative territorial entity,University of Georgia Savannah,,yes
+http://www.wikidata.org/entity/Q978032,Cape Hatteras,http://www.wikidata.org/prop/direct/P131,located in the administrative territorial entity,http://www.wikidata.org/entity/Q1428,Georgia,no
+http://www.wikidata.org/entity/Q130905,Gulf Stream,http://www.wikidata.org/prop/direct/P131,located in the administrative territorial entity,http://www.wikidata.org/entity/Q7059964,Northwest Atlantic Marine Ecozone,yes
+http://www.wikidata.org/entity/Q978032,Cape Hatteras,http://www.wikidata.org/prop/direct/P206,located in or next to body of water,Todd 2020,,no
+http://www.wikidata.org/entity/Q7245622,Muni Long,http://www.wikidata.org/prop/direct/P3373,sibling,Csanady G.T.,,no
+http://www.wikidata.org/entity/Q5084107,Charleston Bump,http://www.wikidata.org/prop/direct/P361,part of,http://www.wikidata.org/entity/Q130905,Gulf Stream,yes
+http://www.wikidata.org/entity/Q16963710,Mid-Atlantic Bight,http://www.wikidata.org/prop/direct/P361,part of,http://www.wikidata.org/entity/Q16963710,Mid-Atlantic Bight,no
+http://www.wikidata.org/entity/Q978032,Cape Hatteras,http://www.wikidata.org/prop/direct/P131,located in the administrative territorial entity,http://www.wikidata.org/entity/Q1454,North Carolina,yes
+http://www.wikidata.org/entity/Q130905,Gulf Stream,http://www.wikidata.org/prop/direct/P206,located in or next to body of water,http://www.wikidata.org/entity/Q97,Atlantic Ocean,yes
+http://www.wikidata.org/entity/Q5084107,Charleston Bump,http://www.wikidata.org/prop/direct/P206,located in or next to body of water,http://www.wikidata.org/entity/Q130905,Gulf Stream,yes
+http://www.wikidata.org/entity/Q232912,Florida Strait,http://www.wikidata.org/prop/direct/P361,part of,http://www.wikidata.org/entity/Q130905,Gulf Stream,yes
+http://www.wikidata.org/entity/Q1066823,National Weather Service,http://www.wikidata.org/prop/direct/P749,parent organization,http://www.wikidata.org/entity/Q1066823,National Weather Service,no
+http://www.wikidata.org/entity/Q193401,Cape Canaveral,http://www.wikidata.org/prop/direct/P206,located in or next to body of water,South Atlantic Bight SAB,,yes
+http://www.wikidata.org/entity/Q7273704,R. J. Berg,http://www.wikidata.org/prop/direct/P3373,sibling,http://www.wikidata.org/entity/Q8007977,William Downie Stewart Sr,no
+http://www.wikidata.org/entity/Q1404053,Woods Hole Oceanographic Institution,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,yes
+http://www.wikidata.org/entity/Q978032,Cape Hatteras,http://www.wikidata.org/prop/direct/P206,located in or next to body of water,the Hatteras Front,,no
+http://www.wikidata.org/entity/Q130905,Gulf Stream,http://www.wikidata.org/prop/direct/P2043,length,1 m,,no
+http://www.wikidata.org/entity/Q130905,Gulf Stream,http://www.wikidata.org/prop/direct/P361,part of,http://www.wikidata.org/entity/Q97,Atlantic Ocean,yes
+http://www.wikidata.org/entity/Q377397,Cornillon,http://www.wikidata.org/prop/direct/P131,located in the administrative territorial entity,http://www.wikidata.org/entity/Q377397,Cornillon,yes
+http://www.wikidata.org/entity/Q14686831,Skidaway Institute of Oceanography,http://www.wikidata.org/prop/direct/P749,parent organization,the University North Carolina at Chapel Hill,,no
+http://www.wikidata.org/entity/Q978032,Cape Hatteras,http://www.wikidata.org/prop/direct/P206,located in or next to body of water,http://www.wikidata.org/entity/Q16963710,Mid-Atlantic Bight,yes
+http://www.wikidata.org/entity/Q130905,Gulf Stream,http://www.wikidata.org/prop/direct/P206,located in or next to body of water,http://www.wikidata.org/entity/Q7059964,Northwest Atlantic Marine Ecozone,yes
+http://www.wikidata.org/entity/Q2627617,freshet,http://www.wikidata.org/prop/direct/P279,subclass of,http://www.wikidata.org/entity/Q2627617,freshet,no
+http://www.wikidata.org/entity/Q134851,continental shelf,http://www.wikidata.org/prop/direct/P279,subclass of,shelf gliders,,no
+http://www.wikidata.org/entity/Q978032,Cape Hatteras,http://www.wikidata.org/prop/direct/P206,located in or next to body of water,South Atlantic Bight SAB,,no
+http://www.wikidata.org/entity/Q1274195,European Centre for Medium-Range Weather Forecasts,http://www.wikidata.org/prop/direct/P127,owned by,European Center for Medium Range Weather Forecast,,no
+http://www.wikidata.org/entity/Q130905,Gulf Stream,http://www.wikidata.org/prop/direct/P2044,elevation above sea level,1 m,,no
+http://www.wikidata.org/entity/Q192334,University of North Carolina at Chapel Hill,http://www.wikidata.org/prop/direct/P749,parent organization,http://www.wikidata.org/entity/Q1132346,North Carolina State University,no
+http://www.wikidata.org/entity/Q130905,Gulf Stream,http://www.wikidata.org/prop/direct/P206,located in or next to body of water,South Atlantic Bight,,yes
+http://www.wikidata.org/entity/Q130905,Gulf Stream,http://www.wikidata.org/prop/direct/P706,located on terrain feature,http://www.wikidata.org/entity/Q18389,New England,no
+http://www.wikidata.org/entity/Q1797362,coastal engineering,http://www.wikidata.org/prop/direct/P279,subclass of,http://www.wikidata.org/entity/Q1797362,coastal engineering,no
+http://www.wikidata.org/entity/Q130905,Gulf Stream,http://www.wikidata.org/prop/direct/P2046,area,1 m,,no
+http://www.wikidata.org/entity/Q1268108,Wera of Utrecht,http://www.wikidata.org/prop/direct/P31,instance of,http://www.wikidata.org/entity/Q5138361,Coastal ocean dynamics applications radar,no
+http://www.wikidata.org/entity/Q978032,Cape Hatteras,http://www.wikidata.org/prop/direct/P206,located in or next to body of water,http://www.wikidata.org/entity/Q232912,Florida Strait,no
+http://www.wikidata.org/entity/Q1132346,North Carolina State University,http://www.wikidata.org/prop/direct/P131,located in the administrative territorial entity,http://www.wikidata.org/entity/Q1454,North Carolina,yes
+http://www.wikidata.org/entity/Q2627617,freshet,http://www.wikidata.org/prop/direct/P2044,elevation above sea level,30,,yes
+http://www.wikidata.org/entity/Q16963710,Mid-Atlantic Bight,http://www.wikidata.org/prop/direct/P31,instance of,http://www.wikidata.org/entity/Q16963710,Mid-Atlantic Bight,no
+http://www.wikidata.org/entity/Q130905,Gulf Stream,http://www.wikidata.org/prop/direct/P131,located in the administrative territorial entity,http://www.wikidata.org/entity/Q18389,New England,no
+http://www.wikidata.org/entity/Q130905,Gulf Stream,http://www.wikidata.org/prop/direct/P206,located in or next to body of water,The Slope Sea,,yes
+http://www.wikidata.org/entity/Q1454,North Carolina,http://www.wikidata.org/prop/direct/P150,contains administrative territorial entity,http://www.wikidata.org/entity/Q978032,Cape Hatteras,yes
+http://www.wikidata.org/entity/Q1277776,East Carolina University,http://www.wikidata.org/prop/direct/P131,located in the administrative territorial entity,http://www.wikidata.org/entity/Q2025239,Wanchese,no
+http://www.wikidata.org/entity/Q7245622,Muni Long,http://www.wikidata.org/prop/direct/P26,spouse,Csanady G.T.,,no
+http://www.wikidata.org/entity/Q978032,Cape Hatteras,http://www.wikidata.org/prop/direct/P206,located in or next to body of water,South Atlantic Bight,,no
+http://www.wikidata.org/entity/Q232912,Florida Strait,http://www.wikidata.org/prop/direct/P527,has part,http://www.wikidata.org/entity/Q130905,Gulf Stream,yes
+http://www.wikidata.org/entity/Q2747220,The Carolinas,http://www.wikidata.org/prop/direct/P793,significant event,http://www.wikidata.org/entity/Q56552345,Hurricane Florence,yes
+http://www.wikidata.org/entity/Q1404053,Woods Hole Oceanographic Institution,http://www.wikidata.org/prop/direct/P131,located in the administrative territorial entity,MA USA,,yes
+http://www.wikidata.org/entity/Q1132346,North Carolina State University,http://www.wikidata.org/prop/direct/P131,located in the administrative territorial entity,http://www.wikidata.org/entity/Q41087,Raleigh,yes
+http://www.wikidata.org/entity/Q99,California,http://www.wikidata.org/prop/direct/P150,contains administrative territorial entity,http://www.wikidata.org/entity/Q16552,San Diego,yes
+http://www.wikidata.org/entity/Q232912,Florida Strait,http://www.wikidata.org/prop/direct/P31,instance of,http://www.wikidata.org/entity/Q130905,Gulf Stream,no
+http://www.wikidata.org/entity/Q161419,Oceanus,http://www.wikidata.org/prop/direct/P361,part of,http://www.wikidata.org/entity/Q161419,Oceanus,no
+http://www.wikidata.org/entity/Q130905,Gulf Stream,http://www.wikidata.org/prop/direct/P131,located in the administrative territorial entity,http://www.wikidata.org/entity/Q1454,North Carolina,yes
+http://www.wikidata.org/entity/Q1024499,"Conductivity, temperature, depth",http://www.wikidata.org/prop/direct/P279,subclass of,rawindsonde,,no
+http://www.wikidata.org/entity/Q2025239,Wanchese,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,no
+http://www.wikidata.org/entity/Q978032,Cape Hatteras,http://www.wikidata.org/prop/direct/P206,located in or next to body of water,MidAtlantic Bight,,yes
+http://www.wikidata.org/entity/Q1066823,National Weather Service,http://www.wikidata.org/prop/direct/P361,part of,http://www.wikidata.org/entity/Q1066823,National Weather Service,no
+http://www.wikidata.org/entity/Q5546752,Georges Bank,http://www.wikidata.org/prop/direct/P706,located on terrain feature,Slope Sea,,yes
+http://www.wikidata.org/entity/Q130905,Gulf Stream,http://www.wikidata.org/prop/direct/P706,located on terrain feature,http://www.wikidata.org/entity/Q7059964,Northwest Atlantic Marine Ecozone,yes
+http://www.wikidata.org/entity/Q1132346,North Carolina State University,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,yes
+http://www.wikidata.org/entity/Q1066823,National Weather Service,http://www.wikidata.org/prop/direct/P355,subsidiary,http://www.wikidata.org/entity/Q1066823,National Weather Service,no
+http://www.wikidata.org/entity/Q8007977,William Downie Stewart Sr,http://www.wikidata.org/prop/direct/P3373,sibling,http://www.wikidata.org/entity/Q7273704,R. J. Berg,no
+http://www.wikidata.org/entity/Q130905,Gulf Stream,http://www.wikidata.org/prop/direct/P206,located in or next to body of water,http://www.wikidata.org/entity/Q16963710,Mid-Atlantic Bight,yes
+http://www.wikidata.org/entity/Q130905,Gulf Stream,http://www.wikidata.org/prop/direct/P527,has part,http://www.wikidata.org/entity/Q130905,Gulf Stream,no
+http://www.wikidata.org/entity/Q14686831,Skidaway Institute of Oceanography,http://www.wikidata.org/prop/direct/P361,part of,the University North Carolina at Chapel Hill,,no
+http://www.wikidata.org/entity/Q4652675,Atlantic meridional overturning circulation,http://www.wikidata.org/prop/direct/P527,has part,http://www.wikidata.org/entity/Q921070,North Atlantic Deep Water,yes
+http://www.wikidata.org/entity/Q30,United States of America,http://www.wikidata.org/prop/direct/P150,contains administrative territorial entity,http://www.wikidata.org/entity/Q2025239,Wanchese,yes
+http://www.wikidata.org/entity/Q978032,Cape Hatteras,http://www.wikidata.org/prop/direct/P706,located on terrain feature,http://www.wikidata.org/entity/Q7059964,Northwest Atlantic Marine Ecozone,yes
+http://www.wikidata.org/entity/Q5051777,Cate Edwards,http://www.wikidata.org/prop/direct/P27,country of citizenship,http://www.wikidata.org/entity/Q30,United States of America,yes
+http://www.wikidata.org/entity/Q1277776,East Carolina University,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,yes
+http://www.wikidata.org/entity/Q130905,Gulf Stream,http://www.wikidata.org/prop/direct/P527,has part,MAB,,yes
+http://www.wikidata.org/entity/Q30,United States of America,http://www.wikidata.org/prop/direct/P150,contains administrative territorial entity,http://www.wikidata.org/entity/Q1454,North Carolina,yes
+http://www.wikidata.org/entity/Q130905,Gulf Stream,http://www.wikidata.org/prop/direct/P706,located on terrain feature,The Slope Sea,,yes
+http://www.wikidata.org/entity/Q130905,Gulf Stream,http://www.wikidata.org/prop/direct/P131,located in the administrative territorial entity,http://www.wikidata.org/entity/Q978032,Cape Hatteras,no
+http://www.wikidata.org/entity/Q978032,Cape Hatteras,http://www.wikidata.org/prop/direct/P206,located in or next to body of water,Slope Sea,,no
+http://www.wikidata.org/entity/Q15147312,Seim,http://www.wikidata.org/prop/direct/P131,located in the administrative territorial entity,http://www.wikidata.org/entity/Q15147312,Seim,yes
+http://www.wikidata.org/entity/Q130905,Gulf Stream,http://www.wikidata.org/prop/direct/P31,instance of,MAB,,no
+http://www.wikidata.org/entity/Q978032,Cape Hatteras,http://www.wikidata.org/prop/direct/P706,located on terrain feature,http://www.wikidata.org/entity/Q130905,Gulf Stream,no
+http://www.wikidata.org/entity/Q1274195,European Centre for Medium-Range Weather Forecasts,http://www.wikidata.org/prop/direct/P361,part of,European Center for Medium Range Weather Forecast,,no
+http://www.wikidata.org/entity/Q978032,Cape Hatteras,http://www.wikidata.org/prop/direct/P206,located in or next to body of water,http://www.wikidata.org/entity/Q97,Atlantic Ocean,yes
+http://www.wikidata.org/entity/Q192334,University of North Carolina at Chapel Hill,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,yes
+http://www.wikidata.org/entity/Q225561,Bathythermograph,http://www.wikidata.org/prop/direct/P279,subclass of,rawindsonde,,no
+http://www.wikidata.org/entity/Q5546752,Georges Bank,http://www.wikidata.org/prop/direct/P206,located in or next to body of water,Slope Sea,,yes
+http://www.wikidata.org/entity/Q49152,Cape Cod,http://www.wikidata.org/prop/direct/P206,located in or next to body of water,MidAtlantic Bight,,no
+http://www.wikidata.org/entity/Q1274195,European Centre for Medium-Range Weather Forecasts,http://www.wikidata.org/prop/direct/P749,parent organization,European Center for Medium Range Weather Forecast,,yes
+http://www.wikidata.org/entity/Q1132346,North Carolina State University,http://www.wikidata.org/prop/direct/P131,located in the administrative territorial entity,http://www.wikidata.org/entity/Q757520,atmospheric sciences,no
+http://www.wikidata.org/entity/Q377397,Cornillon,http://www.wikidata.org/prop/direct/P138,named after,http://www.wikidata.org/entity/Q377397,Cornillon,yes
+http://www.wikidata.org/entity/Q8024052,Wind stress,http://www.wikidata.org/prop/direct/P1542,has effect,shelf currents,,yes
+http://www.wikidata.org/entity/Q978032,Cape Hatteras,http://www.wikidata.org/prop/direct/P206,located in or next to body of water,http://www.wikidata.org/entity/Q7059964,Northwest Atlantic Marine Ecozone,yes
+http://www.wikidata.org/entity/Q1132346,North Carolina State University,http://www.wikidata.org/prop/direct/P159,headquarters location,http://www.wikidata.org/entity/Q41087,Raleigh,yes
+http://www.wikidata.org/entity/Q192334,University of North Carolina at Chapel Hill,http://www.wikidata.org/prop/direct/P159,headquarters location,http://www.wikidata.org/entity/Q192334,University of North Carolina at Chapel Hill,yes
+http://www.wikidata.org/entity/Q14686831,Skidaway Institute of Oceanography,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,yes
+http://www.wikidata.org/entity/Q130905,Gulf Stream,http://www.wikidata.org/prop/direct/P361,part of,http://www.wikidata.org/entity/Q130905,Gulf Stream,no
+http://www.wikidata.org/entity/Q921070,North Atlantic Deep Water,http://www.wikidata.org/prop/direct/P361,part of,http://www.wikidata.org/entity/Q4652675,Atlantic meridional overturning circulation,yes
+http://www.wikidata.org/entity/Q978032,Cape Hatteras,http://www.wikidata.org/prop/direct/P706,located on terrain feature,the Hatteras Front,,no

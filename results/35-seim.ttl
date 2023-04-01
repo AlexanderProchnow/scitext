@@ -1,0 +1,148 @@
+@prefix ns1: <http://www.wikidata.org/prop/direct/> .
+
+<http://www.wikidata.org/entity/Q1024499> ns1:P279 "rawindsonde" .
+
+<http://www.wikidata.org/entity/Q1268108> ns1:P31 <http://www.wikidata.org/entity/Q5138361> .
+
+<http://www.wikidata.org/entity/Q1274195> ns1:P127 "European Center for Medium Range Weather Forecast" ;
+    ns1:P361 "European Center for Medium Range Weather Forecast" ;
+    ns1:P749 "European Center for Medium Range Weather Forecast" .
+
+<http://www.wikidata.org/entity/Q1277776> ns1:P131 <http://www.wikidata.org/entity/Q2025239> ;
+    ns1:P17 <http://www.wikidata.org/entity/Q30> .
+
+<http://www.wikidata.org/entity/Q134851> ns1:P279 "shelf gliders" .
+
+<http://www.wikidata.org/entity/Q1404053> ns1:P131 "MA USA" ;
+    ns1:P17 <http://www.wikidata.org/entity/Q30> .
+
+<http://www.wikidata.org/entity/Q14686831> ns1:P131 "University of Georgia Savannah" ;
+    ns1:P17 <http://www.wikidata.org/entity/Q30> ;
+    ns1:P361 "the University North Carolina at Chapel Hill" ;
+    ns1:P749 "the University North Carolina at Chapel Hill" .
+
+<http://www.wikidata.org/entity/Q1887075> ns1:P361 "North Carolina Renewable Ocean Energy Program" .
+
+<http://www.wikidata.org/entity/Q193401> ns1:P206 "South Atlantic Bight SAB" .
+
+<http://www.wikidata.org/entity/Q225561> ns1:P279 "rawindsonde" .
+
+<http://www.wikidata.org/entity/Q2747220> ns1:P793 <http://www.wikidata.org/entity/Q56552345> .
+
+<http://www.wikidata.org/entity/Q49152> ns1:P206 "MidAtlantic Bight" .
+
+<http://www.wikidata.org/entity/Q5051777> ns1:P27 <http://www.wikidata.org/entity/Q30> .
+
+<http://www.wikidata.org/entity/Q5084107> ns1:P200 <http://www.wikidata.org/entity/Q130905> ;
+    ns1:P206 <http://www.wikidata.org/entity/Q130905>,
+        "South Atlantic Bight" ;
+    ns1:P361 <http://www.wikidata.org/entity/Q130905> .
+
+<http://www.wikidata.org/entity/Q5546752> ns1:P206 "Slope Sea" ;
+    ns1:P706 "Slope Sea" .
+
+<http://www.wikidata.org/entity/Q7245622> ns1:P26 "Csanady G.T." ;
+    ns1:P3373 "Csanady G.T." .
+
+<http://www.wikidata.org/entity/Q747172> ns1:P17 "MA USA" .
+
+<http://www.wikidata.org/entity/Q8024052> ns1:P1542 "shelf currents" .
+
+<http://www.wikidata.org/entity/Q1132346> ns1:P131 <http://www.wikidata.org/entity/Q1454>,
+        <http://www.wikidata.org/entity/Q41087>,
+        <http://www.wikidata.org/entity/Q757520> ;
+    ns1:P159 <http://www.wikidata.org/entity/Q41087> ;
+    ns1:P17 <http://www.wikidata.org/entity/Q30> .
+
+<http://www.wikidata.org/entity/Q15147312> ns1:P131 <http://www.wikidata.org/entity/Q15147312> .
+
+<http://www.wikidata.org/entity/Q161419> ns1:P361 <http://www.wikidata.org/entity/Q161419> .
+
+<http://www.wikidata.org/entity/Q16552> ns1:P131 <http://www.wikidata.org/entity/Q99> .
+
+<http://www.wikidata.org/entity/Q1797362> ns1:P279 <http://www.wikidata.org/entity/Q1797362> .
+
+<http://www.wikidata.org/entity/Q192334> ns1:P159 <http://www.wikidata.org/entity/Q192334> ;
+    ns1:P17 <http://www.wikidata.org/entity/Q30> ;
+    ns1:P749 <http://www.wikidata.org/entity/Q1132346> .
+
+<http://www.wikidata.org/entity/Q232912> ns1:P31 <http://www.wikidata.org/entity/Q130905> ;
+    ns1:P361 <http://www.wikidata.org/entity/Q130905> ;
+    ns1:P527 <http://www.wikidata.org/entity/Q130905> .
+
+<http://www.wikidata.org/entity/Q2627617> ns1:P2044 "30" ;
+    ns1:P279 <http://www.wikidata.org/entity/Q2627617> .
+
+<http://www.wikidata.org/entity/Q4652675> ns1:P527 <http://www.wikidata.org/entity/Q921070> .
+
+<http://www.wikidata.org/entity/Q7273704> ns1:P3373 <http://www.wikidata.org/entity/Q8007977> .
+
+<http://www.wikidata.org/entity/Q8007977> ns1:P3373 <http://www.wikidata.org/entity/Q7273704> .
+
+<http://www.wikidata.org/entity/Q921070> ns1:P361 <http://www.wikidata.org/entity/Q4652675> .
+
+<http://www.wikidata.org/entity/Q99> ns1:P150 <http://www.wikidata.org/entity/Q16552> .
+
+<http://www.wikidata.org/entity/Q18389> ns1:P206 <http://www.wikidata.org/entity/Q130905> .
+
+<http://www.wikidata.org/entity/Q2025239> ns1:P17 <http://www.wikidata.org/entity/Q30> .
+
+<http://www.wikidata.org/entity/Q377397> ns1:P131 <http://www.wikidata.org/entity/Q377397> ;
+    ns1:P138 <http://www.wikidata.org/entity/Q377397> .
+
+<http://www.wikidata.org/entity/Q41087> ns1:P17 <http://www.wikidata.org/entity/Q30> .
+
+<http://www.wikidata.org/entity/Q1066823> ns1:P355 <http://www.wikidata.org/entity/Q1066823> ;
+    ns1:P361 <http://www.wikidata.org/entity/Q1066823> ;
+    ns1:P749 <http://www.wikidata.org/entity/Q1066823> .
+
+<http://www.wikidata.org/entity/Q978032> ns1:P131 <http://www.wikidata.org/entity/Q1428>,
+        <http://www.wikidata.org/entity/Q1454> ;
+    ns1:P206 <http://www.wikidata.org/entity/Q130905>,
+        <http://www.wikidata.org/entity/Q16963710>,
+        <http://www.wikidata.org/entity/Q232912>,
+        <http://www.wikidata.org/entity/Q7059964>,
+        <http://www.wikidata.org/entity/Q97>,
+        "MidAtlantic Bight",
+        "Slope Sea",
+        "South Atlantic Bight",
+        "South Atlantic Bight SAB",
+        "Todd 2020",
+        "the Hatteras Front" ;
+    ns1:P706 <http://www.wikidata.org/entity/Q130905>,
+        <http://www.wikidata.org/entity/Q7059964>,
+        "the Hatteras Front" ;
+    ns1:P974 <http://www.wikidata.org/entity/Q130905> .
+
+<http://www.wikidata.org/entity/Q1454> ns1:P150 <http://www.wikidata.org/entity/Q978032> ;
+    ns1:P17 <http://www.wikidata.org/entity/Q30> .
+
+<http://www.wikidata.org/entity/Q16963710> ns1:P31 <http://www.wikidata.org/entity/Q16963710> ;
+    ns1:P361 <http://www.wikidata.org/entity/Q16963710> .
+
+<http://www.wikidata.org/entity/Q30> ns1:P150 <http://www.wikidata.org/entity/Q1454>,
+        <http://www.wikidata.org/entity/Q2025239> .
+
+<http://www.wikidata.org/entity/Q130905> ns1:P131 <http://www.wikidata.org/entity/Q1454>,
+        <http://www.wikidata.org/entity/Q18389>,
+        <http://www.wikidata.org/entity/Q7059964>,
+        <http://www.wikidata.org/entity/Q978032> ;
+    ns1:P2043 "1 m" ;
+    ns1:P2044 "1 m" ;
+    ns1:P2046 "1 m" ;
+    ns1:P206 <http://www.wikidata.org/entity/Q16963710>,
+        <http://www.wikidata.org/entity/Q7059964>,
+        <http://www.wikidata.org/entity/Q97>,
+        "South Atlantic Bight",
+        "The Slope Sea" ;
+    ns1:P31 "MAB" ;
+    ns1:P361 <http://www.wikidata.org/entity/Q130905>,
+        <http://www.wikidata.org/entity/Q97> ;
+    ns1:P403 <http://www.wikidata.org/entity/Q978032> ;
+    ns1:P527 <http://www.wikidata.org/entity/Q130905>,
+        "MAB" ;
+    ns1:P706 <http://www.wikidata.org/entity/Q18389>,
+        <http://www.wikidata.org/entity/Q7059964>,
+        <http://www.wikidata.org/entity/Q97>,
+        "The Slope Sea" .
+

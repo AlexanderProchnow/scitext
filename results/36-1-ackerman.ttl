@@ -1,0 +1,70 @@
+@prefix ns1: <http://www.wikidata.org/prop/direct/> .
+
+<http://www.wikidata.org/entity/Q1063818> ns1:P17 "VA USA" .
+
+<http://www.wikidata.org/entity/Q107126> ns1:P17 "VA USA" .
+
+<http://www.wikidata.org/entity/Q17092916> ns1:P17 "CA USA" .
+
+<http://www.wikidata.org/entity/Q24572297> ns1:P27 <http://www.wikidata.org/entity/Q30> .
+
+<http://www.wikidata.org/entity/Q27804538> ns1:P27 <http://www.wikidata.org/entity/Q30> ;
+    ns1:P69 "Duke University Durham" .
+
+<http://www.wikidata.org/entity/Q49236> ns1:P17 <http://www.wikidata.org/entity/Q30> .
+
+<http://www.wikidata.org/entity/Q5461460> ns1:P17 <http://www.wikidata.org/entity/Q30>,
+        "Washington DC USA" .
+
+<http://www.wikidata.org/entity/Q6917159> ns1:P131 <http://www.wikidata.org/entity/Q491540> ;
+    ns1:P17 <http://www.wikidata.org/entity/Q30> .
+
+<http://www.wikidata.org/entity/Q7076222> ns1:P131 <http://www.wikidata.org/entity/Q327022> .
+
+<http://www.wikidata.org/entity/Q7934330> ns1:P131 <http://www.wikidata.org/entity/Q1376743> ;
+    ns1:P17 <http://www.wikidata.org/entity/Q30> .
+
+<http://www.wikidata.org/entity/Q955267> ns1:P137 <http://www.wikidata.org/entity/Q304878> ;
+    ns1:P527 "Office of Polar Programs" .
+
+<http://www.wikidata.org/entity/Q1376743> ns1:P17 <http://www.wikidata.org/entity/Q30> .
+
+<http://www.wikidata.org/entity/Q17145511> ns1:P1269 <http://www.wikidata.org/entity/Q17145511> .
+
+<http://www.wikidata.org/entity/Q219563> ns1:P131 <http://www.wikidata.org/entity/Q219563>,
+        <http://www.wikidata.org/entity/Q5083> ;
+    ns1:P17 <http://www.wikidata.org/entity/Q30> .
+
+<http://www.wikidata.org/entity/Q327022> ns1:P17 <http://www.wikidata.org/entity/Q30> .
+
+<http://www.wikidata.org/entity/Q491540> ns1:P17 <http://www.wikidata.org/entity/Q30> .
+
+<http://www.wikidata.org/entity/Q5083> ns1:P17 <http://www.wikidata.org/entity/Q30> .
+
+<http://www.wikidata.org/entity/Q52152> ns1:P749 <http://www.wikidata.org/entity/Q23548> .
+
+<http://www.wikidata.org/entity/Q99> ns1:P17 <http://www.wikidata.org/entity/Q30> .
+
+<http://www.wikidata.org/entity/Q23548> ns1:P159 <http://www.wikidata.org/entity/Q61> ;
+    ns1:P17 <http://www.wikidata.org/entity/Q30> ;
+    ns1:P355 <http://www.wikidata.org/entity/Q304878>,
+        <http://www.wikidata.org/entity/Q52152> ;
+    ns1:P54 <http://www.wikidata.org/entity/Q304878> ;
+    ns1:P749 <http://www.wikidata.org/entity/Q304878> .
+
+<http://www.wikidata.org/entity/Q604029> ns1:P361 <http://www.wikidata.org/entity/Q622664> ;
+    ns1:P749 <http://www.wikidata.org/entity/Q622664> .
+
+<http://www.wikidata.org/entity/Q61> ns1:P17 <http://www.wikidata.org/entity/Q30> .
+
+<http://www.wikidata.org/entity/Q622664> ns1:P355 <http://www.wikidata.org/entity/Q604029> ;
+    ns1:P527 <http://www.wikidata.org/entity/Q604029> .
+
+<http://www.wikidata.org/entity/Q304878> ns1:P355 <http://www.wikidata.org/entity/Q23548>,
+        "Directorate for Geosciences",
+        "Office of Polar Programs" .
+
+<http://www.wikidata.org/entity/Q30> ns1:P150 <http://www.wikidata.org/entity/Q99> ;
+    ns1:P36 <http://www.wikidata.org/entity/Q61>,
+        "Washington DC USA" .
+

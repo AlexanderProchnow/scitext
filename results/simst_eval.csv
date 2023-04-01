@@ -1,0 +1,30 @@
+s,slabel,p,plabel,o,olabel,evaluation
+http://www.wikidata.org/entity/Q6027324,transfer learning,http://www.wikidata.org/prop/direct/P2283,uses,Graphsaint Graph sampling,,yes
+http://www.wikidata.org/entity/Q926486,SIGKDD,http://www.wikidata.org/prop/direct/P921,main subject,http://www.wikidata.org/entity/Q926486,SIGKDD,no
+http://www.wikidata.org/entity/Q131566,Institute of Electrical and Electronics Engineers,http://www.wikidata.org/prop/direct/P101,field of work,http://www.wikidata.org/entity/Q131566,Institute of Electrical and Electronics Engineers,no
+http://www.wikidata.org/entity/Q131566,Institute of Electrical and Electronics Engineers,http://www.wikidata.org/prop/direct/P921,main subject,http://www.wikidata.org/entity/Q131566,Institute of Electrical and Electronics Engineers,no
+http://www.wikidata.org/entity/Q6803607,mean absolute percentage error,http://www.wikidata.org/prop/direct/P31,instance of,http://www.wikidata.org/entity/Q29037,root-mean-square deviation,no
+http://www.wikidata.org/entity/Q2739680,Association for the Advancement of Artificial Intelligence,http://www.wikidata.org/prop/direct/P123,publisher,http://www.wikidata.org/entity/Q2739680,Association for the Advancement of Artificial Intelligence,yes
+http://www.wikidata.org/entity/Q6803607,mean absolute percentage error,http://www.wikidata.org/prop/direct/P527,has part,http://www.wikidata.org/entity/Q6803607,mean absolute percentage error,no
+http://www.wikidata.org/entity/Q3295299,ACM Computing Surveys,http://www.wikidata.org/prop/direct/P361,part of,http://www.wikidata.org/entity/Q3295299,ACM Computing Surveys,no
+http://www.wikidata.org/entity/Q926486,SIGKDD,http://www.wikidata.org/prop/direct/P361,part of,http://www.wikidata.org/entity/Q926486,SIGKDD,no
+http://www.wikidata.org/entity/Q6803607,mean absolute percentage error,http://www.wikidata.org/prop/direct/P361,part of,http://www.wikidata.org/entity/Q6803607,mean absolute percentage error,no
+http://www.wikidata.org/entity/Q99,California,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q99,California,no
+http://www.wikidata.org/entity/Q926486,SIGKDD,http://www.wikidata.org/prop/direct/P279,subclass of,http://www.wikidata.org/entity/Q926486,SIGKDD,no
+http://www.wikidata.org/entity/Q131566,Institute of Electrical and Electronics Engineers,http://www.wikidata.org/prop/direct/P664,organizer,http://www.wikidata.org/entity/Q131566,Institute of Electrical and Electronics Engineers,no
+http://www.wikidata.org/entity/Q213205,San Francisco Bay Area,http://www.wikidata.org/prop/direct/P361,part of,http://www.wikidata.org/entity/Q213205,San Francisco Bay Area,no
+http://www.wikidata.org/entity/Q6803607,mean absolute percentage error,http://www.wikidata.org/prop/direct/P127,owned by,http://www.wikidata.org/entity/Q6803607,mean absolute percentage error,no
+http://www.wikidata.org/entity/Q213205,San Francisco Bay Area,http://www.wikidata.org/prop/direct/P527,has part,http://www.wikidata.org/entity/Q213205,San Francisco Bay Area,no
+http://www.wikidata.org/entity/Q6803607,mean absolute percentage error,http://www.wikidata.org/prop/direct/P1830,owner of,http://www.wikidata.org/entity/Q6803607,mean absolute percentage error,no
+http://www.wikidata.org/entity/Q3295299,ACM Computing Surveys,http://www.wikidata.org/prop/direct/P123,publisher,http://www.wikidata.org/entity/Q3295299,ACM Computing Surveys,no
+http://www.wikidata.org/entity/Q3295299,ACM Computing Surveys,http://www.wikidata.org/prop/direct/P527,has part,http://www.wikidata.org/entity/Q3295299,ACM Computing Surveys,no
+http://www.wikidata.org/entity/Q17087718,International Conference on Machine Learning,http://www.wikidata.org/prop/direct/P101,field of work,http://www.wikidata.org/entity/Q17087718,International Conference on Machine Learning,no
+http://www.wikidata.org/entity/Q17087718,International Conference on Machine Learning,http://www.wikidata.org/prop/direct/P921,main subject,http://www.wikidata.org/entity/Q17087718,International Conference on Machine Learning,no
+http://www.wikidata.org/entity/Q6027324,transfer learning,http://www.wikidata.org/prop/direct/P527,has part,Graphsaint Graph sampling,,yes
+http://www.wikidata.org/entity/Q99,California,http://www.wikidata.org/prop/direct/P150,contains administrative territorial entity,http://www.wikidata.org/entity/Q99,California,yes
+http://www.wikidata.org/entity/Q6803607,mean absolute percentage error,http://www.wikidata.org/prop/direct/P527,has part,MAPESimSTWN,,no
+http://www.wikidata.org/entity/Q6803607,mean absolute percentage error,http://www.wikidata.org/prop/direct/P127,owned by,MAPESimSTWN,,no
+http://www.wikidata.org/entity/Q6803607,mean absolute percentage error,http://www.wikidata.org/prop/direct/P361,part of,MAPESimSTWN,,no
+http://www.wikidata.org/entity/Q6803607,mean absolute percentage error,http://www.wikidata.org/prop/direct/P1830,owner of,MAPESimSTWN,,no
+http://www.wikidata.org/entity/Q99,California,http://www.wikidata.org/prop/direct/P131,located in the administrative territorial entity,http://www.wikidata.org/entity/Q99,California,no
+http://www.wikidata.org/entity/Q2739680,Association for the Advancement of Artificial Intelligence,http://www.wikidata.org/prop/direct/P101,field of work,http://www.wikidata.org/entity/Q2739680,Association for the Advancement of Artificial Intelligence,no
