@@ -4,7 +4,7 @@ An automatic Text-to-Knowledge-Graph pipeline that was built to create knowledge
 from scientific papers and evaluate them automatically.
 
 This project was conducted as part of the Building and Mining Knowledge Graphs course
-at Maastricht University. The project report can be found here.
+at Maastricht University. The project report can be found [here](https://github.com/AlexanderProchnow/scitext/blob/main/Project_Report.pdf).
 
 ## First use
 
@@ -52,3 +52,16 @@ python scitext/eval.py --folder <path_to_folder>
 ```
 
 For example usages, inspect the help description of a command using `-h`.
+
+## Repo overview
+`data/rebel_dataset/rebel_vocab.csv` contains the vocabulary used to map extracted relations to their rdfs:labels.
+
+`papers` contains all papers used to evaluate the pipeline
+
+`results` contains both the extracted knowledge graphs in Turtle format as well as the evaluation CSV files resulting from the automatic evaluation for each paper in the `papers` folder.
+
+`scitext` contains the pipeline code, with each function's docstring explaining it's functionality.
+
+`mapping_dict.ipynb` contains the code used to generate the `rebel_vocab.csv`, with the required REBEL dataset downloaded from within the `rebel_dataset.zip` at https://huggingface.co/datasets/Babelscape/rebel-dataset/tree/main .
+
+`requirements.txt` for environment installation as explained above.
