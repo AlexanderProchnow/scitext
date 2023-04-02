@@ -69,6 +69,9 @@ class Paper(PdfReader):
             head = triple['head']
             tail = triple['tail']
 
+            if head == tail:
+                continue
+
             head_match = entities[entities['text'].str.contains(head, case=False)]
             tail_match = entities[entities['text'].str.contains(tail, case=False)]
 
@@ -100,6 +103,9 @@ class Paper(PdfReader):
                         # f'https://www.wikidata.org/wiki/Property:{relation_entry["uri"].iloc[0]}'
                         f'http://www.wikidata.org/prop/direct/{relation_entry["uri"].iloc[0]}' 
                     )
+                    if head_entry == tail_entry:
+                        continue
+                    
                     print(head_entry, relation_entry, tail_entry)
                     kg.add(head_entry, relation_entry, tail_entry)
 

@@ -4,34 +4,46 @@ from pathlib import Path
 import os
 import openai
 from tqdm import tqdm
+import argparse
 
 def evaluate_kg(path_to_kg: Path, print_summary: bool=False):
     # Load KG
     kg = rdflib.Graph()
     kg.parse(path_to_kg)#, format='turtle')
 
-    out_file = path_to_kg.stem + '_eval.csv'
-
-    # query KG
-    qres = kg.query(
-        """SELECT DISTINCT ?s ?slabel ?p ?plabel ?o ?olabel 
-        WHERE {
-            ?s ?p ?o .
-            SERVICE <https://query.wikidata.org/sparql> {
-                ?s rdfs:label ?slabel.
-                FILTER(LANG(?slabel) = "en").
-                OPTIONAL {
-                        ?o rdfs:label ?olabel.
-                        FILTER(LANG(?olabel) = "en").
+    out_file = Path(path_to_kg.stem + '_eval.csv')
+    if out_file.exists():
+        print('Loading existing evaluation file.')
+        df = pd.read_csv(out_file)
+    
+    else:
+        # query KG
+        try: 
+            qres = kg.query(
+                """SELECT DISTINCT ?s ?slabel ?p ?plabel ?o ?olabel 
+                WHERE {
+                    ?s ?p ?o .
+                    SERVICE <https://query.wikidata.org/sparql> {
+                        ?s rdfs:label ?slabel.
+                        FILTER(LANG(?slabel) = "en").
+                        OPTIONAL {
+                                ?o rdfs:label ?olabel.
+                                FILTER(LANG(?olabel) = "en").
+                        }
+                    }
                 }
-            }
-        }
-        """
-    )
+                """
+            )
 
-    # save results to dataframe
-    df = pd.DataFrame(qres, columns=['s', 'slabel', 'p', 'plabel', 'o', 'olabel'])
-    # df.to_csv('ramirez_eval_offline.csv', index=False)
+            # save results to dataframe
+            df = pd.DataFrame(qres, columns=['s', 'slabel', 'p', 'plabel', 'o', 'olabel'])
+
+        except Exception as e:
+            print(f'Please try again another time. Querying Wikidata to retrieve the rdfs:labels failed with: {e}')
+            # raise e
+            raise SystemExit(0)
+        
+        df.to_csv(out_file, index=False)
 
     # add plabel from vocab
     vocab = pd.read_csv('data/rebel_dataset/rebel_vocab.csv')
@@ -42,6 +54,10 @@ def evaluate_kg(path_to_kg: Path, print_summary: bool=False):
     instructions = "You can evaluate a triple containing a <subject>, a <predicate> and an <object> based on if it makes sense in the real world and answer only with yes or no."
     
     for i, row in tqdm(df.iterrows(), total=len(df)):
+        if 'evaluation' in df.columns:
+            if df.loc[i, 'evaluation'] == 'yes' or df.loc[i, 'evaluation'] == 'no':
+                continue
+
         olabel = f"<{row['olabel']}>" if pd.notna(row['olabel']) else f"\"{row['o']}\""
         prompt = f"<{row['slabel']}> <{row['plabel']}> {olabel}"
 
@@ -58,11 +74,16 @@ def evaluate_kg(path_to_kg: Path, print_summary: bool=False):
         # add prediction to dataframe
         df.loc[i, 'evaluation'] = pred
 
-    df.to_csv(out_file, index=False)
+        df.to_csv(out_file, index=False)
 
     if print_summary:
         print(df['evaluation'].value_counts())
 
 
 if __name__ == '__main__':
-    evaluate_kg(Path('results/35-arrigo.ttl'), print_summary=True)
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--ttl', type=str, default='results/protein-delivery.ttl',
+                            help="Path to KG in Turtle format. Example: results/protein-delivery.ttl")
+    args = parser.parse_args()
+
+    evaluate_kg(Path(args.ttl), print_summary=True)
