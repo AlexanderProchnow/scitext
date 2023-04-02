@@ -11,7 +11,7 @@ def main():
     parser.add_argument('--paper', type=str, default='papers/36-ramirez-llodra.pdf',
                          help="Path to PDF. Example: papers/36-ramirez-llodra.pdf")
     parser.add_argument('--folder', type=str, default=None,
-                         help="Path to folder containing papers in PDF format. Example: papers")
+                         help="Alternative to --paper: Path to folder containing papers in PDF format. Example: papers")
     parser.add_argument('--evaluate', action='store_true', default=False,
                          help="Evaluate KG using GPT-4. Requires an OpenAI API key. (Default: False)")
     args = parser.parse_args()
