@@ -62,7 +62,7 @@ def evaluate_kg(path_to_kg: Path, print_summary: bool=False):
         prompt = f"<{row['slabel']}> <{row['plabel']}> {olabel}"
 
         completion = openai.ChatCompletion.create(
-            model="gpt-4",#"gpt-3.5-turbo",
+            model="gpt-4", # or "gpt-3.5-turbo"
             messages=[
                 {"role": "system", "content": instructions},
                 {"role": "user", "content": prompt}
@@ -74,16 +74,33 @@ def evaluate_kg(path_to_kg: Path, print_summary: bool=False):
         # add prediction to dataframe
         df.loc[i, 'evaluation'] = pred
 
+        # store at each step to avoid losing progress
         df.to_csv(out_file, index=False)
 
     if print_summary:
-        print(df['evaluation'].value_counts())
+        val_counts = df['evaluation'].value_counts()
+        print(val_counts, '\n')
+
+        yes = val_counts['yes']
+        no = val_counts['no']
+        num_triples = yes+no
+        perc_correct = yes/num_triples
+        print(f'# triples: {num_triples}, % correct:  {perc_correct*100:.1f} %')
 
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('--ttl', type=str, default='results/protein-delivery.ttl',
                             help="Path to KG in Turtle format. Example: results/protein-delivery.ttl")
+    parser.add_argument('--folder', type=str, default=None,
+                            help="Path to folder containing KGs in Turtle format. Example: results")
     args = parser.parse_args()
 
-    evaluate_kg(Path(args.ttl), print_summary=True)
+    if args.folder is None:
+        evaluate_kg(Path(args.ttl), print_summary=True)
+        
+    else:
+        for kg_path in Path(args.folder).glob('*.ttl'):
+            print(kg_path.name.removesuffix('.ttl'))
+            evaluate_kg(kg_path, print_summary=True)
+            print()

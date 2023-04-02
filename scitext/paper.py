@@ -32,7 +32,7 @@ class Paper(PdfReader):
         
         kg = kglab.KnowledgeGraph()
 
-        for page_num in tqdm(range(1, self.number_of_pages)):
+        for page_num in tqdm(range(self.number_of_pages)):
             # Extract text from page
             text = self.get_text(page_num)
 
@@ -105,7 +105,7 @@ class Paper(PdfReader):
                     )
                     if head_entry == tail_entry:
                         continue
-                    
+
                     print(head_entry, relation_entry, tail_entry)
                     kg.add(head_entry, relation_entry, tail_entry)
 
