@@ -1,0 +1,27 @@
+s,slabel,p,plabel,o,olabel,evaluation
+http://www.wikidata.org/entity/Q26250693,Replicate (biology),http://www.wikidata.org/prop/direct/P1132,number of participants,n = 3,,yes
+http://www.wikidata.org/entity/Q49108,Massachusetts Institute of Technology,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,yes
+http://www.wikidata.org/entity/Q1512226,Howard Hughes Medical Institute,http://www.wikidata.org/prop/direct/P159,headquarters location,http://www.wikidata.org/entity/Q49111,Cambridge,no
+http://www.wikidata.org/entity/Q26250693,Replicate (biology),http://www.wikidata.org/prop/direct/P527,has part,n = 3,,no
+http://www.wikidata.org/entity/Q4971893,Broad Institute,http://www.wikidata.org/prop/direct/P361,part of,http://www.wikidata.org/entity/Q13371,Harvard University,yes
+http://www.wikidata.org/entity/Q3705329,beam,http://www.wikidata.org/prop/direct/P176,manufacturer,http://www.wikidata.org/entity/Q282186,Carl Zeiss AG,yes
+http://www.wikidata.org/entity/Q4971893,Broad Institute,http://www.wikidata.org/prop/direct/P361,part of,http://www.wikidata.org/entity/Q49108,Massachusetts Institute of Technology,yes
+http://www.wikidata.org/entity/Q6041131,Institutional Animal Care and Use Committee,http://www.wikidata.org/prop/direct/P355,subsidiary,http://www.wikidata.org/entity/Q4971893,Broad Institute,yes
+http://www.wikidata.org/entity/Q49111,Cambridge,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,no
+http://www.wikidata.org/entity/Q3375169,Percoll,http://www.wikidata.org/prop/direct/P176,manufacturer,http://www.wikidata.org/entity/Q680841,Sigma-Aldrich,yes
+http://www.wikidata.org/entity/Q418566,paraformaldehyde,http://www.wikidata.org/prop/direct/P2046,area,4%,,no
+http://www.wikidata.org/entity/Q418566,paraformaldehyde,http://www.wikidata.org/prop/direct/P2046,area,4 °C,,no
+http://www.wikidata.org/entity/Q1512226,Howard Hughes Medical Institute,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,yes
+http://www.wikidata.org/entity/Q418566,paraformaldehyde,http://www.wikidata.org/prop/direct/P2046,area,24 h,,no
+http://www.wikidata.org/entity/Q643674,Thermo Fisher Scientific,http://www.wikidata.org/prop/direct/P1056,product or material produced,NanoDrop,,yes
+http://www.wikidata.org/entity/Q4971893,Broad Institute,http://www.wikidata.org/prop/direct/P361,part of,http://www.wikidata.org/entity/Q6041131,Institutional Animal Care and Use Committee,no
+http://www.wikidata.org/entity/Q49108,Massachusetts Institute of Technology,http://www.wikidata.org/prop/direct/P740,location of formation,http://www.wikidata.org/entity/Q49111,Cambridge,yes
+http://www.wikidata.org/entity/Q643674,Thermo Fisher Scientific,http://www.wikidata.org/prop/direct/P527,has part,Ther moFisher 156499,,no
+http://www.wikidata.org/entity/Q49108,Massachusetts Institute of Technology,http://www.wikidata.org/prop/direct/P17,country,MA USA,,no
+http://www.wikidata.org/entity/Q49108,Massachusetts Institute of Technology,http://www.wikidata.org/prop/direct/P159,headquarters location,http://www.wikidata.org/entity/Q49111,Cambridge,yes
+http://www.wikidata.org/entity/Q643674,Thermo Fisher Scientific,http://www.wikidata.org/prop/direct/P2283,uses,NanoDrop,,yes
+http://www.wikidata.org/entity/Q643674,Thermo Fisher Scientific,http://www.wikidata.org/prop/direct/P527,has part,Ther moFisher 10569044,,yes
+http://www.wikidata.org/entity/Q49108,Massachusetts Institute of Technology,http://www.wikidata.org/prop/direct/P159,headquarters location,Harvard Cambridge,,yes
+http://www.wikidata.org/entity/Q680841,Sigma-Aldrich,http://www.wikidata.org/prop/direct/P1056,product or material produced,http://www.wikidata.org/entity/Q3375169,Percoll,yes
+http://www.wikidata.org/entity/Q49108,Massachusetts Institute of Technology,http://www.wikidata.org/prop/direct/P355,subsidiary,http://www.wikidata.org/entity/Q4971893,Broad Institute,yes
+http://www.wikidata.org/entity/Q4971893,Broad Institute,http://www.wikidata.org/prop/direct/P361,part of,http://www.wikidata.org/entity/Q390551,National Institutes of Health,no

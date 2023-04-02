@@ -1,44 +1,42 @@
 s,slabel,p,plabel,o,olabel,evaluation
-http://www.wikidata.org/entity/Q304878,National Science Foundation,http://www.wikidata.org/prop/direct/P355,subsidiary,Directorate for Geosciences,,yes
-http://www.wikidata.org/entity/Q30,United States of America,http://www.wikidata.org/prop/direct/P36,capital,http://www.wikidata.org/entity/Q61,"Washington, D.C.",yes
-http://www.wikidata.org/entity/Q23548,National Aeronautics and Space Administration,http://www.wikidata.org/prop/direct/P355,subsidiary,http://www.wikidata.org/entity/Q304878,National Science Foundation,no
-http://www.wikidata.org/entity/Q6917159,Mote Marine Laboratory,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,yes
 http://www.wikidata.org/entity/Q52152,Goddard Space Flight Center,http://www.wikidata.org/prop/direct/P749,parent organization,http://www.wikidata.org/entity/Q23548,National Aeronautics and Space Administration,yes
-http://www.wikidata.org/entity/Q49236,St. Petersburg,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,no
-http://www.wikidata.org/entity/Q61,"Washington, D.C.",http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,yes
-http://www.wikidata.org/entity/Q7934330,Virginia Institute of Marine Science,http://www.wikidata.org/prop/direct/P131,located in the administrative territorial entity,http://www.wikidata.org/entity/Q1376743,Gloucester Point,yes
-http://www.wikidata.org/entity/Q30,United States of America,http://www.wikidata.org/prop/direct/P150,contains administrative territorial entity,http://www.wikidata.org/entity/Q99,California,yes
 http://www.wikidata.org/entity/Q24572297,Deborah Steinberg,http://www.wikidata.org/prop/direct/P27,country of citizenship,http://www.wikidata.org/entity/Q30,United States of America,yes
-http://www.wikidata.org/entity/Q23548,National Aeronautics and Space Administration,http://www.wikidata.org/prop/direct/P355,subsidiary,http://www.wikidata.org/entity/Q52152,Goddard Space Flight Center,yes
-http://www.wikidata.org/entity/Q23548,National Aeronautics and Space Administration,http://www.wikidata.org/prop/direct/P749,parent organization,http://www.wikidata.org/entity/Q304878,National Science Foundation,no
-http://www.wikidata.org/entity/Q23548,National Aeronautics and Space Administration,http://www.wikidata.org/prop/direct/P159,headquarters location,http://www.wikidata.org/entity/Q61,"Washington, D.C.",yes
-http://www.wikidata.org/entity/Q23548,National Aeronautics and Space Administration,http://www.wikidata.org/prop/direct/P54,member of sports team,http://www.wikidata.org/entity/Q304878,National Science Foundation,no
-http://www.wikidata.org/entity/Q23548,National Aeronautics and Space Administration,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,yes
-http://www.wikidata.org/entity/Q27804538,Stephanie Murphy,http://www.wikidata.org/prop/direct/P69,educated at,Duke University Durham,,yes
-http://www.wikidata.org/entity/Q17145511,workplace harassment,http://www.wikidata.org/prop/direct/P1269,facet of,http://www.wikidata.org/entity/Q17145511,workplace harassment,yes
-http://www.wikidata.org/entity/Q5083,Seattle,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,yes
-http://www.wikidata.org/entity/Q7076222,Oceanography Society,http://www.wikidata.org/prop/direct/P131,located in the administrative territorial entity,http://www.wikidata.org/entity/Q327022,Rockville,yes
-http://www.wikidata.org/entity/Q107126,Arlington County,http://www.wikidata.org/prop/direct/P17,country,VA USA,,no
-http://www.wikidata.org/entity/Q955267,United States Antarctic Program,http://www.wikidata.org/prop/direct/P137,operator,http://www.wikidata.org/entity/Q304878,National Science Foundation,yes
-http://www.wikidata.org/entity/Q955267,United States Antarctic Program,http://www.wikidata.org/prop/direct/P527,has part,Office of Polar Programs,,yes
 http://www.wikidata.org/entity/Q491540,Sarasota,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,yes
-http://www.wikidata.org/entity/Q604029,Scripps Institution of Oceanography,http://www.wikidata.org/prop/direct/P749,parent organization,http://www.wikidata.org/entity/Q622664,"University of California, San Diego",yes
-http://www.wikidata.org/entity/Q99,California,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,yes
-http://www.wikidata.org/entity/Q622664,"University of California, San Diego",http://www.wikidata.org/prop/direct/P355,subsidiary,http://www.wikidata.org/entity/Q604029,Scripps Institution of Oceanography,yes
-http://www.wikidata.org/entity/Q219563,University of Washington,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,yes
-http://www.wikidata.org/entity/Q219563,University of Washington,http://www.wikidata.org/prop/direct/P131,located in the administrative territorial entity,http://www.wikidata.org/entity/Q219563,University of Washington,no
-http://www.wikidata.org/entity/Q622664,"University of California, San Diego",http://www.wikidata.org/prop/direct/P527,has part,http://www.wikidata.org/entity/Q604029,Scripps Institution of Oceanography,yes
-http://www.wikidata.org/entity/Q7934330,Virginia Institute of Marine Science,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,yes
 http://www.wikidata.org/entity/Q304878,National Science Foundation,http://www.wikidata.org/prop/direct/P355,subsidiary,http://www.wikidata.org/entity/Q23548,National Aeronautics and Space Administration,no
-http://www.wikidata.org/entity/Q304878,National Science Foundation,http://www.wikidata.org/prop/direct/P355,subsidiary,Office of Polar Programs,,yes
-http://www.wikidata.org/entity/Q1063818,Office of Naval Research,http://www.wikidata.org/prop/direct/P17,country,VA USA,,yes
-http://www.wikidata.org/entity/Q327022,Rockville,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,yes
-http://www.wikidata.org/entity/Q604029,Scripps Institution of Oceanography,http://www.wikidata.org/prop/direct/P361,part of,http://www.wikidata.org/entity/Q622664,"University of California, San Diego",yes
-http://www.wikidata.org/entity/Q27804538,Stephanie Murphy,http://www.wikidata.org/prop/direct/P27,country of citizenship,http://www.wikidata.org/entity/Q30,United States of America,yes
-http://www.wikidata.org/entity/Q17092916,Schmidt Ocean Institute,http://www.wikidata.org/prop/direct/P17,country,CA USA,,no
 http://www.wikidata.org/entity/Q219563,University of Washington,http://www.wikidata.org/prop/direct/P131,located in the administrative territorial entity,http://www.wikidata.org/entity/Q5083,Seattle,yes
-http://www.wikidata.org/entity/Q5461460,Florida Institute of Oceanography,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,yes
-http://www.wikidata.org/entity/Q5461460,Florida Institute of Oceanography,http://www.wikidata.org/prop/direct/P17,country,Washington DC USA,,no
-http://www.wikidata.org/entity/Q30,United States of America,http://www.wikidata.org/prop/direct/P36,capital,Washington DC USA,,yes
+http://www.wikidata.org/entity/Q7076222,Oceanography Society,http://www.wikidata.org/prop/direct/P131,located in the administrative territorial entity,http://www.wikidata.org/entity/Q327022,Rockville,yes
+http://www.wikidata.org/entity/Q23548,National Aeronautics and Space Administration,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,yes
+http://www.wikidata.org/entity/Q955267,United States Antarctic Program,http://www.wikidata.org/prop/direct/P137,operator,http://www.wikidata.org/entity/Q304878,National Science Foundation,yes
+http://www.wikidata.org/entity/Q30,United States of America,http://www.wikidata.org/prop/direct/P150,contains administrative territorial entity,http://www.wikidata.org/entity/Q99,California,yes
+http://www.wikidata.org/entity/Q5083,Seattle,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,yes
+http://www.wikidata.org/entity/Q23548,National Aeronautics and Space Administration,http://www.wikidata.org/prop/direct/P54,member of sports team,http://www.wikidata.org/entity/Q304878,National Science Foundation,no
+http://www.wikidata.org/entity/Q622664,"University of California, San Diego",http://www.wikidata.org/prop/direct/P355,subsidiary,http://www.wikidata.org/entity/Q604029,Scripps Institution of Oceanography,yes
+http://www.wikidata.org/entity/Q955267,United States Antarctic Program,http://www.wikidata.org/prop/direct/P527,has part,Office of Polar Programs,,yes
+http://www.wikidata.org/entity/Q6917159,Mote Marine Laboratory,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,yes
+http://www.wikidata.org/entity/Q23548,National Aeronautics and Space Administration,http://www.wikidata.org/prop/direct/P159,headquarters location,http://www.wikidata.org/entity/Q61,"Washington, D.C.",yes
+http://www.wikidata.org/entity/Q61,"Washington, D.C.",http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,yes
 http://www.wikidata.org/entity/Q1376743,Gloucester Point,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,yes
+http://www.wikidata.org/entity/Q99,California,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,yes
+http://www.wikidata.org/entity/Q219563,University of Washington,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,yes
+http://www.wikidata.org/entity/Q49236,St. Petersburg,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,no
 http://www.wikidata.org/entity/Q6917159,Mote Marine Laboratory,http://www.wikidata.org/prop/direct/P131,located in the administrative territorial entity,http://www.wikidata.org/entity/Q491540,Sarasota,yes
+http://www.wikidata.org/entity/Q107126,Arlington County,http://www.wikidata.org/prop/direct/P17,country,VA USA,,no
+http://www.wikidata.org/entity/Q27804538,Stephanie Murphy,http://www.wikidata.org/prop/direct/P27,country of citizenship,http://www.wikidata.org/entity/Q30,United States of America,yes
+http://www.wikidata.org/entity/Q1063818,Office of Naval Research,http://www.wikidata.org/prop/direct/P17,country,VA USA,,no
+http://www.wikidata.org/entity/Q23548,National Aeronautics and Space Administration,http://www.wikidata.org/prop/direct/P355,subsidiary,http://www.wikidata.org/entity/Q52152,Goddard Space Flight Center,yes
+http://www.wikidata.org/entity/Q30,United States of America,http://www.wikidata.org/prop/direct/P36,capital,Washington DC USA,,yes
+http://www.wikidata.org/entity/Q604029,Scripps Institution of Oceanography,http://www.wikidata.org/prop/direct/P361,part of,http://www.wikidata.org/entity/Q622664,"University of California, San Diego",yes
+http://www.wikidata.org/entity/Q304878,National Science Foundation,http://www.wikidata.org/prop/direct/P355,subsidiary,Office of Polar Programs,,yes
+http://www.wikidata.org/entity/Q327022,Rockville,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,no
+http://www.wikidata.org/entity/Q604029,Scripps Institution of Oceanography,http://www.wikidata.org/prop/direct/P749,parent organization,http://www.wikidata.org/entity/Q622664,"University of California, San Diego",yes
+http://www.wikidata.org/entity/Q304878,National Science Foundation,http://www.wikidata.org/prop/direct/P355,subsidiary,Directorate for Geosciences,,yes
+http://www.wikidata.org/entity/Q17092916,Schmidt Ocean Institute,http://www.wikidata.org/prop/direct/P17,country,CA USA,,yes
+http://www.wikidata.org/entity/Q23548,National Aeronautics and Space Administration,http://www.wikidata.org/prop/direct/P749,parent organization,http://www.wikidata.org/entity/Q304878,National Science Foundation,no
+http://www.wikidata.org/entity/Q5461460,Florida Institute of Oceanography,http://www.wikidata.org/prop/direct/P17,country,Washington DC USA,,no
+http://www.wikidata.org/entity/Q23548,National Aeronautics and Space Administration,http://www.wikidata.org/prop/direct/P355,subsidiary,http://www.wikidata.org/entity/Q304878,National Science Foundation,no
+http://www.wikidata.org/entity/Q5461460,Florida Institute of Oceanography,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,yes
+http://www.wikidata.org/entity/Q622664,"University of California, San Diego",http://www.wikidata.org/prop/direct/P527,has part,http://www.wikidata.org/entity/Q604029,Scripps Institution of Oceanography,yes
+http://www.wikidata.org/entity/Q7934330,Virginia Institute of Marine Science,http://www.wikidata.org/prop/direct/P131,located in the administrative territorial entity,http://www.wikidata.org/entity/Q1376743,Gloucester Point,yes
+http://www.wikidata.org/entity/Q27804538,Stephanie Murphy,http://www.wikidata.org/prop/direct/P69,educated at,Duke University Durham,,yes
+http://www.wikidata.org/entity/Q7934330,Virginia Institute of Marine Science,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,yes
+http://www.wikidata.org/entity/Q30,United States of America,http://www.wikidata.org/prop/direct/P36,capital,http://www.wikidata.org/entity/Q61,"Washington, D.C.",yes

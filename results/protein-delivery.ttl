@@ -1,0 +1,39 @@
+@prefix ns1: <http://www.wikidata.org/prop/direct/> .
+
+<http://www.wikidata.org/entity/Q1512226> ns1:P159 <http://www.wikidata.org/entity/Q49111> ;
+    ns1:P17 <http://www.wikidata.org/entity/Q30> .
+
+<http://www.wikidata.org/entity/Q26250693> ns1:P1132 "n = 3" ;
+    ns1:P527 "n = 3" .
+
+<http://www.wikidata.org/entity/Q3705329> ns1:P176 <http://www.wikidata.org/entity/Q282186> .
+
+<http://www.wikidata.org/entity/Q418566> ns1:P2046 "24 h",
+        "4%",
+        "4 °C" .
+
+<http://www.wikidata.org/entity/Q643674> ns1:P1056 "NanoDrop" ;
+    ns1:P2283 "NanoDrop" ;
+    ns1:P527 "Ther moFisher 10569044",
+        "Ther moFisher 156499" .
+
+<http://www.wikidata.org/entity/Q3375169> ns1:P176 <http://www.wikidata.org/entity/Q680841> .
+
+<http://www.wikidata.org/entity/Q49108> ns1:P159 <http://www.wikidata.org/entity/Q49111>,
+        "Harvard Cambridge" ;
+    ns1:P17 <http://www.wikidata.org/entity/Q30>,
+        "MA USA" ;
+    ns1:P355 <http://www.wikidata.org/entity/Q4971893> ;
+    ns1:P740 <http://www.wikidata.org/entity/Q49111> .
+
+<http://www.wikidata.org/entity/Q6041131> ns1:P355 <http://www.wikidata.org/entity/Q4971893> .
+
+<http://www.wikidata.org/entity/Q680841> ns1:P1056 <http://www.wikidata.org/entity/Q3375169> .
+
+<http://www.wikidata.org/entity/Q4971893> ns1:P361 <http://www.wikidata.org/entity/Q13371>,
+        <http://www.wikidata.org/entity/Q390551>,
+        <http://www.wikidata.org/entity/Q49108>,
+        <http://www.wikidata.org/entity/Q6041131> .
+
+<http://www.wikidata.org/entity/Q49111> ns1:P17 <http://www.wikidata.org/entity/Q30> .
+

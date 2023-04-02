@@ -1,5 +1,7 @@
 @prefix ns1: <http://www.wikidata.org/prop/direct/> .
 
+<http://www.wikidata.org/entity/Q1147312> ns1:P101 <http://www.wikidata.org/entity/Q2> .
+
 <http://www.wikidata.org/entity/Q1337483> ns1:P577 "14185–189" .
 
 <http://www.wikidata.org/entity/Q15637513> ns1:P137 <http://www.wikidata.org/entity/Q23548> .
@@ -28,10 +30,6 @@
 
 <http://www.wikidata.org/entity/Q934589> ns1:P159 <http://www.wikidata.org/entity/Q192517> ;
     ns1:P749 <http://www.wikidata.org/entity/Q214700> .
-
-<http://www.wikidata.org/entity/Q1147312> ns1:P101 <http://www.wikidata.org/entity/Q2> ;
-    ns1:P355 <http://www.wikidata.org/entity/Q1147312> ;
-    ns1:P749 <http://www.wikidata.org/entity/Q1147312> .
 
 <http://www.wikidata.org/entity/Q1162568> ns1:P355 <http://www.wikidata.org/entity/Q1115753> ;
     ns1:P527 <http://www.wikidata.org/entity/Q1115753> .

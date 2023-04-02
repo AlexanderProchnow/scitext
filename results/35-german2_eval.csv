@@ -1,70 +1,51 @@
 s,slabel,p,plabel,o,olabel,evaluation
-http://www.wikidata.org/entity/Q7354,Southern Ocean,http://www.wikidata.org/prop/direct/P47,shares border with,http://www.wikidata.org/entity/Q1193928,Indian Pacific,no
+http://www.wikidata.org/entity/Q80796,Frontiers Media,http://www.wikidata.org/prop/direct/P577,publication date,4124–124,,no
+http://www.wikidata.org/entity/Q30,United States of America,http://www.wikidata.org/prop/direct/P206,located in or next to body of water,http://www.wikidata.org/entity/Q98,Pacific Ocean,yes
+http://www.wikidata.org/entity/Q4201942,Earl Winfield Spencer,http://www.wikidata.org/prop/direct/P3373,sibling,F. Nimmo,,no
 http://www.wikidata.org/entity/Q1045138,ocean planet,http://www.wikidata.org/prop/direct/P361,part of,http://www.wikidata.org/entity/Q544,Solar System,no
 http://www.wikidata.org/entity/Q189325,Jet Propulsion Laboratory,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,yes
-http://www.wikidata.org/entity/Q623,carbon,http://www.wikidata.org/prop/direct/P527,has part,http://www.wikidata.org/entity/Q677,iron,no
-http://www.wikidata.org/entity/Q15637513,Europa Clipper,http://www.wikidata.org/prop/direct/P127,owned by,http://www.wikidata.org/entity/Q23548,National Aeronautics and Space Administration,yes
-http://www.wikidata.org/entity/Q1404053,Woods Hole Oceanographic Institution,http://www.wikidata.org/prop/direct/P131,located in the administrative territorial entity,Christopher R. German,,no
-http://www.wikidata.org/entity/Q189325,Jet Propulsion Laboratory,http://www.wikidata.org/prop/direct/P355,subsidiary,http://www.wikidata.org/entity/Q189325,Jet Propulsion Laboratory,no
-http://www.wikidata.org/entity/Q165585,Cassini−Huygens,http://www.wikidata.org/prop/direct/P155,follows,http://www.wikidata.org/entity/Q3303,Enceladus,yes
-http://www.wikidata.org/entity/Q80796,Frontiers Media,http://www.wikidata.org/prop/direct/P577,publication date,4124–124,,no
-http://www.wikidata.org/entity/Q670897,Arizona State University,http://www.wikidata.org/prop/direct/P131,located in the administrative territorial entity,http://www.wikidata.org/entity/Q51685,Tempe,yes
-http://www.wikidata.org/entity/Q644521,Challenger expedition,http://www.wikidata.org/prop/direct/P31,instance of,http://www.wikidata.org/entity/Q644521,Challenger expedition,no
-http://www.wikidata.org/entity/Q49111,Cambridge,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,no
-http://www.wikidata.org/entity/Q5533966,Geochimica et Cosmochimica Acta,http://www.wikidata.org/prop/direct/P31,instance of,http://www.wikidata.org/entity/Q5533966,Geochimica et Cosmochimica Acta,no
-http://www.wikidata.org/entity/Q5172902,correspondence of Charles Darwin,http://www.wikidata.org/prop/direct/P123,publisher,http://www.wikidata.org/entity/Q35794,University of Cambridge,yes
-http://www.wikidata.org/entity/Q464704,American Geophysical Union,http://www.wikidata.org/prop/direct/P131,located in the administrative territorial entity,http://www.wikidata.org/entity/Q61,"Washington, D.C.",yes
-http://www.wikidata.org/entity/Q644521,Challenger expedition,http://www.wikidata.org/prop/direct/P527,has part,http://www.wikidata.org/entity/Q644521,Challenger expedition,no
-http://www.wikidata.org/entity/Q51685,Tempe,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,yes
-http://www.wikidata.org/entity/Q181052,Ames Research Center,http://www.wikidata.org/prop/direct/P749,parent organization,http://www.wikidata.org/entity/Q181052,Ames Research Center,no
-http://www.wikidata.org/entity/Q3303,Enceladus,http://www.wikidata.org/prop/direct/P156,followed by,http://www.wikidata.org/entity/Q165585,Cassini−Huygens,yes
-http://www.wikidata.org/entity/Q1193928,Indian Pacific,http://www.wikidata.org/prop/direct/P527,has part,http://www.wikidata.org/entity/Q7354,Southern Ocean,no
-http://www.wikidata.org/entity/Q3143,Europa,http://www.wikidata.org/prop/direct/P361,part of,http://www.wikidata.org/entity/Q319,Jupiter,yes
-http://www.wikidata.org/entity/Q23548,National Aeronautics and Space Administration,http://www.wikidata.org/prop/direct/P1830,owner of,http://www.wikidata.org/entity/Q15637513,Europa Clipper,yes
-http://www.wikidata.org/entity/Q6244106,John Winebrenner,http://www.wikidata.org/prop/direct/P1056,product or material produced,http://www.wikidata.org/entity/Q6244106,John Winebrenner,no
-http://www.wikidata.org/entity/Q181052,Ames Research Center,http://www.wikidata.org/prop/direct/P355,subsidiary,http://www.wikidata.org/entity/Q181052,Ames Research Center,no
-http://www.wikidata.org/entity/Q852508,toner,http://www.wikidata.org/prop/direct/P31,instance of,http://www.wikidata.org/entity/Q852508,toner,no
-http://www.wikidata.org/entity/Q464704,American Geophysical Union,http://www.wikidata.org/prop/direct/P159,headquarters location,http://www.wikidata.org/entity/Q61,"Washington, D.C.",yes
 http://www.wikidata.org/entity/Q670897,Arizona State University,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,yes
-http://www.wikidata.org/entity/Q1404053,Woods Hole Oceanographic Institution,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,yes
-http://www.wikidata.org/entity/Q56173831,Helfrich,http://www.wikidata.org/prop/direct/P131,located in the administrative territorial entity,http://www.wikidata.org/entity/Q56173831,Helfrich,no
-http://www.wikidata.org/entity/Q30,United States of America,http://www.wikidata.org/prop/direct/P150,contains administrative territorial entity,http://www.wikidata.org/entity/Q1527,Minnesota,yes
-http://www.wikidata.org/entity/Q852508,toner,http://www.wikidata.org/prop/direct/P1889,different from,http://www.wikidata.org/entity/Q852508,toner,no
-http://www.wikidata.org/entity/Q298,Chile,http://www.wikidata.org/prop/direct/P206,located in or next to body of water,http://www.wikidata.org/entity/Q98,Pacific Ocean,yes
-http://www.wikidata.org/entity/Q49108,Massachusetts Institute of Technology,http://www.wikidata.org/prop/direct/P159,headquarters location,http://www.wikidata.org/entity/Q49111,Cambridge,yes
-http://www.wikidata.org/entity/Q852508,toner,http://www.wikidata.org/prop/direct/P138,named after,http://www.wikidata.org/entity/Q852508,toner,no
-http://www.wikidata.org/entity/Q113081,Walter Munk,http://www.wikidata.org/prop/direct/P26,spouse,C. Wunsch,,no
-http://www.wikidata.org/entity/Q677,iron,http://www.wikidata.org/prop/direct/P527,has part,http://www.wikidata.org/entity/Q623,carbon,yes
-http://www.wikidata.org/entity/Q411,astrobiology,http://www.wikidata.org/prop/direct/P674,characters,Enceladus Orbilander,,no
-http://www.wikidata.org/entity/Q15637513,Europa Clipper,http://www.wikidata.org/prop/direct/P137,operator,http://www.wikidata.org/entity/Q23548,National Aeronautics and Space Administration,yes
-http://www.wikidata.org/entity/Q5172902,correspondence of Charles Darwin,http://www.wikidata.org/prop/direct/P664,organizer,http://www.wikidata.org/entity/Q35794,University of Cambridge,yes
-http://www.wikidata.org/entity/Q1404053,Woods Hole Oceanographic Institution,http://www.wikidata.org/prop/direct/P131,located in the administrative territorial entity,http://www.wikidata.org/entity/Q771,Massachusetts,yes
-http://www.wikidata.org/entity/Q58705,Arabian Sea,http://www.wikidata.org/prop/direct/P361,part of,http://www.wikidata.org/entity/Q98,Pacific Ocean,no
 http://www.wikidata.org/entity/Q23406,Red Sea,http://www.wikidata.org/prop/direct/P361,part of,http://www.wikidata.org/entity/Q3301962,Eastern Mediterranean,no
-http://www.wikidata.org/entity/Q17141164,The Life and Letters of Charles Darwin,http://www.wikidata.org/prop/direct/P50,author,http://www.wikidata.org/entity/Q17141164,The Life and Letters of Charles Darwin,no
-http://www.wikidata.org/entity/Q1047293,"University of California, Santa Cruz",http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,yes
-http://www.wikidata.org/entity/Q5172902,correspondence of Charles Darwin,http://www.wikidata.org/prop/direct/P361,part of,http://www.wikidata.org/entity/Q35794,University of Cambridge,yes
-http://www.wikidata.org/entity/Q189325,Jet Propulsion Laboratory,http://www.wikidata.org/prop/direct/P749,parent organization,http://www.wikidata.org/entity/Q189325,Jet Propulsion Laboratory,no
-http://www.wikidata.org/entity/Q485176,Pasadena,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,yes
-http://www.wikidata.org/entity/Q7318406,Reviews of Geophysics,http://www.wikidata.org/prop/direct/P921,main subject,http://www.wikidata.org/entity/Q7318406,Reviews of Geophysics,no
+http://www.wikidata.org/entity/Q49111,Cambridge,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,no
+http://www.wikidata.org/entity/Q65073499,Deep biosphere,http://www.wikidata.org/prop/direct/P361,part of,oceanice,,no
+http://www.wikidata.org/entity/Q464704,American Geophysical Union,http://www.wikidata.org/prop/direct/P131,located in the administrative territorial entity,http://www.wikidata.org/entity/Q61,"Washington, D.C.",yes
+http://www.wikidata.org/entity/Q15637513,Europa Clipper,http://www.wikidata.org/prop/direct/P127,owned by,http://www.wikidata.org/entity/Q23548,National Aeronautics and Space Administration,yes
+http://www.wikidata.org/entity/Q411,astrobiology,http://www.wikidata.org/prop/direct/P674,characters,Enceladus Orbilander,,yes
 http://www.wikidata.org/entity/Q165585,Cassini−Huygens,http://www.wikidata.org/prop/direct/P2578,studies,http://www.wikidata.org/entity/Q3303,Enceladus,yes
-http://www.wikidata.org/entity/Q56173831,Helfrich,http://www.wikidata.org/prop/direct/P138,named after,http://www.wikidata.org/entity/Q56173831,Helfrich,yes
-http://www.wikidata.org/entity/Q1527,Minnesota,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,no
-http://www.wikidata.org/entity/Q3143,Europa,http://www.wikidata.org/prop/direct/P527,has part,http://www.wikidata.org/entity/Q3303,Enceladus,no
-http://www.wikidata.org/entity/Q30,United States of America,http://www.wikidata.org/prop/direct/P206,located in or next to body of water,http://www.wikidata.org/entity/Q98,Pacific Ocean,yes
-http://www.wikidata.org/entity/Q22908384,Figure 1,http://www.wikidata.org/prop/direct/P180,depicts,http://www.wikidata.org/entity/Q22908384,Figure 1,yes
-http://www.wikidata.org/entity/Q3303,Enceladus,http://www.wikidata.org/prop/direct/P361,part of,http://www.wikidata.org/entity/Q3143,Europa,no
-http://www.wikidata.org/entity/Q80796,Frontiers Media,http://www.wikidata.org/prop/direct/P921,main subject,http://www.wikidata.org/entity/Q80796,Frontiers Media,no
-http://www.wikidata.org/entity/Q113081,Walter Munk,http://www.wikidata.org/prop/direct/P3373,sibling,C. Wunsch,,no
-http://www.wikidata.org/entity/Q6244106,John Winebrenner,http://www.wikidata.org/prop/direct/P138,named after,http://www.wikidata.org/entity/Q6244106,John Winebrenner,yes
-http://www.wikidata.org/entity/Q188,German,http://www.wikidata.org/prop/direct/P2936,language used,http://www.wikidata.org/entity/Q188,German,yes
-http://www.wikidata.org/entity/Q22908384,Figure 1,http://www.wikidata.org/prop/direct/P2043,length,http://www.wikidata.org/entity/Q22908384,Figure 1,no
-http://www.wikidata.org/entity/Q4201942,Earl Winfield Spencer,http://www.wikidata.org/prop/direct/P3373,sibling,F. Nimmo,,no
-http://www.wikidata.org/entity/Q181052,Ames Research Center,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,yes
-http://www.wikidata.org/entity/Q1193928,Indian Pacific,http://www.wikidata.org/prop/direct/P47,shares border with,http://www.wikidata.org/entity/Q7354,Southern Ocean,no
-http://www.wikidata.org/entity/Q98,Pacific Ocean,http://www.wikidata.org/prop/direct/P31,instance of,http://www.wikidata.org/entity/Q98,Pacific Ocean,no
-http://www.wikidata.org/entity/Q49108,Massachusetts Institute of Technology,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,yes
 http://www.wikidata.org/entity/Q3565247,Moffett Federal Airfield,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,yes
+http://www.wikidata.org/entity/Q3303,Enceladus,http://www.wikidata.org/prop/direct/P156,followed by,http://www.wikidata.org/entity/Q165585,Cassini−Huygens,yes
+http://www.wikidata.org/entity/Q1404053,Woods Hole Oceanographic Institution,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,yes
+http://www.wikidata.org/entity/Q1047293,"University of California, Santa Cruz",http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,yes
+http://www.wikidata.org/entity/Q113081,Walter Munk,http://www.wikidata.org/prop/direct/P26,spouse,C. Wunsch,,no
+http://www.wikidata.org/entity/Q23548,National Aeronautics and Space Administration,http://www.wikidata.org/prop/direct/P101,field of work,http://www.wikidata.org/entity/Q2,Earth,yes
+http://www.wikidata.org/entity/Q49108,Massachusetts Institute of Technology,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,yes
+http://www.wikidata.org/entity/Q670897,Arizona State University,http://www.wikidata.org/prop/direct/P131,located in the administrative territorial entity,http://www.wikidata.org/entity/Q51685,Tempe,yes
+http://www.wikidata.org/entity/Q1193928,Indian Pacific,http://www.wikidata.org/prop/direct/P527,has part,http://www.wikidata.org/entity/Q7354,Southern Ocean,no
+http://www.wikidata.org/entity/Q623,carbon,http://www.wikidata.org/prop/direct/P527,has part,http://www.wikidata.org/entity/Q677,iron,no
+http://www.wikidata.org/entity/Q677,iron,http://www.wikidata.org/prop/direct/P527,has part,http://www.wikidata.org/entity/Q623,carbon,yes
+http://www.wikidata.org/entity/Q30,United States of America,http://www.wikidata.org/prop/direct/P150,contains administrative territorial entity,http://www.wikidata.org/entity/Q1527,Minnesota,yes
+http://www.wikidata.org/entity/Q15637513,Europa Clipper,http://www.wikidata.org/prop/direct/P137,operator,http://www.wikidata.org/entity/Q23548,National Aeronautics and Space Administration,yes
+http://www.wikidata.org/entity/Q113081,Walter Munk,http://www.wikidata.org/prop/direct/P3373,sibling,C. Wunsch,,no
+http://www.wikidata.org/entity/Q1404053,Woods Hole Oceanographic Institution,http://www.wikidata.org/prop/direct/P131,located in the administrative territorial entity,http://www.wikidata.org/entity/Q771,Massachusetts,yes
+http://www.wikidata.org/entity/Q464704,American Geophysical Union,http://www.wikidata.org/prop/direct/P159,headquarters location,http://www.wikidata.org/entity/Q61,"Washington, D.C.",yes
 http://www.wikidata.org/entity/Q319,Jupiter,http://www.wikidata.org/prop/direct/P527,has part,http://www.wikidata.org/entity/Q3143,Europa,yes
-http://www.wikidata.org/entity/Q644521,Challenger expedition,http://www.wikidata.org/prop/direct/P361,part of,http://www.wikidata.org/entity/Q644521,Challenger expedition,no
-http://www.wikidata.org/entity/Q544,Solar System,http://www.wikidata.org/prop/direct/P527,has part,http://www.wikidata.org/entity/Q1045138,ocean planet,yes
+http://www.wikidata.org/entity/Q23548,National Aeronautics and Space Administration,http://www.wikidata.org/prop/direct/P1830,owner of,http://www.wikidata.org/entity/Q15637513,Europa Clipper,yes
+http://www.wikidata.org/entity/Q1193928,Indian Pacific,http://www.wikidata.org/prop/direct/P47,shares border with,http://www.wikidata.org/entity/Q7354,Southern Ocean,no
+http://www.wikidata.org/entity/Q51685,Tempe,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,yes
+http://www.wikidata.org/entity/Q3143,Europa,http://www.wikidata.org/prop/direct/P361,part of,http://www.wikidata.org/entity/Q319,Jupiter,yes
+http://www.wikidata.org/entity/Q5172902,correspondence of Charles Darwin,http://www.wikidata.org/prop/direct/P123,publisher,http://www.wikidata.org/entity/Q35794,University of Cambridge,yes
+http://www.wikidata.org/entity/Q1404053,Woods Hole Oceanographic Institution,http://www.wikidata.org/prop/direct/P131,located in the administrative territorial entity,Christopher R. German,,no
+http://www.wikidata.org/entity/Q58705,Arabian Sea,http://www.wikidata.org/prop/direct/P361,part of,http://www.wikidata.org/entity/Q98,Pacific Ocean,no
+http://www.wikidata.org/entity/Q165585,Cassini−Huygens,http://www.wikidata.org/prop/direct/P155,follows,http://www.wikidata.org/entity/Q3303,Enceladus,yes
+http://www.wikidata.org/entity/Q7354,Southern Ocean,http://www.wikidata.org/prop/direct/P47,shares border with,http://www.wikidata.org/entity/Q1193928,Indian Pacific,no
+http://www.wikidata.org/entity/Q3303,Enceladus,http://www.wikidata.org/prop/direct/P361,part of,http://www.wikidata.org/entity/Q3143,Europa,no
+http://www.wikidata.org/entity/Q544,Solar System,http://www.wikidata.org/prop/direct/P527,has part,http://www.wikidata.org/entity/Q1045138,ocean planet,no
+http://www.wikidata.org/entity/Q181052,Ames Research Center,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,yes
+http://www.wikidata.org/entity/Q485176,Pasadena,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,yes
+http://www.wikidata.org/entity/Q1527,Minnesota,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,yes
+http://www.wikidata.org/entity/Q49108,Massachusetts Institute of Technology,http://www.wikidata.org/prop/direct/P159,headquarters location,http://www.wikidata.org/entity/Q49111,Cambridge,yes
+http://www.wikidata.org/entity/Q5172902,correspondence of Charles Darwin,http://www.wikidata.org/prop/direct/P361,part of,http://www.wikidata.org/entity/Q35794,University of Cambridge,yes
+http://www.wikidata.org/entity/Q298,Chile,http://www.wikidata.org/prop/direct/P206,located in or next to body of water,http://www.wikidata.org/entity/Q98,Pacific Ocean,yes
+http://www.wikidata.org/entity/Q165585,Cassini−Huygens,http://www.wikidata.org/prop/direct/P137,operator,http://www.wikidata.org/entity/Q23548,National Aeronautics and Space Administration,yes
+http://www.wikidata.org/entity/Q3143,Europa,http://www.wikidata.org/prop/direct/P527,has part,http://www.wikidata.org/entity/Q3303,Enceladus,no
+http://www.wikidata.org/entity/Q5172902,correspondence of Charles Darwin,http://www.wikidata.org/prop/direct/P664,organizer,http://www.wikidata.org/entity/Q35794,University of Cambridge,yes

@@ -1,0 +1,20 @@
+@prefix ns1: <http://www.wikidata.org/prop/direct/> .
+
+<http://www.wikidata.org/entity/Q1050571> ns1:P1269 <http://www.wikidata.org/entity/Q5369> ;
+    ns1:P641 <http://www.wikidata.org/entity/Q5369> .
+
+<http://www.wikidata.org/entity/Q7142798> ns1:P577 "McGeer 1990" .
+
+<http://www.wikidata.org/entity/Q211029> ns1:P26 <http://www.wikidata.org/entity/Q529599> .
+
+<http://www.wikidata.org/entity/Q2794477> ns1:P527 <http://www.wikidata.org/entity/Q15758457> ;
+    ns1:P921 <http://www.wikidata.org/entity/Q15758457> .
+
+<http://www.wikidata.org/entity/Q529599> ns1:P26 <http://www.wikidata.org/entity/Q211029> .
+
+<http://www.wikidata.org/entity/Q61855> ns1:P1066 <http://www.wikidata.org/entity/Q723578> .
+
+<http://www.wikidata.org/entity/Q723578> ns1:P1066 <http://www.wikidata.org/entity/Q61855> .
+
+<http://www.wikidata.org/entity/Q15758457> ns1:P361 <http://www.wikidata.org/entity/Q2794477> .
+

@@ -1,0 +1,11 @@
+s,slabel,p,plabel,o,olabel,evaluation
+http://www.wikidata.org/entity/Q529599,Arlene Golonka,http://www.wikidata.org/prop/direct/P26,spouse,http://www.wikidata.org/entity/Q211029,Edward O. Wilson,no
+http://www.wikidata.org/entity/Q2794477,Frontiers in Psychology,http://www.wikidata.org/prop/direct/P527,has part,http://www.wikidata.org/entity/Q15758457,Cognitive Science,yes
+http://www.wikidata.org/entity/Q1050571,catcher,http://www.wikidata.org/prop/direct/P641,sport,http://www.wikidata.org/entity/Q5369,baseball,yes
+http://www.wikidata.org/entity/Q2794477,Frontiers in Psychology,http://www.wikidata.org/prop/direct/P921,main subject,http://www.wikidata.org/entity/Q15758457,Cognitive Science,yes
+http://www.wikidata.org/entity/Q61855,Matthew C. Perry,http://www.wikidata.org/prop/direct/P1066,student of,http://www.wikidata.org/entity/Q723578,Jon Barwise,no
+http://www.wikidata.org/entity/Q723578,Jon Barwise,http://www.wikidata.org/prop/direct/P1066,student of,http://www.wikidata.org/entity/Q61855,Matthew C. Perry,no
+http://www.wikidata.org/entity/Q1050571,catcher,http://www.wikidata.org/prop/direct/P1269,facet of,http://www.wikidata.org/entity/Q5369,baseball,yes
+http://www.wikidata.org/entity/Q7142798,Passive dynamics,http://www.wikidata.org/prop/direct/P577,publication date,McGeer 1990,,yes
+http://www.wikidata.org/entity/Q211029,Edward O. Wilson,http://www.wikidata.org/prop/direct/P26,spouse,http://www.wikidata.org/entity/Q529599,Arlene Golonka,no
+http://www.wikidata.org/entity/Q15758457,Cognitive Science,http://www.wikidata.org/prop/direct/P361,part of,http://www.wikidata.org/entity/Q2794477,Frontiers in Psychology,yes

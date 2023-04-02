@@ -6,6 +6,9 @@
 
 <http://www.wikidata.org/entity/Q17092916> ns1:P17 "CA USA" .
 
+<http://www.wikidata.org/entity/Q219563> ns1:P131 <http://www.wikidata.org/entity/Q5083> ;
+    ns1:P17 <http://www.wikidata.org/entity/Q30> .
+
 <http://www.wikidata.org/entity/Q24572297> ns1:P27 <http://www.wikidata.org/entity/Q30> .
 
 <http://www.wikidata.org/entity/Q27804538> ns1:P27 <http://www.wikidata.org/entity/Q30> ;
@@ -28,12 +31,6 @@
     ns1:P527 "Office of Polar Programs" .
 
 <http://www.wikidata.org/entity/Q1376743> ns1:P17 <http://www.wikidata.org/entity/Q30> .
-
-<http://www.wikidata.org/entity/Q17145511> ns1:P1269 <http://www.wikidata.org/entity/Q17145511> .
-
-<http://www.wikidata.org/entity/Q219563> ns1:P131 <http://www.wikidata.org/entity/Q219563>,
-        <http://www.wikidata.org/entity/Q5083> ;
-    ns1:P17 <http://www.wikidata.org/entity/Q30> .
 
 <http://www.wikidata.org/entity/Q327022> ns1:P17 <http://www.wikidata.org/entity/Q30> .
 

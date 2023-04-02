@@ -1,0 +1,45 @@
+s,slabel,p,plabel,o,olabel,evaluation
+http://www.wikidata.org/entity/Q880582,Taylor & Francis,http://www.wikidata.org/prop/direct/P19,place of birth,Hillsdale NJ,,no
+http://www.wikidata.org/entity/Q758234,physical attractiveness,http://www.wikidata.org/prop/direct/P31,instance of,subjectivewellbeing,,no
+http://www.wikidata.org/entity/Q758234,physical attractiveness,http://www.wikidata.org/prop/direct/P1269,facet of,subjectivewellbeing,,yes
+http://www.wikidata.org/entity/Q466587,American Psychological Association,http://www.wikidata.org/prop/direct/P355,subsidiary,http://www.wikidata.org/entity/Q5162995,Conservation psychology,no
+http://www.wikidata.org/entity/Q466587,American Psychological Association,http://www.wikidata.org/prop/direct/P355,subsidiary,Division 34,,yes
+http://www.wikidata.org/entity/Q15088481,ecopsychology,http://www.wikidata.org/prop/direct/P527,has part,1 118–129,,no
+http://www.wikidata.org/entity/Q1333105,Robert Nisbet,http://www.wikidata.org/prop/direct/P26,spouse,http://www.wikidata.org/entity/Q4190418,Igor Zelensky,no
+http://www.wikidata.org/entity/Q4190418,Igor Zelensky,http://www.wikidata.org/prop/direct/P26,spouse,http://www.wikidata.org/entity/Q1333105,Robert Nisbet,no
+http://www.wikidata.org/entity/Q2447438,Menominee,http://www.wikidata.org/prop/direct/P279,subclass of,http://www.wikidata.org/entity/Q36747,indigenous peoples of the Americas,yes
+http://www.wikidata.org/entity/Q186290,correlation,http://www.wikidata.org/prop/direct/P1889,different from,http://www.wikidata.org/entity/Q179289,causality,yes
+http://www.wikidata.org/entity/Q2447438,Menominee,http://www.wikidata.org/prop/direct/P1889,different from,http://www.wikidata.org/entity/Q43103,European Americans,yes
+http://www.wikidata.org/entity/Q2025724,Biometrics,http://www.wikidata.org/prop/direct/P1132,number of participants,33,,yes
+http://www.wikidata.org/entity/Q6823859,Methods,http://www.wikidata.org/prop/direct/P1132,number of participants,7,,yes
+http://www.wikidata.org/entity/Q1041737,Carleton University,http://www.wikidata.org/prop/direct/P131,located in the administrative territorial entity,http://www.wikidata.org/entity/Q1930,Ottawa,yes
+http://www.wikidata.org/entity/Q147638,cognitive science,http://www.wikidata.org/prop/direct/P123,publisher,Frontiers inPsychology,,yes
+http://www.wikidata.org/entity/Q43103,European Americans,http://www.wikidata.org/prop/direct/P527,has part,http://www.wikidata.org/entity/Q2447438,Menominee,yes
+http://www.wikidata.org/entity/Q186290,correlation,http://www.wikidata.org/prop/direct/P461,opposite of,http://www.wikidata.org/entity/Q179289,causality,no
+http://www.wikidata.org/entity/Q7552196,Society for Personality and Social Psychology,http://www.wikidata.org/prop/direct/P131,located in the administrative territorial entity,http://www.wikidata.org/entity/Q16559,Austin,yes
+http://www.wikidata.org/entity/Q1041737,Carleton University,http://www.wikidata.org/prop/direct/P159,headquarters location,http://www.wikidata.org/entity/Q1930,Ottawa,yes
+http://www.wikidata.org/entity/Q179289,causality,http://www.wikidata.org/prop/direct/P461,opposite of,http://www.wikidata.org/entity/Q186290,correlation,yes
+http://www.wikidata.org/entity/Q16,Canada,http://www.wikidata.org/prop/direct/P47,shares border with,http://www.wikidata.org/entity/Q30,United States of America,yes
+http://www.wikidata.org/entity/Q15088481,ecopsychology,http://www.wikidata.org/prop/direct/P1132,number of participants,5 80–91,,no
+http://www.wikidata.org/entity/Q1287978,effect size,http://www.wikidata.org/prop/direct/P1269,facet of,http://www.wikidata.org/entity/Q425265,statistical significance,yes
+http://www.wikidata.org/entity/Q30,United States of America,http://www.wikidata.org/prop/direct/P47,shares border with,http://www.wikidata.org/entity/Q16,Canada,yes
+http://www.wikidata.org/entity/Q43103,European Americans,http://www.wikidata.org/prop/direct/P1889,different from,http://www.wikidata.org/entity/Q2447438,Menominee,yes
+http://www.wikidata.org/entity/Q15088481,ecopsychology,http://www.wikidata.org/prop/direct/P527,has part,5 80–91,,no
+http://www.wikidata.org/entity/Q179289,causality,http://www.wikidata.org/prop/direct/P1889,different from,http://www.wikidata.org/entity/Q186290,correlation,yes
+http://www.wikidata.org/entity/Q5162995,Conservation psychology,http://www.wikidata.org/prop/direct/P749,parent organization,http://www.wikidata.org/entity/Q466587,American Psychological Association,yes
+http://www.wikidata.org/entity/Q15758457,Cognitive Science,http://www.wikidata.org/prop/direct/P361,part of,aFrontiers in Psychology,,no
+http://www.wikidata.org/entity/Q7552196,Society for Personality and Social Psychology,http://www.wikidata.org/prop/direct/P159,headquarters location,http://www.wikidata.org/entity/Q16559,Austin,yes
+http://www.wikidata.org/entity/Q758234,physical attractiveness,http://www.wikidata.org/prop/direct/P361,part of,subjectivewellbeing,,yes
+http://www.wikidata.org/entity/Q15088481,ecopsychology,http://www.wikidata.org/prop/direct/P1113,number of episodes,5 80–91,,no
+http://www.wikidata.org/entity/Q1165215,Lakehead University,http://www.wikidata.org/prop/direct/P131,located in the administrative territorial entity,Thunder Bay ON,,yes
+http://www.wikidata.org/entity/Q815382,meta-analysis,http://www.wikidata.org/prop/direct/P527,has part,moderatoranalyses,,yes
+http://www.wikidata.org/entity/Q1041737,Carleton University,http://www.wikidata.org/prop/direct/P131,located in the administrative territorial entity,http://www.wikidata.org/entity/Q5589283,Government of Ontario,yes
+http://www.wikidata.org/entity/Q6823859,Methods,http://www.wikidata.org/prop/direct/P2043,length,7,,no
+http://www.wikidata.org/entity/Q5075918,Charles Burson,http://www.wikidata.org/prop/direct/P3373,sibling,M. G. Kross,,no
+http://www.wikidata.org/entity/Q1165215,Lakehead University,http://www.wikidata.org/prop/direct/P159,headquarters location,Thunder Bay ON,,yes
+http://www.wikidata.org/entity/Q1699627,Natural England,http://www.wikidata.org/prop/direct/P355,subsidiary,Naturea Survey,,yes
+http://www.wikidata.org/entity/Q16,Canada,http://www.wikidata.org/prop/direct/P361,part of,http://www.wikidata.org/entity/Q46,Europe,no
+http://www.wikidata.org/entity/Q147638,cognitive science,http://www.wikidata.org/prop/direct/P361,part of,Frontiers inPsychology,,no
+http://www.wikidata.org/entity/Q1733,Magdeburg,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,yes
+http://www.wikidata.org/entity/Q4190418,Igor Zelensky,http://www.wikidata.org/prop/direct/P527,has part,Capaldi Dopko,,no
+http://www.wikidata.org/entity/Q1041737,Carleton University,http://www.wikidata.org/prop/direct/P1416,affiliation,http://www.wikidata.org/entity/Q5589283,Government of Ontario,yes

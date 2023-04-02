@@ -1,82 +1,61 @@
 s,slabel,p,plabel,o,olabel,evaluation
-http://www.wikidata.org/entity/Q279724,University of Tromsø – The Arctic University of Norway,http://www.wikidata.org/prop/direct/P131,located in the administrative territorial entity,http://www.wikidata.org/entity/Q26087,Tromsø,yes
-http://www.wikidata.org/entity/Q7356216,Rod Hacon,http://www.wikidata.org/prop/direct/P206,located in or next to body of water,Central Arctic Ocean,,yes
-http://www.wikidata.org/entity/Q189325,Jet Propulsion Laboratory,http://www.wikidata.org/prop/direct/P355,subsidiary,http://www.wikidata.org/entity/Q189325,Jet Propulsion Laboratory,no
+http://www.wikidata.org/entity/Q26087,Tromsø,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q20,Norway,yes
+http://www.wikidata.org/entity/Q536656,Alfred Wegener Institute for Polar and Marine Research,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,yes
+http://www.wikidata.org/entity/Q26087,Tromsø,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q279724,University of Tromsø – The Arctic University of Norway,no
+http://www.wikidata.org/entity/Q6867530,"Ministry of Science, Technology and Higher Education",http://www.wikidata.org/prop/direct/P361,part of,http://www.wikidata.org/entity/Q5509000,Fundação para a Ciência e Tecnologia,no
+http://www.wikidata.org/entity/Q7356216,Rod Hacon,http://www.wikidata.org/prop/direct/P749,parent organization,http://www.wikidata.org/entity/Q4356293,Research Council of Norway,yes
+http://www.wikidata.org/entity/Q25326,Mollusca,http://www.wikidata.org/prop/direct/P279,subclass of,http://www.wikidata.org/entity/Q25364,Crustacea,no
+http://www.wikidata.org/entity/Q6867530,"Ministry of Science, Technology and Higher Education",http://www.wikidata.org/prop/direct/P749,parent organization,http://www.wikidata.org/entity/Q5509000,Fundação para a Ciência e Tecnologia,yes
+http://www.wikidata.org/entity/Q18952,Polychaeta,http://www.wikidata.org/prop/direct/P171,parent taxon,http://www.wikidata.org/entity/Q25364,Crustacea,no
+http://www.wikidata.org/entity/Q80796,Frontiers Media,http://www.wikidata.org/prop/direct/P577,publication date,372,,no
+http://www.wikidata.org/entity/Q603523,Gakkel Ridge,http://www.wikidata.org/prop/direct/P706,located on terrain feature,http://www.wikidata.org/entity/Q788,Arctic Ocean,yes
+http://www.wikidata.org/entity/Q214700,National Oceanic and Atmospheric Administration,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,yes
+http://www.wikidata.org/entity/Q603523,Gakkel Ridge,http://www.wikidata.org/prop/direct/P206,located in or next to body of water,http://www.wikidata.org/entity/Q788,Arctic Ocean,yes
+http://www.wikidata.org/entity/Q153840,Southwest Indian Ridge,http://www.wikidata.org/prop/direct/P31,instance of,http://www.wikidata.org/entity/Q1036221,hydrothermal circulation,no
+http://www.wikidata.org/entity/Q15637513,Europa Clipper,http://www.wikidata.org/prop/direct/P137,operator,http://www.wikidata.org/entity/Q23548,National Aeronautics and Space Administration,yes
+http://www.wikidata.org/entity/Q718492,Pete Schoening,http://www.wikidata.org/prop/direct/P26,spouse,J. Ontrup,,yes
+http://www.wikidata.org/entity/Q3169,Ganymede,http://www.wikidata.org/prop/direct/P527,has part,Hans Tore,,no
+http://www.wikidata.org/entity/Q603523,Gakkel Ridge,http://www.wikidata.org/prop/direct/P206,located in or next to body of water,the Central Arctic Ocean,,yes
+http://www.wikidata.org/entity/Q603523,Gakkel Ridge,http://www.wikidata.org/prop/direct/P706,located on terrain feature,the Central Arctic Ocean,,yes
+http://www.wikidata.org/entity/Q867648,hydrothermal vent,http://www.wikidata.org/prop/direct/P2579,studied by,http://www.wikidata.org/entity/Q52106,biogeography,yes
+http://www.wikidata.org/entity/Q536656,Alfred Wegener Institute for Polar and Marine Research,http://www.wikidata.org/prop/direct/P159,headquarters location,http://www.wikidata.org/entity/Q2706,Bremerhaven,yes
+http://www.wikidata.org/entity/Q279724,University of Tromsø – The Arctic University of Norway,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q20,Norway,yes
+http://www.wikidata.org/entity/Q20,Norway,http://www.wikidata.org/prop/direct/P150,contains administrative territorial entity,Norwegian Institute for Water Research Oslo,,no
+http://www.wikidata.org/entity/Q319,Jupiter,http://www.wikidata.org/prop/direct/P527,has part,http://www.wikidata.org/entity/Q3143,Europa,yes
+http://www.wikidata.org/entity/Q603523,Gakkel Ridge,http://www.wikidata.org/prop/direct/P206,located in or next to body of water,Central Arctic Ocean,,yes
+http://www.wikidata.org/entity/Q603523,Gakkel Ridge,http://www.wikidata.org/prop/direct/P706,located on terrain feature,Central Arctic Ocean,,yes
+http://www.wikidata.org/entity/Q603523,Gakkel Ridge,http://www.wikidata.org/prop/direct/P527,has part,the Aurora mound,,yes
+http://www.wikidata.org/entity/Q603523,Gakkel Ridge,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q223,Greenland,no
+http://www.wikidata.org/entity/Q66459165,Carolina Costa,http://www.wikidata.org/prop/direct/P69,educated at,Universitário de Santiago Aveiro,,no
+http://www.wikidata.org/entity/Q603523,Gakkel Ridge,http://www.wikidata.org/prop/direct/P706,located on terrain feature,http://www.wikidata.org/entity/Q25322,Arctic,yes
+http://www.wikidata.org/entity/Q25326,Mollusca,http://www.wikidata.org/prop/direct/P171,parent taxon,http://www.wikidata.org/entity/Q25364,Crustacea,no
+http://www.wikidata.org/entity/Q536656,Alfred Wegener Institute for Polar and Marine Research,http://www.wikidata.org/prop/direct/P131,located in the administrative territorial entity,http://www.wikidata.org/entity/Q2706,Bremerhaven,yes
+http://www.wikidata.org/entity/Q3143,Europa,http://www.wikidata.org/prop/direct/P527,has part,http://www.wikidata.org/entity/Q2314,sodium chloride,yes
+http://www.wikidata.org/entity/Q5509000,Fundação para a Ciência e Tecnologia,http://www.wikidata.org/prop/direct/P355,subsidiary,http://www.wikidata.org/entity/Q6867530,"Ministry of Science, Technology and Higher Education",no
+http://www.wikidata.org/entity/Q101405,Antje Boetius,http://www.wikidata.org/prop/direct/P108,employer,MARUM University of Bremen,,yes
+http://www.wikidata.org/entity/Q189325,Jet Propulsion Laboratory,http://www.wikidata.org/prop/direct/P159,headquarters location,http://www.wikidata.org/entity/Q485176,Pasadena,yes
+http://www.wikidata.org/entity/Q251246,Vienna Woods,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q691,Papua New Guinea,no
+http://www.wikidata.org/entity/Q1708210,Princeton University Press,http://www.wikidata.org/prop/direct/P1132,number of participants,446,,no
+http://www.wikidata.org/entity/Q3071673,figure-four,http://www.wikidata.org/prop/direct/P361,part of,Postcruise,,no
 http://www.wikidata.org/entity/Q1345043,Manus Plate,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q691,Papua New Guinea,yes
 http://www.wikidata.org/entity/Q3303,Enceladus,http://www.wikidata.org/prop/direct/P361,part of,http://www.wikidata.org/entity/Q193,Saturn,yes
-http://www.wikidata.org/entity/Q1404053,Woods Hole Oceanographic Institution,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,yes
-http://www.wikidata.org/entity/Q939183,deep sea mining,http://www.wikidata.org/prop/direct/P31,instance of,http://www.wikidata.org/entity/Q939183,deep sea mining,no
-http://www.wikidata.org/entity/Q98,Pacific Ocean,http://www.wikidata.org/prop/direct/P31,instance of,http://www.wikidata.org/entity/Q98,Pacific Ocean,no
-http://www.wikidata.org/entity/Q319,Jupiter,http://www.wikidata.org/prop/direct/P527,has part,http://www.wikidata.org/entity/Q3143,Europa,yes
-http://www.wikidata.org/entity/Q603523,Gakkel Ridge,http://www.wikidata.org/prop/direct/P706,located on terrain feature,http://www.wikidata.org/entity/Q788,Arctic Ocean,yes
-http://www.wikidata.org/entity/Q3169,Ganymede,http://www.wikidata.org/prop/direct/P31,instance of,http://www.wikidata.org/entity/Q3169,Ganymede,no
-http://www.wikidata.org/entity/Q2706,Bremerhaven,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,yes
-http://www.wikidata.org/entity/Q153840,Southwest Indian Ridge,http://www.wikidata.org/prop/direct/P4552,mountain range,http://www.wikidata.org/entity/Q153840,Southwest Indian Ridge,yes
-http://www.wikidata.org/entity/Q1708210,Princeton University Press,http://www.wikidata.org/prop/direct/P31,instance of,http://www.wikidata.org/entity/Q1708210,Princeton University Press,no
-http://www.wikidata.org/entity/Q3169,Ganymede,http://www.wikidata.org/prop/direct/P138,named after,http://www.wikidata.org/entity/Q3169,Ganymede,no
-http://www.wikidata.org/entity/Q214700,National Oceanic and Atmospheric Administration,http://www.wikidata.org/prop/direct/P1001,applies to jurisdiction,http://www.wikidata.org/entity/Q30,United States of America,yes
-http://www.wikidata.org/entity/Q4356293,Research Council of Norway,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q4356293,Research Council of Norway,no
-http://www.wikidata.org/entity/Q777257,Aurora Borealis,http://www.wikidata.org/prop/direct/P31,instance of,http://www.wikidata.org/entity/Q618465,remotely operated underwater vehicle,no
-http://www.wikidata.org/entity/Q26087,Tromsø,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q279724,University of Tromsø – The Arctic University of Norway,no
-http://www.wikidata.org/entity/Q603523,Gakkel Ridge,http://www.wikidata.org/prop/direct/P527,has part,the Aurora mound,,yes
-http://www.wikidata.org/entity/Q536656,Alfred Wegener Institute for Polar and Marine Research,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,yes
-http://www.wikidata.org/entity/Q189325,Jet Propulsion Laboratory,http://www.wikidata.org/prop/direct/P159,headquarters location,http://www.wikidata.org/entity/Q485176,Pasadena,yes
-http://www.wikidata.org/entity/Q101405,Antje Boetius,http://www.wikidata.org/prop/direct/P108,employer,MARUM University of Bremen,,yes
-http://www.wikidata.org/entity/Q603523,Gakkel Ridge,http://www.wikidata.org/prop/direct/P206,located in or next to body of water,Central Arctic Ocean,,yes
-http://www.wikidata.org/entity/Q7597924,Stan Thorseth,http://www.wikidata.org/prop/direct/P131,located in the administrative territorial entity,http://www.wikidata.org/entity/Q7597924,Stan Thorseth,no
-http://www.wikidata.org/entity/Q165585,Cassini−Huygens,http://www.wikidata.org/prop/direct/P137,operator,http://www.wikidata.org/entity/Q23548,National Aeronautics and Space Administration,yes
-http://www.wikidata.org/entity/Q18712516,Royal Society Open Science,http://www.wikidata.org/prop/direct/P123,publisher,http://www.wikidata.org/entity/Q18712516,Royal Society Open Science,yes
-http://www.wikidata.org/entity/Q3143,Europa,http://www.wikidata.org/prop/direct/P527,has part,http://www.wikidata.org/entity/Q2314,sodium chloride,yes
-http://www.wikidata.org/entity/Q20,Norway,http://www.wikidata.org/prop/direct/P150,contains administrative territorial entity,Norwegian Institute for Water Research Oslo,,no
-http://www.wikidata.org/entity/Q5112101,Christopher F. Chyba,http://www.wikidata.org/prop/direct/P131,located in the administrative territorial entity,http://www.wikidata.org/entity/Q5112101,Christopher F. Chyba,no
-http://www.wikidata.org/entity/Q279724,University of Tromsø – The Arctic University of Norway,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q279724,University of Tromsø – The Arctic University of Norway,no
-http://www.wikidata.org/entity/Q603523,Gakkel Ridge,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q223,Greenland,no
-http://www.wikidata.org/entity/Q25326,Mollusca,http://www.wikidata.org/prop/direct/P279,subclass of,http://www.wikidata.org/entity/Q25364,Crustacea,no
-http://www.wikidata.org/entity/Q3169,Ganymede,http://www.wikidata.org/prop/direct/P527,has part,Hans Tore,,no
-http://www.wikidata.org/entity/Q1708210,Princeton University Press,http://www.wikidata.org/prop/direct/P2046,area,446,,no
-http://www.wikidata.org/entity/Q3169,Ganymede,http://www.wikidata.org/prop/direct/P59,constellation,http://www.wikidata.org/entity/Q3169,Ganymede,no
-http://www.wikidata.org/entity/Q189325,Jet Propulsion Laboratory,http://www.wikidata.org/prop/direct/P749,parent organization,http://www.wikidata.org/entity/Q23548,National Aeronautics and Space Administration,yes
-http://www.wikidata.org/entity/Q1708210,Princeton University Press,http://www.wikidata.org/prop/direct/P1132,number of participants,446,,no
-http://www.wikidata.org/entity/Q153840,Southwest Indian Ridge,http://www.wikidata.org/prop/direct/P31,instance of,http://www.wikidata.org/entity/Q1036221,hydrothermal circulation,no
-http://www.wikidata.org/entity/Q3143,Europa,http://www.wikidata.org/prop/direct/P361,part of,http://www.wikidata.org/entity/Q319,Jupiter,yes
-http://www.wikidata.org/entity/Q536656,Alfred Wegener Institute for Polar and Marine Research,http://www.wikidata.org/prop/direct/P131,located in the administrative territorial entity,http://www.wikidata.org/entity/Q2706,Bremerhaven,yes
-http://www.wikidata.org/entity/Q4575499,Erik Vullum,http://www.wikidata.org/prop/direct/P611,religious order,http://www.wikidata.org/entity/Q263800,International Harvester,no
-http://www.wikidata.org/entity/Q7356216,Rod Hacon,http://www.wikidata.org/prop/direct/P740,location of formation,Central Arctic Ocean,,yes
-http://www.wikidata.org/entity/Q603523,Gakkel Ridge,http://www.wikidata.org/prop/direct/P706,located on terrain feature,Central Arctic Ocean,,yes
-http://www.wikidata.org/entity/Q24909237,RV Kronprins Haakon,http://www.wikidata.org/prop/direct/P31,instance of,a R/V,,yes
-http://www.wikidata.org/entity/Q718492,Pete Schoening,http://www.wikidata.org/prop/direct/P26,spouse,J. Ontrup,,yes
 http://www.wikidata.org/entity/Q3071673,figure-four,http://www.wikidata.org/prop/direct/P1269,facet of,Postcruise,,no
-http://www.wikidata.org/entity/Q26087,Tromsø,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q20,Norway,yes
-http://www.wikidata.org/entity/Q603523,Gakkel Ridge,http://www.wikidata.org/prop/direct/P131,located in the administrative territorial entity,the Central Arctic Ocean,,yes
-http://www.wikidata.org/entity/Q81692,Seewald,http://www.wikidata.org/prop/direct/P131,located in the administrative territorial entity,http://www.wikidata.org/entity/Q81692,Seewald,yes
-http://www.wikidata.org/entity/Q188,German,http://www.wikidata.org/prop/direct/P2936,language used,http://www.wikidata.org/entity/Q188,German,yes
-http://www.wikidata.org/entity/Q153840,Southwest Indian Ridge,http://www.wikidata.org/prop/direct/P31,instance of,http://www.wikidata.org/entity/Q153840,Southwest Indian Ridge,no
-http://www.wikidata.org/entity/Q15637513,Europa Clipper,http://www.wikidata.org/prop/direct/P137,operator,http://www.wikidata.org/entity/Q23548,National Aeronautics and Space Administration,yes
-http://www.wikidata.org/entity/Q867648,hydrothermal vent,http://www.wikidata.org/prop/direct/P2579,studied by,http://www.wikidata.org/entity/Q52106,biogeography,yes
-http://www.wikidata.org/entity/Q18952,Polychaeta,http://www.wikidata.org/prop/direct/P171,parent taxon,http://www.wikidata.org/entity/Q25364,Crustacea,no
-http://www.wikidata.org/entity/Q3071673,figure-four,http://www.wikidata.org/prop/direct/P361,part of,Postcruise,,no
-http://www.wikidata.org/entity/Q48546,Juno,http://www.wikidata.org/prop/direct/P137,operator,http://www.wikidata.org/entity/Q23548,National Aeronautics and Space Administration,yes
-http://www.wikidata.org/entity/Q603523,Gakkel Ridge,http://www.wikidata.org/prop/direct/P706,located on terrain feature,http://www.wikidata.org/entity/Q25322,Arctic,yes
-http://www.wikidata.org/entity/Q279724,University of Tromsø – The Arctic University of Norway,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q20,Norway,yes
-http://www.wikidata.org/entity/Q66459165,Carolina Costa,http://www.wikidata.org/prop/direct/P69,educated at,Universitário de Santiago Aveiro,,no
-http://www.wikidata.org/entity/Q603523,Gakkel Ridge,http://www.wikidata.org/prop/direct/P206,located in or next to body of water,the Central Arctic Ocean,,yes
-http://www.wikidata.org/entity/Q1071797,Nature Reviews Microbiology,http://www.wikidata.org/prop/direct/P123,publisher,http://www.wikidata.org/entity/Q1071797,Nature Reviews Microbiology,no
-http://www.wikidata.org/entity/Q23548,National Aeronautics and Space Administration,http://www.wikidata.org/prop/direct/P355,subsidiary,http://www.wikidata.org/entity/Q189325,Jet Propulsion Laboratory,yes
-http://www.wikidata.org/entity/Q5509000,Fundação para a Ciência e Tecnologia,http://www.wikidata.org/prop/direct/P527,has part,http://www.wikidata.org/entity/Q6867530,"Ministry of Science, Technology and Higher Education",no
-http://www.wikidata.org/entity/Q6867530,"Ministry of Science, Technology and Higher Education",http://www.wikidata.org/prop/direct/P361,part of,http://www.wikidata.org/entity/Q5509000,Fundação para a Ciência e Tecnologia,no
-http://www.wikidata.org/entity/Q1055845,Edmonds,http://www.wikidata.org/prop/direct/P131,located in the administrative territorial entity,http://www.wikidata.org/entity/Q1055845,Edmonds,no
-http://www.wikidata.org/entity/Q7356216,Rod Hacon,http://www.wikidata.org/prop/direct/P749,parent organization,http://www.wikidata.org/entity/Q4356293,Research Council of Norway,yes
-http://www.wikidata.org/entity/Q603523,Gakkel Ridge,http://www.wikidata.org/prop/direct/P706,located on terrain feature,http://www.wikidata.org/entity/Q30687637,Nordic Seas,yes
-http://www.wikidata.org/entity/Q111044,chalcopyrite,http://www.wikidata.org/prop/direct/P279,subclass of,http://www.wikidata.org/entity/Q111044,chalcopyrite,no
-http://www.wikidata.org/entity/Q25326,Mollusca,http://www.wikidata.org/prop/direct/P171,parent taxon,http://www.wikidata.org/entity/Q25364,Crustacea,no
-http://www.wikidata.org/entity/Q5509000,Fundação para a Ciência e Tecnologia,http://www.wikidata.org/prop/direct/P355,subsidiary,http://www.wikidata.org/entity/Q6867530,"Ministry of Science, Technology and Higher Education",no
-http://www.wikidata.org/entity/Q6867530,"Ministry of Science, Technology and Higher Education",http://www.wikidata.org/prop/direct/P749,parent organization,http://www.wikidata.org/entity/Q5509000,Fundação para a Ciência e Tecnologia,yes
-http://www.wikidata.org/entity/Q189325,Jet Propulsion Laboratory,http://www.wikidata.org/prop/direct/P749,parent organization,http://www.wikidata.org/entity/Q189325,Jet Propulsion Laboratory,no
-http://www.wikidata.org/entity/Q603523,Gakkel Ridge,http://www.wikidata.org/prop/direct/P206,located in or next to body of water,http://www.wikidata.org/entity/Q788,Arctic Ocean,yes
-http://www.wikidata.org/entity/Q80796,Frontiers Media,http://www.wikidata.org/prop/direct/P577,publication date,372,,no
-http://www.wikidata.org/entity/Q251246,Vienna Woods,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q691,Papua New Guinea,no
-http://www.wikidata.org/entity/Q536656,Alfred Wegener Institute for Polar and Marine Research,http://www.wikidata.org/prop/direct/P159,headquarters location,http://www.wikidata.org/entity/Q2706,Bremerhaven,yes
+http://www.wikidata.org/entity/Q777257,Aurora Borealis,http://www.wikidata.org/prop/direct/P31,instance of,http://www.wikidata.org/entity/Q618465,remotely operated underwater vehicle,no
+http://www.wikidata.org/entity/Q4575499,Erik Vullum,http://www.wikidata.org/prop/direct/P611,religious order,http://www.wikidata.org/entity/Q263800,International Harvester,no
 http://www.wikidata.org/entity/Q788,Arctic Ocean,http://www.wikidata.org/prop/direct/P527,has part,http://www.wikidata.org/entity/Q603523,Gakkel Ridge,yes
-http://www.wikidata.org/entity/Q214700,National Oceanic and Atmospheric Administration,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,yes
-http://www.wikidata.org/entity/Q18712516,Royal Society Open Science,http://www.wikidata.org/prop/direct/P127,owned by,http://www.wikidata.org/entity/Q18712516,Royal Society Open Science,no
-http://www.wikidata.org/entity/Q603523,Gakkel Ridge,http://www.wikidata.org/prop/direct/P706,located on terrain feature,the Central Arctic Ocean,,yes
+http://www.wikidata.org/entity/Q48546,Juno,http://www.wikidata.org/prop/direct/P137,operator,http://www.wikidata.org/entity/Q23548,National Aeronautics and Space Administration,yes
+http://www.wikidata.org/entity/Q5509000,Fundação para a Ciência e Tecnologia,http://www.wikidata.org/prop/direct/P527,has part,http://www.wikidata.org/entity/Q6867530,"Ministry of Science, Technology and Higher Education",no
+http://www.wikidata.org/entity/Q7356216,Rod Hacon,http://www.wikidata.org/prop/direct/P206,located in or next to body of water,Central Arctic Ocean,,yes
+http://www.wikidata.org/entity/Q603523,Gakkel Ridge,http://www.wikidata.org/prop/direct/P131,located in the administrative territorial entity,the Central Arctic Ocean,,yes
+http://www.wikidata.org/entity/Q24909237,RV Kronprins Haakon,http://www.wikidata.org/prop/direct/P31,instance of,a R/V,,yes
+http://www.wikidata.org/entity/Q603523,Gakkel Ridge,http://www.wikidata.org/prop/direct/P706,located on terrain feature,http://www.wikidata.org/entity/Q30687637,Nordic Seas,yes
+http://www.wikidata.org/entity/Q189325,Jet Propulsion Laboratory,http://www.wikidata.org/prop/direct/P749,parent organization,http://www.wikidata.org/entity/Q23548,National Aeronautics and Space Administration,yes
+http://www.wikidata.org/entity/Q2706,Bremerhaven,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,yes
+http://www.wikidata.org/entity/Q7356216,Rod Hacon,http://www.wikidata.org/prop/direct/P740,location of formation,Central Arctic Ocean,,yes
+http://www.wikidata.org/entity/Q1708210,Princeton University Press,http://www.wikidata.org/prop/direct/P2046,area,446,,yes
+http://www.wikidata.org/entity/Q3143,Europa,http://www.wikidata.org/prop/direct/P361,part of,http://www.wikidata.org/entity/Q319,Jupiter,yes
+http://www.wikidata.org/entity/Q214700,National Oceanic and Atmospheric Administration,http://www.wikidata.org/prop/direct/P1001,applies to jurisdiction,http://www.wikidata.org/entity/Q30,United States of America,yes
+http://www.wikidata.org/entity/Q165585,Cassini−Huygens,http://www.wikidata.org/prop/direct/P137,operator,http://www.wikidata.org/entity/Q23548,National Aeronautics and Space Administration,yes
+http://www.wikidata.org/entity/Q279724,University of Tromsø – The Arctic University of Norway,http://www.wikidata.org/prop/direct/P131,located in the administrative territorial entity,http://www.wikidata.org/entity/Q26087,Tromsø,yes
+http://www.wikidata.org/entity/Q23548,National Aeronautics and Space Administration,http://www.wikidata.org/prop/direct/P355,subsidiary,http://www.wikidata.org/entity/Q189325,Jet Propulsion Laboratory,yes
+http://www.wikidata.org/entity/Q1404053,Woods Hole Oceanographic Institution,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,yes

@@ -1,0 +1,123 @@
+@prefix ns1: <http://www.wikidata.org/prop/direct/> .
+
+<http://www.wikidata.org/entity/Q1026367> ns1:P277 <http://www.wikidata.org/entity/Q28865> .
+
+<http://www.wikidata.org/entity/Q1057> ns1:P1113 "44" ;
+    ns1:P1132 "44" ;
+    ns1:P2043 "44" .
+
+<http://www.wikidata.org/entity/Q1388041> ns1:P577 "283" .
+
+<http://www.wikidata.org/entity/Q1424533> ns1:P2283 "twotailed" ;
+    ns1:P31 "twotailed" .
+
+<http://www.wikidata.org/entity/Q1438124> ns1:P137 "EuropeanUnion" ;
+    ns1:P664 "EuropeanUnion" ;
+    ns1:P749 "EuropeanUnion" .
+
+<http://www.wikidata.org/entity/Q1500732> ns1:P361 <http://www.wikidata.org/entity/Q75839> .
+
+<http://www.wikidata.org/entity/Q153> ns1:P1113 "35 min" ;
+    ns1:P1132 "35 min" .
+
+<http://www.wikidata.org/entity/Q15332439> ns1:P1113 "41 680–692" ;
+    ns1:P1132 "41 680–692" ;
+    ns1:P577 "41 680–692" .
+
+<http://www.wikidata.org/entity/Q15708571> ns1:P1132 "254 369–378" .
+
+<http://www.wikidata.org/entity/Q159375> ns1:P1269 "normal distribution means" ;
+    ns1:P361 "normal distribution means" .
+
+<http://www.wikidata.org/entity/Q1639737> ns1:P144 "78Seurat" ;
+    ns1:P361 "78Seurat" .
+
+<http://www.wikidata.org/entity/Q1659584> ns1:P361 "ZenBlue 2.6" .
+
+<http://www.wikidata.org/entity/Q180445> ns1:P1113 "357–362" ;
+    ns1:P527 "491",
+        "568127–130" .
+
+<http://www.wikidata.org/entity/Q1876153> ns1:P106 "D.J. Habibi" .
+
+<http://www.wikidata.org/entity/Q2068984> ns1:P1056 "TruSeq" .
+
+<http://www.wikidata.org/entity/Q206904> ns1:P737 "Seurat79Neuron" .
+
+<http://www.wikidata.org/entity/Q2261280> ns1:P577 "4061–87" .
+
+<http://www.wikidata.org/entity/Q24976083> ns1:P1056 <http://www.wikidata.org/entity/Q80863> .
+
+<http://www.wikidata.org/entity/Q39572> ns1:P1056 <http://www.wikidata.org/entity/Q424361> .
+
+<http://www.wikidata.org/entity/Q416827> ns1:P127 "Membrane Merck" ;
+    ns1:P176 "Membrane Merck" .
+
+<http://www.wikidata.org/entity/Q422021> ns1:P527 "0.1M PB" .
+
+<http://www.wikidata.org/entity/Q4914910> ns1:P1132 "23 257–258",
+        "29" .
+
+<http://www.wikidata.org/entity/Q5270140> ns1:P1132 "48 2313–2321" .
+
+<http://www.wikidata.org/entity/Q527723> ns1:P176 <http://www.wikidata.org/entity/Q680841> ;
+    ns1:P287 <http://www.wikidata.org/entity/Q680841> .
+
+<http://www.wikidata.org/entity/Q56277951> ns1:P176 "SutterInstruments" .
+
+<http://www.wikidata.org/entity/Q6041131> ns1:P361 <http://www.wikidata.org/entity/Q1665176> .
+
+<http://www.wikidata.org/entity/Q643674> ns1:P1830 "TraceFinder" .
+
+<http://www.wikidata.org/entity/Q688619> ns1:P1056 "BX51WI" .
+
+<http://www.wikidata.org/entity/Q6895942> ns1:P144 "Clampﬁt 10" ;
+    ns1:P306 "Clampﬁt 10" .
+
+<http://www.wikidata.org/entity/Q7002483> ns1:P178 <http://www.wikidata.org/entity/Q4918924> ;
+    ns1:P361 <http://www.wikidata.org/entity/Q4918924> .
+
+<http://www.wikidata.org/entity/Q700731> ns1:P131 <http://www.wikidata.org/entity/Q1741> ;
+    ns1:P159 <http://www.wikidata.org/entity/Q1741> .
+
+<http://www.wikidata.org/entity/Q757598> ns1:P287 "J. Sonntag",
+        "L. Andersen" .
+
+<http://www.wikidata.org/entity/Q8061116> ns1:P527 "Iezaki" .
+
+<http://www.wikidata.org/entity/Q1622829> ns1:P361 <http://www.wikidata.org/entity/Q502961> ;
+    ns1:P527 <http://www.wikidata.org/entity/Q502961> .
+
+<http://www.wikidata.org/entity/Q221361> ns1:P361 <http://www.wikidata.org/entity/Q24174701> .
+
+<http://www.wikidata.org/entity/Q24174701> ns1:P527 <http://www.wikidata.org/entity/Q221361> .
+
+<http://www.wikidata.org/entity/Q24910724> ns1:P1416 <http://www.wikidata.org/entity/Q4743458> ;
+    ns1:P54 <http://www.wikidata.org/entity/Q4743458> .
+
+<http://www.wikidata.org/entity/Q165980> ns1:P131 <http://www.wikidata.org/entity/Q1665176>,
+        <http://www.wikidata.org/entity/Q1741>,
+        <http://www.wikidata.org/entity/Q40>,
+        "Institute of Medical Genetics Medical University of Vienna",
+        "Institute of Organic Chemistry University of Vienna",
+        "University of Veterinary Medicine Vienna Veterina" .
+
+<http://www.wikidata.org/entity/Q40> ns1:P150 <http://www.wikidata.org/entity/Q165980>,
+        <http://www.wikidata.org/entity/Q1741>,
+        "Institute of Medical Genetics Medical University of Vienna",
+        "Institute of Organic Chemistry University of Vienna",
+        "University of Veterinary Medicine Vienna Veterina" .
+
+<http://www.wikidata.org/entity/Q4743458> ns1:P54 <http://www.wikidata.org/entity/Q24910724> .
+
+<http://www.wikidata.org/entity/Q502961> ns1:P527 <http://www.wikidata.org/entity/Q1622829> .
+
+<http://www.wikidata.org/entity/Q1665176> ns1:P150 <http://www.wikidata.org/entity/Q165980>,
+        <http://www.wikidata.org/entity/Q1741>,
+        "Institute of Medical Genetics Medical University of Vienna",
+        "Institute of Organic Chemistry University of Vienna",
+        "University of Veterinary Medicine Vienna Veterina" .
+
+<http://www.wikidata.org/entity/Q1741> ns1:P131 <http://www.wikidata.org/entity/Q1665176>,
+        <http://www.wikidata.org/entity/Q40> .
+

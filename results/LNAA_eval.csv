@@ -1,0 +1,79 @@
+s,slabel,p,plabel,o,olabel,evaluation
+http://www.wikidata.org/entity/Q2068984,Illumina,http://www.wikidata.org/prop/direct/P1056,product or material produced,TruSeq,,yes
+http://www.wikidata.org/entity/Q40,Austria,http://www.wikidata.org/prop/direct/P150,contains administrative territorial entity,University of Veterinary Medicine Vienna Veterina,,no
+http://www.wikidata.org/entity/Q40,Austria,http://www.wikidata.org/prop/direct/P150,contains administrative territorial entity,Institute of Medical Genetics Medical University of Vienna,,no
+http://www.wikidata.org/entity/Q1622829,microglia,http://www.wikidata.org/prop/direct/P361,part of,http://www.wikidata.org/entity/Q502961,astrocyte,no
+http://www.wikidata.org/entity/Q24174701,MetaboLights,http://www.wikidata.org/prop/direct/P527,has part,http://www.wikidata.org/entity/Q221361,clozapine,no
+http://www.wikidata.org/entity/Q1876153,Luigi di Bella,http://www.wikidata.org/prop/direct/P106,occupation,D.J. Habibi,,no
+http://www.wikidata.org/entity/Q1424533,Mann–Whitney U test,http://www.wikidata.org/prop/direct/P31,instance of,twotailed,,no
+http://www.wikidata.org/entity/Q206904,R,http://www.wikidata.org/prop/direct/P737,influenced by,Seurat79Neuron,,no
+http://www.wikidata.org/entity/Q221361,clozapine,http://www.wikidata.org/prop/direct/P361,part of,http://www.wikidata.org/entity/Q24174701,MetaboLights,no
+http://www.wikidata.org/entity/Q643674,Thermo Fisher Scientific,http://www.wikidata.org/prop/direct/P1830,owner of,TraceFinder,,yes
+http://www.wikidata.org/entity/Q40,Austria,http://www.wikidata.org/prop/direct/P150,contains administrative territorial entity,Institute of Organic Chemistry University of Vienna,,no
+http://www.wikidata.org/entity/Q527723,Digital Picture Exchange,http://www.wikidata.org/prop/direct/P287,designed by,http://www.wikidata.org/entity/Q680841,Sigma-Aldrich,no
+http://www.wikidata.org/entity/Q165980,University of Vienna,http://www.wikidata.org/prop/direct/P131,located in the administrative territorial entity,http://www.wikidata.org/entity/Q40,Austria,yes
+http://www.wikidata.org/entity/Q153,ethanol,http://www.wikidata.org/prop/direct/P1113,number of episodes,35 min,,no
+http://www.wikidata.org/entity/Q15332439,Neuropharmacology,http://www.wikidata.org/prop/direct/P1132,number of participants,41 680–692,,no
+http://www.wikidata.org/entity/Q688619,Olympus,http://www.wikidata.org/prop/direct/P1056,product or material produced,BX51WI,,yes
+http://www.wikidata.org/entity/Q15332439,Neuropharmacology,http://www.wikidata.org/prop/direct/P577,publication date,41 680–692,,no
+http://www.wikidata.org/entity/Q4914910,Bioinformatics,http://www.wikidata.org/prop/direct/P1132,number of participants,23 257–258,,no
+http://www.wikidata.org/entity/Q700731,Medical University of Vienna,http://www.wikidata.org/prop/direct/P131,located in the administrative territorial entity,http://www.wikidata.org/entity/Q1741,Vienna,yes
+http://www.wikidata.org/entity/Q422021,osmium tetroxide,http://www.wikidata.org/prop/direct/P527,has part,0.1M PB,,no
+http://www.wikidata.org/entity/Q1639737,Limma,http://www.wikidata.org/prop/direct/P361,part of,78Seurat,,no
+http://www.wikidata.org/entity/Q24910724,"Association for Molecular Pathology v. Myriad Genetics, Inc.",http://www.wikidata.org/prop/direct/P54,member of sports team,http://www.wikidata.org/entity/Q4743458,American College of Medical Genetics,no
+http://www.wikidata.org/entity/Q24910724,"Association for Molecular Pathology v. Myriad Genetics, Inc.",http://www.wikidata.org/prop/direct/P1416,affiliation,http://www.wikidata.org/entity/Q4743458,American College of Medical Genetics,no
+http://www.wikidata.org/entity/Q1388041,FEBS Journal,http://www.wikidata.org/prop/direct/P577,publication date,283,,no
+http://www.wikidata.org/entity/Q15708571,Neuroscience,http://www.wikidata.org/prop/direct/P1132,number of participants,254 369–378,,no
+http://www.wikidata.org/entity/Q39572,mitochondrion,http://www.wikidata.org/prop/direct/P1056,product or material produced,http://www.wikidata.org/entity/Q424361,reactive oxygen species,yes
+http://www.wikidata.org/entity/Q8061116,Yumie Hiraiwa,http://www.wikidata.org/prop/direct/P527,has part,Iezaki,,no
+http://www.wikidata.org/entity/Q1438124,Framework Programmes for Research and Technological Development,http://www.wikidata.org/prop/direct/P664,organizer,EuropeanUnion,,yes
+http://www.wikidata.org/entity/Q153,ethanol,http://www.wikidata.org/prop/direct/P1132,number of participants,35 min,,no
+http://www.wikidata.org/entity/Q24976083,Evolution of aerobic fermentation,http://www.wikidata.org/prop/direct/P1056,product or material produced,http://www.wikidata.org/entity/Q80863,adenosine triphosphate,yes
+http://www.wikidata.org/entity/Q1438124,Framework Programmes for Research and Technological Development,http://www.wikidata.org/prop/direct/P749,parent organization,EuropeanUnion,,yes
+http://www.wikidata.org/entity/Q6041131,Institutional Animal Care and Use Committee,http://www.wikidata.org/prop/direct/P361,part of,http://www.wikidata.org/entity/Q1665176,Institute of Science and Technology,yes
+http://www.wikidata.org/entity/Q7002483,Neuronstudio,http://www.wikidata.org/prop/direct/P361,part of,http://www.wikidata.org/entity/Q4918924,Bitplane,no
+http://www.wikidata.org/entity/Q4743458,American College of Medical Genetics,http://www.wikidata.org/prop/direct/P54,member of sports team,http://www.wikidata.org/entity/Q24910724,"Association for Molecular Pathology v. Myriad Genetics, Inc.",no
+http://www.wikidata.org/entity/Q15332439,Neuropharmacology,http://www.wikidata.org/prop/direct/P1113,number of episodes,41 680–692,,no
+http://www.wikidata.org/entity/Q165980,University of Vienna,http://www.wikidata.org/prop/direct/P131,located in the administrative territorial entity,http://www.wikidata.org/entity/Q1741,Vienna,yes
+http://www.wikidata.org/entity/Q1665176,Institute of Science and Technology,http://www.wikidata.org/prop/direct/P150,contains administrative territorial entity,http://www.wikidata.org/entity/Q1741,Vienna,yes
+http://www.wikidata.org/entity/Q1741,Vienna,http://www.wikidata.org/prop/direct/P131,located in the administrative territorial entity,http://www.wikidata.org/entity/Q1665176,Institute of Science and Technology,no
+http://www.wikidata.org/entity/Q1057,metabolism,http://www.wikidata.org/prop/direct/P1132,number of participants,44,,yes
+http://www.wikidata.org/entity/Q1665176,Institute of Science and Technology,http://www.wikidata.org/prop/direct/P150,contains administrative territorial entity,http://www.wikidata.org/entity/Q165980,University of Vienna,no
+http://www.wikidata.org/entity/Q1026367,scikit-learn,http://www.wikidata.org/prop/direct/P277,programming language,http://www.wikidata.org/entity/Q28865,Python,yes
+http://www.wikidata.org/entity/Q180445,Nature,http://www.wikidata.org/prop/direct/P1113,number of episodes,357–362,,no
+http://www.wikidata.org/entity/Q6895942,Molecular Devices,http://www.wikidata.org/prop/direct/P144,based on,Clampﬁt 10,,no
+http://www.wikidata.org/entity/Q159375,standard deviation,http://www.wikidata.org/prop/direct/P361,part of,normal distribution means,,yes
+http://www.wikidata.org/entity/Q1424533,Mann–Whitney U test,http://www.wikidata.org/prop/direct/P2283,uses,twotailed,,yes
+http://www.wikidata.org/entity/Q1500732,interneuron,http://www.wikidata.org/prop/direct/P361,part of,http://www.wikidata.org/entity/Q75839,cerebral cortex,yes
+http://www.wikidata.org/entity/Q757598,atomic demolition munition,http://www.wikidata.org/prop/direct/P287,designed by,J. Sonntag,,no
+http://www.wikidata.org/entity/Q416827,"(14β)-18-(2-Hydroxy-2-pentanyl)-6-methoxy-17-methyl-7,8-didehydro-18,19-dihydro-4,5-epoxy-6,14-ethenomorphinan-3-ol",http://www.wikidata.org/prop/direct/P127,owned by,Membrane Merck,,no
+http://www.wikidata.org/entity/Q502961,astrocyte,http://www.wikidata.org/prop/direct/P527,has part,http://www.wikidata.org/entity/Q1622829,microglia,no
+http://www.wikidata.org/entity/Q1057,metabolism,http://www.wikidata.org/prop/direct/P2043,length,44,,no
+http://www.wikidata.org/entity/Q757598,atomic demolition munition,http://www.wikidata.org/prop/direct/P287,designed by,L. Andersen,,no
+http://www.wikidata.org/entity/Q7002483,Neuronstudio,http://www.wikidata.org/prop/direct/P178,developer,http://www.wikidata.org/entity/Q4918924,Bitplane,no
+http://www.wikidata.org/entity/Q165980,University of Vienna,http://www.wikidata.org/prop/direct/P131,located in the administrative territorial entity,University of Veterinary Medicine Vienna Veterina,,no
+http://www.wikidata.org/entity/Q165980,University of Vienna,http://www.wikidata.org/prop/direct/P131,located in the administrative territorial entity,Institute of Medical Genetics Medical University of Vienna,,no
+http://www.wikidata.org/entity/Q1665176,Institute of Science and Technology,http://www.wikidata.org/prop/direct/P150,contains administrative territorial entity,University of Veterinary Medicine Vienna Veterina,,no
+http://www.wikidata.org/entity/Q1665176,Institute of Science and Technology,http://www.wikidata.org/prop/direct/P150,contains administrative territorial entity,Institute of Medical Genetics Medical University of Vienna,,no
+http://www.wikidata.org/entity/Q1639737,Limma,http://www.wikidata.org/prop/direct/P144,based on,78Seurat,,no
+http://www.wikidata.org/entity/Q1622829,microglia,http://www.wikidata.org/prop/direct/P527,has part,http://www.wikidata.org/entity/Q502961,astrocyte,no
+http://www.wikidata.org/entity/Q56277951,Nikon Coolpix P1000,http://www.wikidata.org/prop/direct/P176,manufacturer,SutterInstruments,,no
+http://www.wikidata.org/entity/Q180445,Nature,http://www.wikidata.org/prop/direct/P527,has part,568127–130,,no
+http://www.wikidata.org/entity/Q700731,Medical University of Vienna,http://www.wikidata.org/prop/direct/P159,headquarters location,http://www.wikidata.org/entity/Q1741,Vienna,yes
+http://www.wikidata.org/entity/Q416827,"(14β)-18-(2-Hydroxy-2-pentanyl)-6-methoxy-17-methyl-7,8-didehydro-18,19-dihydro-4,5-epoxy-6,14-ethenomorphinan-3-ol",http://www.wikidata.org/prop/direct/P176,manufacturer,Membrane Merck,,no
+http://www.wikidata.org/entity/Q1057,metabolism,http://www.wikidata.org/prop/direct/P1113,number of episodes,44,,no
+http://www.wikidata.org/entity/Q165980,University of Vienna,http://www.wikidata.org/prop/direct/P131,located in the administrative territorial entity,Institute of Organic Chemistry University of Vienna,,no
+http://www.wikidata.org/entity/Q165980,University of Vienna,http://www.wikidata.org/prop/direct/P131,located in the administrative territorial entity,http://www.wikidata.org/entity/Q1665176,Institute of Science and Technology,no
+http://www.wikidata.org/entity/Q1665176,Institute of Science and Technology,http://www.wikidata.org/prop/direct/P150,contains administrative territorial entity,Institute of Organic Chemistry University of Vienna,,no
+http://www.wikidata.org/entity/Q1438124,Framework Programmes for Research and Technological Development,http://www.wikidata.org/prop/direct/P137,operator,EuropeanUnion,,yes
+http://www.wikidata.org/entity/Q40,Austria,http://www.wikidata.org/prop/direct/P150,contains administrative territorial entity,http://www.wikidata.org/entity/Q1741,Vienna,yes
+http://www.wikidata.org/entity/Q527723,Digital Picture Exchange,http://www.wikidata.org/prop/direct/P176,manufacturer,http://www.wikidata.org/entity/Q680841,Sigma-Aldrich,no
+http://www.wikidata.org/entity/Q2261280,Neuropsychopharmacology,http://www.wikidata.org/prop/direct/P577,publication date,4061–87,,no
+http://www.wikidata.org/entity/Q4914910,Bioinformatics,http://www.wikidata.org/prop/direct/P1132,number of participants,29,,yes
+http://www.wikidata.org/entity/Q40,Austria,http://www.wikidata.org/prop/direct/P150,contains administrative territorial entity,http://www.wikidata.org/entity/Q165980,University of Vienna,no
+http://www.wikidata.org/entity/Q159375,standard deviation,http://www.wikidata.org/prop/direct/P1269,facet of,normal distribution means,,yes
+http://www.wikidata.org/entity/Q180445,Nature,http://www.wikidata.org/prop/direct/P527,has part,491,,no
+http://www.wikidata.org/entity/Q1741,Vienna,http://www.wikidata.org/prop/direct/P131,located in the administrative territorial entity,http://www.wikidata.org/entity/Q40,Austria,yes
+http://www.wikidata.org/entity/Q5270140,Diabetologia,http://www.wikidata.org/prop/direct/P1132,number of participants,48 2313–2321,,no
+http://www.wikidata.org/entity/Q1659584,ImageJ,http://www.wikidata.org/prop/direct/P361,part of,ZenBlue 2.6,,no
+http://www.wikidata.org/entity/Q6895942,Molecular Devices,http://www.wikidata.org/prop/direct/P306,operating system,Clampﬁt 10,,no

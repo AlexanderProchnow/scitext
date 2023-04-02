@@ -1,0 +1,48 @@
+s,slabel,p,plabel,o,olabel,evaluation
+http://www.wikidata.org/entity/Q4260402,Kona District,http://www.wikidata.org/prop/direct/P706,located on terrain feature,http://www.wikidata.org/entity/Q782,Hawaii,yes
+http://www.wikidata.org/entity/Q220,Rome,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,yes
+http://www.wikidata.org/entity/Q2696688,University of Washington Friday Harbor Laboratories,http://www.wikidata.org/prop/direct/P361,part of,http://www.wikidata.org/entity/Q219563,University of Washington,yes
+http://www.wikidata.org/entity/Q214700,National Oceanic and Atmospheric Administration,http://www.wikidata.org/prop/direct/P355,subsidiary,the Ocean Visions Consortium,,no
+http://www.wikidata.org/entity/Q1070333,University of Arkansas,http://www.wikidata.org/prop/direct/P527,has part,http://www.wikidata.org/entity/Q49115,Cornell University,no
+http://www.wikidata.org/entity/Q148,People's Republic of China,http://www.wikidata.org/prop/direct/P530,diplomatic relation,http://www.wikidata.org/entity/Q458,European Union,yes
+http://www.wikidata.org/entity/Q1070333,University of Arkansas,http://www.wikidata.org/prop/direct/P1416,affiliation,http://www.wikidata.org/entity/Q49115,Cornell University,no
+http://www.wikidata.org/entity/Q11683311,National Institute of Food and Agriculture,http://www.wikidata.org/prop/direct/P749,parent organization,http://www.wikidata.org/entity/Q501542,United States Department of Agriculture,yes
+http://www.wikidata.org/entity/Q61,"Washington, D.C.",http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,yes
+http://www.wikidata.org/entity/Q954828,CRC Press,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,yes
+http://www.wikidata.org/entity/Q220,Rome,http://www.wikidata.org/prop/direct/P1376,capital of,http://www.wikidata.org/entity/Q38,Italy,yes
+http://www.wikidata.org/entity/Q148,People's Republic of China,http://www.wikidata.org/prop/direct/P47,shares border with,http://www.wikidata.org/entity/Q458,European Union,no
+http://www.wikidata.org/entity/Q49115,Cornell University,http://www.wikidata.org/prop/direct/P131,located in the administrative territorial entity,http://www.wikidata.org/entity/Q217346,Ithaca,yes
+http://www.wikidata.org/entity/Q5465416,Food and Agriculture Organization Corporate Statistical Database,http://www.wikidata.org/prop/direct/P101,field of work,Food and Agriculture Statistics,,yes
+http://www.wikidata.org/entity/Q20,Norway,http://www.wikidata.org/prop/direct/P36,capital,http://www.wikidata.org/entity/Q585,Oslo,yes
+http://www.wikidata.org/entity/Q4260402,Kona District,http://www.wikidata.org/prop/direct/P131,located in the administrative territorial entity,http://www.wikidata.org/entity/Q782,Hawaii,yes
+http://www.wikidata.org/entity/Q2696688,University of Washington Friday Harbor Laboratories,http://www.wikidata.org/prop/direct/P749,parent organization,http://www.wikidata.org/entity/Q219563,University of Washington,yes
+http://www.wikidata.org/entity/Q49,North America,http://www.wikidata.org/prop/direct/P361,part of,http://www.wikidata.org/entity/Q1149903,Global South,no
+http://www.wikidata.org/entity/Q20,Norway,http://www.wikidata.org/prop/direct/P150,contains administrative territorial entity,http://www.wikidata.org/entity/Q585,Oslo,yes
+http://www.wikidata.org/entity/Q38,Italy,http://www.wikidata.org/prop/direct/P54,member of sports team,http://www.wikidata.org/entity/Q1065,United Nations,no
+http://www.wikidata.org/entity/Q921851,geoengineering,http://www.wikidata.org/prop/direct/P2283,uses,climate stabilization,,yes
+http://www.wikidata.org/entity/Q585,Oslo,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q20,Norway,yes
+http://www.wikidata.org/entity/Q5465416,Food and Agriculture Organization Corporate Statistical Database,http://www.wikidata.org/prop/direct/P31,instance of,Food and Agriculture Statistics,,yes
+http://www.wikidata.org/entity/Q217810,United States Department of Energy,http://www.wikidata.org/prop/direct/P355,subsidiary,Renewable Energy Bioenergy Technologies Office,,yes
+http://www.wikidata.org/entity/Q3075923,Green Climate Fund,http://www.wikidata.org/prop/direct/P159,headquarters location,http://www.wikidata.org/entity/Q5468,Durban,no
+http://www.wikidata.org/entity/Q29422,Boca Raton,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,yes
+http://www.wikidata.org/entity/Q168751,Duke University,http://www.wikidata.org/prop/direct/P159,headquarters location,University Beaufort,,no
+http://www.wikidata.org/entity/Q3010381,Saccharina,http://www.wikidata.org/prop/direct/P279,subclass of,http://www.wikidata.org/entity/Q237169,seaweed,yes
+http://www.wikidata.org/entity/Q2072757,ARPA-E,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,yes
+http://www.wikidata.org/entity/Q11683311,National Institute of Food and Agriculture,http://www.wikidata.org/prop/direct/P361,part of,http://www.wikidata.org/entity/Q501542,United States Department of Agriculture,yes
+http://www.wikidata.org/entity/Q589518,microphyte,http://www.wikidata.org/prop/direct/P527,has part,http://www.wikidata.org/entity/Q237169,seaweed,no
+http://www.wikidata.org/entity/Q155,Brazil,http://www.wikidata.org/prop/direct/P2046,area,4206016 km2,,yes
+http://www.wikidata.org/entity/Q714439,Oak Ridge National Laboratory,http://www.wikidata.org/prop/direct/P131,located in the administrative territorial entity,http://www.wikidata.org/entity/Q1509,Tennessee,yes
+http://www.wikidata.org/entity/Q501542,United States Department of Agriculture,http://www.wikidata.org/prop/direct/P355,subsidiary,http://www.wikidata.org/entity/Q11683311,National Institute of Food and Agriculture,yes
+http://www.wikidata.org/entity/Q3075923,Green Climate Fund,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q258,South Africa,no
+http://www.wikidata.org/entity/Q155,Brazil,http://www.wikidata.org/prop/direct/P54,member of sports team,FAO 2021,,no
+http://www.wikidata.org/entity/Q5468,Durban,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q258,South Africa,yes
+http://www.wikidata.org/entity/Q7232189,Portobello Marine Laboratory,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,no
+http://www.wikidata.org/entity/Q30,United States of America,http://www.wikidata.org/prop/direct/P54,member of sports team,FAO 2022,,no
+http://www.wikidata.org/entity/Q458,European Union,http://www.wikidata.org/prop/direct/P530,diplomatic relation,http://www.wikidata.org/entity/Q148,People's Republic of China,yes
+http://www.wikidata.org/entity/Q182016,United Nations Environment Programme,http://www.wikidata.org/prop/direct/P159,headquarters location,GRIDArendal,,no
+http://www.wikidata.org/entity/Q1149903,Global South,http://www.wikidata.org/prop/direct/P527,has part,aqua culture,,yes
+http://www.wikidata.org/entity/Q38,Italy,http://www.wikidata.org/prop/direct/P36,capital,http://www.wikidata.org/entity/Q220,Rome,yes
+http://www.wikidata.org/entity/Q49115,Cornell University,http://www.wikidata.org/prop/direct/P749,parent organization,http://www.wikidata.org/entity/Q1070333,University of Arkansas,no
+http://www.wikidata.org/entity/Q30,United States of America,http://www.wikidata.org/prop/direct/P36,capital,http://www.wikidata.org/entity/Q61,"Washington, D.C.",yes
+http://www.wikidata.org/entity/Q912887,Cambridge University Press,http://www.wikidata.org/prop/direct/P159,headquarters location,http://www.wikidata.org/entity/Q350,Cambridge,yes
+http://www.wikidata.org/entity/Q954828,CRC Press,http://www.wikidata.org/prop/direct/P159,headquarters location,http://www.wikidata.org/entity/Q29422,Boca Raton,yes

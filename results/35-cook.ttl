@@ -1,0 +1,61 @@
+@prefix ns1: <http://www.wikidata.org/prop/direct/> .
+
+<http://www.wikidata.org/entity/Q1155898> ns1:P26 "J. Bartolone" ;
+    ns1:P3373 "J. Bartolone" .
+
+<http://www.wikidata.org/entity/Q190212> ns1:P527 "zero" .
+
+<http://www.wikidata.org/entity/Q3233780> ns1:P17 <http://www.wikidata.org/entity/Q30> .
+
+<http://www.wikidata.org/entity/Q6970107> ns1:P131 <http://www.wikidata.org/entity/Q61> ;
+    ns1:P159 <http://www.wikidata.org/entity/Q61> .
+
+<http://www.wikidata.org/entity/Q6974659> ns1:P159 <http://www.wikidata.org/entity/Q131252> ;
+    ns1:P355 <http://www.wikidata.org/entity/Q131252> ;
+    ns1:P740 <http://www.wikidata.org/entity/Q131252> .
+
+<http://www.wikidata.org/entity/Q7101947> ns1:P17 <http://www.wikidata.org/entity/Q6876686> .
+
+<http://www.wikidata.org/entity/Q848624> ns1:P279 <http://www.wikidata.org/entity/Q49297> .
+
+<http://www.wikidata.org/entity/Q969026> ns1:P17 <http://www.wikidata.org/entity/Q6876686> .
+
+<http://www.wikidata.org/entity/Q1370> ns1:P150 <http://www.wikidata.org/entity/Q88> .
+
+<http://www.wikidata.org/entity/Q18378619> ns1:P361 <http://www.wikidata.org/entity/Q743411> ;
+    ns1:P749 <http://www.wikidata.org/entity/Q743411> .
+
+<http://www.wikidata.org/entity/Q49297> ns1:P527 "Native Hawaiian/Pacific Islanders" .
+
+<http://www.wikidata.org/entity/Q5654568> ns1:P361 <http://www.wikidata.org/entity/Q429863> ;
+    ns1:P749 <http://www.wikidata.org/entity/Q429863> .
+
+<http://www.wikidata.org/entity/Q6978271> ns1:P1830 "Merit Review Report10" ;
+    ns1:P361 <http://www.wikidata.org/entity/Q304878> ;
+    ns1:P749 <http://www.wikidata.org/entity/Q304878> .
+
+<http://www.wikidata.org/entity/Q771> ns1:P150 "New Y ork" ;
+    ns1:P47 <http://www.wikidata.org/entity/Q99> .
+
+<http://www.wikidata.org/entity/Q824> ns1:P47 <http://www.wikidata.org/entity/Q99> .
+
+<http://www.wikidata.org/entity/Q88> ns1:P131 <http://www.wikidata.org/entity/Q1370> .
+
+<http://www.wikidata.org/entity/Q304878> ns1:P355 <http://www.wikidata.org/entity/Q6978271>,
+        "Division of Ocean Sciences",
+        "GRFP",
+        "Graduate Research Fellowship Program",
+        "the Biological Sciences Directorate" .
+
+<http://www.wikidata.org/entity/Q429863> ns1:P131 <http://www.wikidata.org/entity/Q584340> ;
+    ns1:P159 <http://www.wikidata.org/entity/Q584340> ;
+    ns1:P17 <http://www.wikidata.org/entity/Q30> ;
+    ns1:P355 <http://www.wikidata.org/entity/Q5654568> .
+
+<http://www.wikidata.org/entity/Q584340> ns1:P17 <http://www.wikidata.org/entity/Q30> .
+
+<http://www.wikidata.org/entity/Q743411> ns1:P101 <http://www.wikidata.org/entity/Q18378619> .
+
+<http://www.wikidata.org/entity/Q99> ns1:P47 <http://www.wikidata.org/entity/Q771>,
+        <http://www.wikidata.org/entity/Q824> .
+

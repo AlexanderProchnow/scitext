@@ -1,0 +1,39 @@
+s,slabel,p,plabel,o,olabel,evaluation
+http://www.wikidata.org/entity/Q6974659,National Opinion Research Center,http://www.wikidata.org/prop/direct/P740,location of formation,http://www.wikidata.org/entity/Q131252,University of Chicago,yes
+http://www.wikidata.org/entity/Q429863,Florida Atlantic University,http://www.wikidata.org/prop/direct/P355,subsidiary,http://www.wikidata.org/entity/Q5654568,Harbor Branch Oceanographic Institute,yes
+http://www.wikidata.org/entity/Q771,Massachusetts,http://www.wikidata.org/prop/direct/P47,shares border with,http://www.wikidata.org/entity/Q99,California,no
+http://www.wikidata.org/entity/Q584340,Fort Pierce,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,yes
+http://www.wikidata.org/entity/Q969026,Vero Beach,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q6876686,Miss Florida USA,no
+http://www.wikidata.org/entity/Q99,California,http://www.wikidata.org/prop/direct/P47,shares border with,http://www.wikidata.org/entity/Q771,Massachusetts,no
+http://www.wikidata.org/entity/Q5654568,Harbor Branch Oceanographic Institute,http://www.wikidata.org/prop/direct/P749,parent organization,http://www.wikidata.org/entity/Q429863,Florida Atlantic University,yes
+http://www.wikidata.org/entity/Q190212,asterisk,http://www.wikidata.org/prop/direct/P527,has part,zero,,no
+http://www.wikidata.org/entity/Q3233780,"National Academies of Sciences, Engineering, and Medicine",http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,yes
+http://www.wikidata.org/entity/Q429863,Florida Atlantic University,http://www.wikidata.org/prop/direct/P159,headquarters location,http://www.wikidata.org/entity/Q584340,Fort Pierce,no
+http://www.wikidata.org/entity/Q6974659,National Opinion Research Center,http://www.wikidata.org/prop/direct/P159,headquarters location,http://www.wikidata.org/entity/Q131252,University of Chicago,yes
+http://www.wikidata.org/entity/Q49297,Native Americans in the United States,http://www.wikidata.org/prop/direct/P527,has part,Native Hawaiian/Pacific Islanders,,no
+http://www.wikidata.org/entity/Q88,Alexandria,http://www.wikidata.org/prop/direct/P131,located in the administrative territorial entity,http://www.wikidata.org/entity/Q1370,Virginia,yes
+http://www.wikidata.org/entity/Q429863,Florida Atlantic University,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,yes
+http://www.wikidata.org/entity/Q6974659,National Opinion Research Center,http://www.wikidata.org/prop/direct/P355,subsidiary,http://www.wikidata.org/entity/Q131252,University of Chicago,yes
+http://www.wikidata.org/entity/Q6970107,National Academies Press,http://www.wikidata.org/prop/direct/P131,located in the administrative territorial entity,http://www.wikidata.org/entity/Q61,"Washington, D.C.",yes
+http://www.wikidata.org/entity/Q304878,National Science Foundation,http://www.wikidata.org/prop/direct/P355,subsidiary,GRFP,,yes
+http://www.wikidata.org/entity/Q6978271,National Science Board,http://www.wikidata.org/prop/direct/P1830,owner of,Merit Review Report10,,yes
+http://www.wikidata.org/entity/Q6978271,National Science Board,http://www.wikidata.org/prop/direct/P361,part of,http://www.wikidata.org/entity/Q304878,National Science Foundation,yes
+http://www.wikidata.org/entity/Q743411,Océ,http://www.wikidata.org/prop/direct/P101,field of work,http://www.wikidata.org/entity/Q18378619,biological oceanography,yes
+http://www.wikidata.org/entity/Q1155898,Le V,http://www.wikidata.org/prop/direct/P26,spouse,J. Bartolone,,no
+http://www.wikidata.org/entity/Q848624,Alaska Natives,http://www.wikidata.org/prop/direct/P279,subclass of,http://www.wikidata.org/entity/Q49297,Native Americans in the United States,yes
+http://www.wikidata.org/entity/Q304878,National Science Foundation,http://www.wikidata.org/prop/direct/P355,subsidiary,http://www.wikidata.org/entity/Q6978271,National Science Board,yes
+http://www.wikidata.org/entity/Q824,Oregon,http://www.wikidata.org/prop/direct/P47,shares border with,http://www.wikidata.org/entity/Q99,California,yes
+http://www.wikidata.org/entity/Q1155898,Le V,http://www.wikidata.org/prop/direct/P3373,sibling,J. Bartolone,,no
+http://www.wikidata.org/entity/Q304878,National Science Foundation,http://www.wikidata.org/prop/direct/P355,subsidiary,Division of Ocean Sciences,,yes
+http://www.wikidata.org/entity/Q18378619,biological oceanography,http://www.wikidata.org/prop/direct/P361,part of,http://www.wikidata.org/entity/Q743411,Océ,yes
+http://www.wikidata.org/entity/Q304878,National Science Foundation,http://www.wikidata.org/prop/direct/P355,subsidiary,Graduate Research Fellowship Program,,yes
+http://www.wikidata.org/entity/Q304878,National Science Foundation,http://www.wikidata.org/prop/direct/P355,subsidiary,the Biological Sciences Directorate,,yes
+http://www.wikidata.org/entity/Q6978271,National Science Board,http://www.wikidata.org/prop/direct/P749,parent organization,http://www.wikidata.org/entity/Q304878,National Science Foundation,yes
+http://www.wikidata.org/entity/Q771,Massachusetts,http://www.wikidata.org/prop/direct/P150,contains administrative territorial entity,New Y ork,,no
+http://www.wikidata.org/entity/Q7101947,Organization for Respect and Care for Animals,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q6876686,Miss Florida USA,no
+http://www.wikidata.org/entity/Q5654568,Harbor Branch Oceanographic Institute,http://www.wikidata.org/prop/direct/P361,part of,http://www.wikidata.org/entity/Q429863,Florida Atlantic University,yes
+http://www.wikidata.org/entity/Q99,California,http://www.wikidata.org/prop/direct/P47,shares border with,http://www.wikidata.org/entity/Q824,Oregon,yes
+http://www.wikidata.org/entity/Q429863,Florida Atlantic University,http://www.wikidata.org/prop/direct/P131,located in the administrative territorial entity,http://www.wikidata.org/entity/Q584340,Fort Pierce,no
+http://www.wikidata.org/entity/Q1370,Virginia,http://www.wikidata.org/prop/direct/P150,contains administrative territorial entity,http://www.wikidata.org/entity/Q88,Alexandria,yes
+http://www.wikidata.org/entity/Q6970107,National Academies Press,http://www.wikidata.org/prop/direct/P159,headquarters location,http://www.wikidata.org/entity/Q61,"Washington, D.C.",yes
+http://www.wikidata.org/entity/Q18378619,biological oceanography,http://www.wikidata.org/prop/direct/P749,parent organization,http://www.wikidata.org/entity/Q743411,Océ,yes

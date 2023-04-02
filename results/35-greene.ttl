@@ -1,0 +1,82 @@
+@prefix ns1: <http://www.wikidata.org/prop/direct/> .
+
+<http://www.wikidata.org/entity/Q155> ns1:P2046 "4206016 km2" ;
+    ns1:P54 "FAO 2021" .
+
+<http://www.wikidata.org/entity/Q168751> ns1:P159 "University Beaufort" .
+
+<http://www.wikidata.org/entity/Q182016> ns1:P159 "GRIDArendal" .
+
+<http://www.wikidata.org/entity/Q2072757> ns1:P17 <http://www.wikidata.org/entity/Q30> .
+
+<http://www.wikidata.org/entity/Q214700> ns1:P355 "the Ocean Visions Consortium" .
+
+<http://www.wikidata.org/entity/Q217810> ns1:P355 "Renewable Energy Bioenergy Technologies Office" .
+
+<http://www.wikidata.org/entity/Q2696688> ns1:P361 <http://www.wikidata.org/entity/Q219563> ;
+    ns1:P749 <http://www.wikidata.org/entity/Q219563> .
+
+<http://www.wikidata.org/entity/Q3010381> ns1:P279 <http://www.wikidata.org/entity/Q237169> .
+
+<http://www.wikidata.org/entity/Q3075923> ns1:P159 <http://www.wikidata.org/entity/Q5468> ;
+    ns1:P17 <http://www.wikidata.org/entity/Q258> .
+
+<http://www.wikidata.org/entity/Q4260402> ns1:P131 <http://www.wikidata.org/entity/Q782> ;
+    ns1:P706 <http://www.wikidata.org/entity/Q782> .
+
+<http://www.wikidata.org/entity/Q49> ns1:P361 <http://www.wikidata.org/entity/Q1149903> .
+
+<http://www.wikidata.org/entity/Q5465416> ns1:P101 "Food and Agriculture Statistics" ;
+    ns1:P31 "Food and Agriculture Statistics" .
+
+<http://www.wikidata.org/entity/Q589518> ns1:P527 <http://www.wikidata.org/entity/Q237169> .
+
+<http://www.wikidata.org/entity/Q714439> ns1:P131 <http://www.wikidata.org/entity/Q1509> .
+
+<http://www.wikidata.org/entity/Q7232189> ns1:P17 <http://www.wikidata.org/entity/Q30> .
+
+<http://www.wikidata.org/entity/Q912887> ns1:P159 <http://www.wikidata.org/entity/Q350> .
+
+<http://www.wikidata.org/entity/Q921851> ns1:P2283 "climate stabilization" .
+
+<http://www.wikidata.org/entity/Q954828> ns1:P159 <http://www.wikidata.org/entity/Q29422> ;
+    ns1:P17 <http://www.wikidata.org/entity/Q30> .
+
+<http://www.wikidata.org/entity/Q1070333> ns1:P1416 <http://www.wikidata.org/entity/Q49115> ;
+    ns1:P527 <http://www.wikidata.org/entity/Q49115> .
+
+<http://www.wikidata.org/entity/Q1149903> ns1:P527 "aqua culture" .
+
+<http://www.wikidata.org/entity/Q11683311> ns1:P361 <http://www.wikidata.org/entity/Q501542> ;
+    ns1:P749 <http://www.wikidata.org/entity/Q501542> .
+
+<http://www.wikidata.org/entity/Q148> ns1:P47 <http://www.wikidata.org/entity/Q458> ;
+    ns1:P530 <http://www.wikidata.org/entity/Q458> .
+
+<http://www.wikidata.org/entity/Q20> ns1:P150 <http://www.wikidata.org/entity/Q585> ;
+    ns1:P36 <http://www.wikidata.org/entity/Q585> .
+
+<http://www.wikidata.org/entity/Q220> ns1:P1376 <http://www.wikidata.org/entity/Q38> ;
+    ns1:P17 <http://www.wikidata.org/entity/Q38> .
+
+<http://www.wikidata.org/entity/Q29422> ns1:P17 <http://www.wikidata.org/entity/Q30> .
+
+<http://www.wikidata.org/entity/Q5468> ns1:P17 <http://www.wikidata.org/entity/Q258> .
+
+<http://www.wikidata.org/entity/Q61> ns1:P17 <http://www.wikidata.org/entity/Q30> .
+
+<http://www.wikidata.org/entity/Q38> ns1:P36 <http://www.wikidata.org/entity/Q220> ;
+    ns1:P54 <http://www.wikidata.org/entity/Q1065> .
+
+<http://www.wikidata.org/entity/Q458> ns1:P530 <http://www.wikidata.org/entity/Q148> .
+
+<http://www.wikidata.org/entity/Q49115> ns1:P131 <http://www.wikidata.org/entity/Q217346> ;
+    ns1:P749 <http://www.wikidata.org/entity/Q1070333> .
+
+<http://www.wikidata.org/entity/Q501542> ns1:P355 <http://www.wikidata.org/entity/Q11683311> .
+
+<http://www.wikidata.org/entity/Q585> ns1:P17 <http://www.wikidata.org/entity/Q20> .
+
+<http://www.wikidata.org/entity/Q30> ns1:P36 <http://www.wikidata.org/entity/Q61> ;
+    ns1:P54 "FAO 2022" .
+

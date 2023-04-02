@@ -1,0 +1,71 @@
+@prefix ns1: <http://www.wikidata.org/prop/direct/> .
+
+<http://www.wikidata.org/entity/Q1041737> ns1:P131 <http://www.wikidata.org/entity/Q1930>,
+        <http://www.wikidata.org/entity/Q5589283> ;
+    ns1:P1416 <http://www.wikidata.org/entity/Q5589283> ;
+    ns1:P159 <http://www.wikidata.org/entity/Q1930> .
+
+<http://www.wikidata.org/entity/Q1165215> ns1:P131 "Thunder Bay ON" ;
+    ns1:P159 "Thunder Bay ON" .
+
+<http://www.wikidata.org/entity/Q1287978> ns1:P1269 <http://www.wikidata.org/entity/Q425265> .
+
+<http://www.wikidata.org/entity/Q147638> ns1:P123 "Frontiers inPsychology" ;
+    ns1:P361 "Frontiers inPsychology" .
+
+<http://www.wikidata.org/entity/Q15088481> ns1:P1113 "5 80–91" ;
+    ns1:P1132 "5 80–91" ;
+    ns1:P527 "1 118–129",
+        "5 80–91" .
+
+<http://www.wikidata.org/entity/Q15758457> ns1:P361 "aFrontiers in Psychology" .
+
+<http://www.wikidata.org/entity/Q1699627> ns1:P355 "Naturea Survey" .
+
+<http://www.wikidata.org/entity/Q1733> ns1:P17 <http://www.wikidata.org/entity/Q183> .
+
+<http://www.wikidata.org/entity/Q2025724> ns1:P1132 "33" .
+
+<http://www.wikidata.org/entity/Q5075918> ns1:P3373 "M. G. Kross" .
+
+<http://www.wikidata.org/entity/Q6823859> ns1:P1132 "7" ;
+    ns1:P2043 "7" .
+
+<http://www.wikidata.org/entity/Q7552196> ns1:P131 <http://www.wikidata.org/entity/Q16559> ;
+    ns1:P159 <http://www.wikidata.org/entity/Q16559> .
+
+<http://www.wikidata.org/entity/Q758234> ns1:P1269 "subjectivewellbeing" ;
+    ns1:P31 "subjectivewellbeing" ;
+    ns1:P361 "subjectivewellbeing" .
+
+<http://www.wikidata.org/entity/Q815382> ns1:P527 "moderatoranalyses" .
+
+<http://www.wikidata.org/entity/Q880582> ns1:P19 "Hillsdale NJ" .
+
+<http://www.wikidata.org/entity/Q1333105> ns1:P26 <http://www.wikidata.org/entity/Q4190418> .
+
+<http://www.wikidata.org/entity/Q16> ns1:P361 <http://www.wikidata.org/entity/Q46> ;
+    ns1:P47 <http://www.wikidata.org/entity/Q30> .
+
+<http://www.wikidata.org/entity/Q30> ns1:P47 <http://www.wikidata.org/entity/Q16> .
+
+<http://www.wikidata.org/entity/Q4190418> ns1:P26 <http://www.wikidata.org/entity/Q1333105> ;
+    ns1:P527 "Capaldi Dopko" .
+
+<http://www.wikidata.org/entity/Q43103> ns1:P1889 <http://www.wikidata.org/entity/Q2447438> ;
+    ns1:P527 <http://www.wikidata.org/entity/Q2447438> .
+
+<http://www.wikidata.org/entity/Q466587> ns1:P355 <http://www.wikidata.org/entity/Q5162995>,
+        "Division 34" .
+
+<http://www.wikidata.org/entity/Q5162995> ns1:P749 <http://www.wikidata.org/entity/Q466587> .
+
+<http://www.wikidata.org/entity/Q179289> ns1:P1889 <http://www.wikidata.org/entity/Q186290> ;
+    ns1:P461 <http://www.wikidata.org/entity/Q186290> .
+
+<http://www.wikidata.org/entity/Q186290> ns1:P1889 <http://www.wikidata.org/entity/Q179289> ;
+    ns1:P461 <http://www.wikidata.org/entity/Q179289> .
+
+<http://www.wikidata.org/entity/Q2447438> ns1:P1889 <http://www.wikidata.org/entity/Q43103> ;
+    ns1:P279 <http://www.wikidata.org/entity/Q36747> .
+

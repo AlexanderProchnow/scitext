@@ -1,16 +1,13 @@
 s,slabel,p,plabel,o,olabel,evaluation
-http://www.wikidata.org/entity/Q29037,root-mean-square deviation,http://www.wikidata.org/prop/direct/P527,has part,http://www.wikidata.org/entity/Q29037,root-mean-square deviation,no
-http://www.wikidata.org/entity/Q131566,Institute of Electrical and Electronics Engineers,http://www.wikidata.org/prop/direct/P740,location of formation,http://www.wikidata.org/entity/Q16555,Houston,no
-http://www.wikidata.org/entity/Q5051810,categorical distribution,http://www.wikidata.org/prop/direct/P279,subclass of,http://www.wikidata.org/entity/Q5051810,categorical distribution,yes
-http://www.wikidata.org/entity/Q7301484,Reason Foundation,http://www.wikidata.org/prop/direct/P131,located in the administrative territorial entity,CA2009,,no
-http://www.wikidata.org/entity/Q611360,Sirindhorn International Institute of Technology,http://www.wikidata.org/prop/direct/P749,parent organization,SIIT Thammasat University,,yes
-http://www.wikidata.org/entity/Q29037,root-mean-square deviation,http://www.wikidata.org/prop/direct/P361,part of,http://www.wikidata.org/entity/Q29037,root-mean-square deviation,no
-http://www.wikidata.org/entity/Q5970536,IEEE Xplore,http://www.wikidata.org/prop/direct/P178,developer,http://www.wikidata.org/entity/Q5970536,IEEE Xplore,no
 http://www.wikidata.org/entity/Q5970536,IEEE Xplore,http://www.wikidata.org/prop/direct/P2283,uses,UTC,,yes
-http://www.wikidata.org/entity/Q7554146,softmax function,http://www.wikidata.org/prop/direct/P279,subclass of,http://www.wikidata.org/entity/Q7554146,softmax function,no
-http://www.wikidata.org/entity/Q131566,Institute of Electrical and Electronics Engineers,http://www.wikidata.org/prop/direct/P131,located in the administrative territorial entity,http://www.wikidata.org/entity/Q16555,Houston,yes
-http://www.wikidata.org/entity/Q83813,Savannah,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,yes
-http://www.wikidata.org/entity/Q131566,Institute of Electrical and Electronics Engineers,http://www.wikidata.org/prop/direct/P159,headquarters location,http://www.wikidata.org/entity/Q16555,Houston,no
-http://www.wikidata.org/entity/Q28470421,Keras,http://www.wikidata.org/prop/direct/P2283,uses,TensorflowTM,,yes
-http://www.wikidata.org/entity/Q7554146,softmax function,http://www.wikidata.org/prop/direct/P31,instance of,http://www.wikidata.org/entity/Q7554146,softmax function,yes
 http://www.wikidata.org/entity/Q7301484,Reason Foundation,http://www.wikidata.org/prop/direct/P131,located in the administrative territorial entity,http://www.wikidata.org/entity/Q65,Los Angeles,yes
+http://www.wikidata.org/entity/Q131566,Institute of Electrical and Electronics Engineers,http://www.wikidata.org/prop/direct/P740,location of formation,http://www.wikidata.org/entity/Q16555,Houston,no
+http://www.wikidata.org/entity/Q1861,Bangkok,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q869,Thailand,yes
+http://www.wikidata.org/entity/Q869,Thailand,http://www.wikidata.org/prop/direct/P150,contains administrative territorial entity,http://www.wikidata.org/entity/Q1861,Bangkok,yes
+http://www.wikidata.org/entity/Q28470421,Keras,http://www.wikidata.org/prop/direct/P2283,uses,TensorflowTM,,yes
+http://www.wikidata.org/entity/Q131566,Institute of Electrical and Electronics Engineers,http://www.wikidata.org/prop/direct/P159,headquarters location,http://www.wikidata.org/entity/Q16555,Houston,no
+http://www.wikidata.org/entity/Q83813,Savannah,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,yes
+http://www.wikidata.org/entity/Q611360,Sirindhorn International Institute of Technology,http://www.wikidata.org/prop/direct/P749,parent organization,SIIT Thammasat University,,yes
+http://www.wikidata.org/entity/Q869,Thailand,http://www.wikidata.org/prop/direct/P36,capital,http://www.wikidata.org/entity/Q1861,Bangkok,yes
+http://www.wikidata.org/entity/Q131566,Institute of Electrical and Electronics Engineers,http://www.wikidata.org/prop/direct/P131,located in the administrative territorial entity,http://www.wikidata.org/entity/Q16555,Houston,yes
+http://www.wikidata.org/entity/Q7301484,Reason Foundation,http://www.wikidata.org/prop/direct/P131,located in the administrative territorial entity,CA2009,,no

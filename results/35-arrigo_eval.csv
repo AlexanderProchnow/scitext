@@ -1,36 +1,34 @@
 s,slabel,p,plabel,o,olabel,evaluation
-http://www.wikidata.org/entity/Q2928358,United States Government Publishing Office,http://www.wikidata.org/prop/direct/P159,headquarters location,http://www.wikidata.org/entity/Q61,"Washington, D.C.",yes
-http://www.wikidata.org/entity/Q1162568,International Council for Science,http://www.wikidata.org/prop/direct/P355,subsidiary,http://www.wikidata.org/entity/Q1115753,Committee on Space Research,yes
-http://www.wikidata.org/entity/Q1162568,International Council for Science,http://www.wikidata.org/prop/direct/P527,has part,http://www.wikidata.org/entity/Q1115753,Committee on Space Research,yes
 http://www.wikidata.org/entity/Q1147312,NASA Astrobiology Institute,http://www.wikidata.org/prop/direct/P101,field of work,http://www.wikidata.org/entity/Q2,Earth,yes
-http://www.wikidata.org/entity/Q35666,glacier,http://www.wikidata.org/prop/direct/P1889,different from,http://www.wikidata.org/entity/Q12599,ice sheet,yes
-http://www.wikidata.org/entity/Q1115753,Committee on Space Research,http://www.wikidata.org/prop/direct/P749,parent organization,http://www.wikidata.org/entity/Q1162568,International Council for Science,yes
-http://www.wikidata.org/entity/Q35666,glacier,http://www.wikidata.org/prop/direct/P279,subclass of,http://www.wikidata.org/entity/Q12599,ice sheet,no
-http://www.wikidata.org/entity/Q15637513,Europa Clipper,http://www.wikidata.org/prop/direct/P137,operator,http://www.wikidata.org/entity/Q23548,National Aeronautics and Space Administration,yes
-http://www.wikidata.org/entity/Q6970107,National Academies Press,http://www.wikidata.org/prop/direct/P131,located in the administrative territorial entity,http://www.wikidata.org/entity/Q61,"Washington, D.C.",yes
-http://www.wikidata.org/entity/Q1147312,NASA Astrobiology Institute,http://www.wikidata.org/prop/direct/P749,parent organization,http://www.wikidata.org/entity/Q1147312,NASA Astrobiology Institute,no
-http://www.wikidata.org/entity/Q3233780,"National Academies of Sciences, Engineering, and Medicine",http://www.wikidata.org/prop/direct/P355,subsidiary,the Space Studies Board SSB,,yes
-http://www.wikidata.org/entity/Q214700,National Oceanic and Atmospheric Administration,http://www.wikidata.org/prop/direct/P355,subsidiary,http://www.wikidata.org/entity/Q934589,National Center for Atmospheric Research,no
-http://www.wikidata.org/entity/Q23548,National Aeronautics and Space Administration,http://www.wikidata.org/prop/direct/P355,subsidiary,http://www.wikidata.org/entity/Q179103,Japan Aerospace Exploration Agency,no
-http://www.wikidata.org/entity/Q223,Greenland,http://www.wikidata.org/prop/direct/P30,continent,http://www.wikidata.org/entity/Q51,Antarctica,no
-http://www.wikidata.org/entity/Q6970107,National Academies Press,http://www.wikidata.org/prop/direct/P740,location of formation,http://www.wikidata.org/entity/Q61,"Washington, D.C.",yes
 http://www.wikidata.org/entity/Q7813481,Tokano,http://www.wikidata.org/prop/direct/P156,followed by,CassiniHuygens,,no
-http://www.wikidata.org/entity/Q20712647,Virtual Planetary Laboratory,http://www.wikidata.org/prop/direct/P749,parent organization,http://www.wikidata.org/entity/Q219563,University of Washington,yes
-http://www.wikidata.org/entity/Q1115753,Committee on Space Research,http://www.wikidata.org/prop/direct/P749,parent organization,http://www.wikidata.org/entity/Q23548,National Aeronautics and Space Administration,no
-http://www.wikidata.org/entity/Q1115753,Committee on Space Research,http://www.wikidata.org/prop/direct/P361,part of,http://www.wikidata.org/entity/Q1162568,International Council for Science,yes
-http://www.wikidata.org/entity/Q2928358,United States Government Publishing Office,http://www.wikidata.org/prop/direct/P131,located in the administrative territorial entity,http://www.wikidata.org/entity/Q61,"Washington, D.C.",yes
-http://www.wikidata.org/entity/Q681447,United Nations Committee on the Peaceful Uses of Outer Space,http://www.wikidata.org/prop/direct/P527,has part,NASEM 2018,,no
-http://www.wikidata.org/entity/Q219563,University of Washington,http://www.wikidata.org/prop/direct/P355,subsidiary,http://www.wikidata.org/entity/Q20712647,Virtual Planetary Laboratory,yes
-http://www.wikidata.org/entity/Q20712647,Virtual Planetary Laboratory,http://www.wikidata.org/prop/direct/P361,part of,http://www.wikidata.org/entity/Q219563,University of Washington,yes
-http://www.wikidata.org/entity/Q23548,National Aeronautics and Space Administration,http://www.wikidata.org/prop/direct/P54,member of sports team,http://www.wikidata.org/entity/Q1115753,Committee on Space Research,no
-http://www.wikidata.org/entity/Q12599,ice sheet,http://www.wikidata.org/prop/direct/P1889,different from,http://www.wikidata.org/entity/Q35666,glacier,yes
-http://www.wikidata.org/entity/Q1147312,NASA Astrobiology Institute,http://www.wikidata.org/prop/direct/P355,subsidiary,http://www.wikidata.org/entity/Q1147312,NASA Astrobiology Institute,no
-http://www.wikidata.org/entity/Q934589,National Center for Atmospheric Research,http://www.wikidata.org/prop/direct/P159,headquarters location,http://www.wikidata.org/entity/Q192517,Boulder,yes
-http://www.wikidata.org/entity/Q6970107,National Academies Press,http://www.wikidata.org/prop/direct/P159,headquarters location,http://www.wikidata.org/entity/Q61,"Washington, D.C.",yes
-http://www.wikidata.org/entity/Q934589,National Center for Atmospheric Research,http://www.wikidata.org/prop/direct/P749,parent organization,http://www.wikidata.org/entity/Q214700,National Oceanic and Atmospheric Administration,yes
-http://www.wikidata.org/entity/Q23548,National Aeronautics and Space Administration,http://www.wikidata.org/prop/direct/P355,subsidiary,http://www.wikidata.org/entity/Q42262,European Space Agency,no
-http://www.wikidata.org/entity/Q23548,National Aeronautics and Space Administration,http://www.wikidata.org/prop/direct/P355,subsidiary,http://www.wikidata.org/entity/Q1115753,Committee on Space Research,no
+http://www.wikidata.org/entity/Q2928358,United States Government Publishing Office,http://www.wikidata.org/prop/direct/P159,headquarters location,http://www.wikidata.org/entity/Q61,"Washington, D.C.",yes
+http://www.wikidata.org/entity/Q223,Greenland,http://www.wikidata.org/prop/direct/P30,continent,http://www.wikidata.org/entity/Q51,Antarctica,no
 http://www.wikidata.org/entity/Q12599,ice sheet,http://www.wikidata.org/prop/direct/P279,subclass of,http://www.wikidata.org/entity/Q35666,glacier,yes
-http://www.wikidata.org/entity/Q5112,Adelaide,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q408,Australia,yes
+http://www.wikidata.org/entity/Q6970107,National Academies Press,http://www.wikidata.org/prop/direct/P740,location of formation,http://www.wikidata.org/entity/Q61,"Washington, D.C.",yes
+http://www.wikidata.org/entity/Q1162568,International Council for Science,http://www.wikidata.org/prop/direct/P527,has part,http://www.wikidata.org/entity/Q1115753,Committee on Space Research,yes
+http://www.wikidata.org/entity/Q3233780,"National Academies of Sciences, Engineering, and Medicine",http://www.wikidata.org/prop/direct/P355,subsidiary,the Space Studies Board SSB,,yes
+http://www.wikidata.org/entity/Q6970107,National Academies Press,http://www.wikidata.org/prop/direct/P159,headquarters location,http://www.wikidata.org/entity/Q61,"Washington, D.C.",yes
+http://www.wikidata.org/entity/Q15637513,Europa Clipper,http://www.wikidata.org/prop/direct/P137,operator,http://www.wikidata.org/entity/Q23548,National Aeronautics and Space Administration,yes
+http://www.wikidata.org/entity/Q12599,ice sheet,http://www.wikidata.org/prop/direct/P1889,different from,http://www.wikidata.org/entity/Q35666,glacier,yes
+http://www.wikidata.org/entity/Q219563,University of Washington,http://www.wikidata.org/prop/direct/P355,subsidiary,http://www.wikidata.org/entity/Q20712647,Virtual Planetary Laboratory,yes
+http://www.wikidata.org/entity/Q23548,National Aeronautics and Space Administration,http://www.wikidata.org/prop/direct/P355,subsidiary,http://www.wikidata.org/entity/Q42262,European Space Agency,no
+http://www.wikidata.org/entity/Q2928358,United States Government Publishing Office,http://www.wikidata.org/prop/direct/P131,located in the administrative territorial entity,http://www.wikidata.org/entity/Q61,"Washington, D.C.",yes
+http://www.wikidata.org/entity/Q6970107,National Academies Press,http://www.wikidata.org/prop/direct/P131,located in the administrative territorial entity,http://www.wikidata.org/entity/Q61,"Washington, D.C.",yes
+http://www.wikidata.org/entity/Q214700,National Oceanic and Atmospheric Administration,http://www.wikidata.org/prop/direct/P355,subsidiary,http://www.wikidata.org/entity/Q934589,National Center for Atmospheric Research,no
+http://www.wikidata.org/entity/Q35666,glacier,http://www.wikidata.org/prop/direct/P279,subclass of,http://www.wikidata.org/entity/Q12599,ice sheet,no
+http://www.wikidata.org/entity/Q1115753,Committee on Space Research,http://www.wikidata.org/prop/direct/P749,parent organization,http://www.wikidata.org/entity/Q1162568,International Council for Science,yes
+http://www.wikidata.org/entity/Q35666,glacier,http://www.wikidata.org/prop/direct/P1889,different from,http://www.wikidata.org/entity/Q12599,ice sheet,yes
+http://www.wikidata.org/entity/Q23548,National Aeronautics and Space Administration,http://www.wikidata.org/prop/direct/P355,subsidiary,http://www.wikidata.org/entity/Q179103,Japan Aerospace Exploration Agency,no
+http://www.wikidata.org/entity/Q1115753,Committee on Space Research,http://www.wikidata.org/prop/direct/P361,part of,http://www.wikidata.org/entity/Q1162568,International Council for Science,yes
+http://www.wikidata.org/entity/Q23548,National Aeronautics and Space Administration,http://www.wikidata.org/prop/direct/P159,headquarters location,http://www.wikidata.org/entity/Q61,"Washington, D.C.",no
+http://www.wikidata.org/entity/Q681447,United Nations Committee on the Peaceful Uses of Outer Space,http://www.wikidata.org/prop/direct/P527,has part,NASEM 2018,,no
+http://www.wikidata.org/entity/Q934589,National Center for Atmospheric Research,http://www.wikidata.org/prop/direct/P159,headquarters location,http://www.wikidata.org/entity/Q192517,Boulder,yes
+http://www.wikidata.org/entity/Q20712647,Virtual Planetary Laboratory,http://www.wikidata.org/prop/direct/P361,part of,http://www.wikidata.org/entity/Q219563,University of Washington,yes
+http://www.wikidata.org/entity/Q23548,National Aeronautics and Space Administration,http://www.wikidata.org/prop/direct/P355,subsidiary,http://www.wikidata.org/entity/Q1115753,Committee on Space Research,no
+http://www.wikidata.org/entity/Q934589,National Center for Atmospheric Research,http://www.wikidata.org/prop/direct/P749,parent organization,http://www.wikidata.org/entity/Q214700,National Oceanic and Atmospheric Administration,yes
+http://www.wikidata.org/entity/Q20712647,Virtual Planetary Laboratory,http://www.wikidata.org/prop/direct/P749,parent organization,http://www.wikidata.org/entity/Q219563,University of Washington,yes
+http://www.wikidata.org/entity/Q23548,National Aeronautics and Space Administration,http://www.wikidata.org/prop/direct/P54,member of sports team,http://www.wikidata.org/entity/Q1115753,Committee on Space Research,no
 http://www.wikidata.org/entity/Q1337483,Nature Geoscience,http://www.wikidata.org/prop/direct/P577,publication date,14185–189,,no
-http://www.wikidata.org/entity/Q23548,National Aeronautics and Space Administration,http://www.wikidata.org/prop/direct/P159,headquarters location,http://www.wikidata.org/entity/Q61,"Washington, D.C.",yes
+http://www.wikidata.org/entity/Q5112,Adelaide,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q408,Australia,yes
+http://www.wikidata.org/entity/Q1115753,Committee on Space Research,http://www.wikidata.org/prop/direct/P749,parent organization,http://www.wikidata.org/entity/Q23548,National Aeronautics and Space Administration,no
+http://www.wikidata.org/entity/Q1162568,International Council for Science,http://www.wikidata.org/prop/direct/P355,subsidiary,http://www.wikidata.org/entity/Q1115753,Committee on Space Research,yes

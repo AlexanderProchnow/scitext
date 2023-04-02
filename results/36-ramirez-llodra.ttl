@@ -6,9 +6,14 @@
 
 <http://www.wikidata.org/entity/Q1404053> ns1:P17 <http://www.wikidata.org/entity/Q30> .
 
+<http://www.wikidata.org/entity/Q153840> ns1:P31 <http://www.wikidata.org/entity/Q1036221> .
+
 <http://www.wikidata.org/entity/Q15637513> ns1:P137 <http://www.wikidata.org/entity/Q23548> .
 
 <http://www.wikidata.org/entity/Q165585> ns1:P137 <http://www.wikidata.org/entity/Q23548> .
+
+<http://www.wikidata.org/entity/Q1708210> ns1:P1132 "446" ;
+    ns1:P2046 "446" .
 
 <http://www.wikidata.org/entity/Q18952> ns1:P171 <http://www.wikidata.org/entity/Q25364> .
 
@@ -24,6 +29,8 @@
 
 <http://www.wikidata.org/entity/Q3071673> ns1:P1269 "Postcruise" ;
     ns1:P361 "Postcruise" .
+
+<http://www.wikidata.org/entity/Q3169> ns1:P527 "Hans Tore" .
 
 <http://www.wikidata.org/entity/Q3303> ns1:P361 <http://www.wikidata.org/entity/Q193> .
 
@@ -49,27 +56,19 @@
 
 <http://www.wikidata.org/entity/Q867648> ns1:P2579 <http://www.wikidata.org/entity/Q52106> .
 
-<http://www.wikidata.org/entity/Q1055845> ns1:P131 <http://www.wikidata.org/entity/Q1055845> .
-
-<http://www.wikidata.org/entity/Q1071797> ns1:P123 <http://www.wikidata.org/entity/Q1071797> .
-
-<http://www.wikidata.org/entity/Q111044> ns1:P279 <http://www.wikidata.org/entity/Q111044> .
-
-<http://www.wikidata.org/entity/Q1708210> ns1:P1132 "446" ;
-    ns1:P2046 "446" ;
-    ns1:P31 <http://www.wikidata.org/entity/Q1708210> .
-
-<http://www.wikidata.org/entity/Q188> ns1:P2936 <http://www.wikidata.org/entity/Q188> .
+<http://www.wikidata.org/entity/Q189325> ns1:P159 <http://www.wikidata.org/entity/Q485176> ;
+    ns1:P749 <http://www.wikidata.org/entity/Q23548> .
 
 <http://www.wikidata.org/entity/Q26087> ns1:P17 <http://www.wikidata.org/entity/Q20>,
         <http://www.wikidata.org/entity/Q279724> .
+
+<http://www.wikidata.org/entity/Q279724> ns1:P131 <http://www.wikidata.org/entity/Q26087> ;
+    ns1:P17 <http://www.wikidata.org/entity/Q20> .
 
 <http://www.wikidata.org/entity/Q3143> ns1:P361 <http://www.wikidata.org/entity/Q319> ;
     ns1:P527 <http://www.wikidata.org/entity/Q2314> .
 
 <http://www.wikidata.org/entity/Q319> ns1:P527 <http://www.wikidata.org/entity/Q3143> .
-
-<http://www.wikidata.org/entity/Q5112101> ns1:P131 <http://www.wikidata.org/entity/Q5112101> .
 
 <http://www.wikidata.org/entity/Q603523> ns1:P131 "the Central Arctic Ocean" ;
     ns1:P17 <http://www.wikidata.org/entity/Q223> ;
@@ -83,30 +82,9 @@
         "Central Arctic Ocean",
         "the Central Arctic Ocean" .
 
-<http://www.wikidata.org/entity/Q7597924> ns1:P131 <http://www.wikidata.org/entity/Q7597924> .
-
-<http://www.wikidata.org/entity/Q81692> ns1:P131 <http://www.wikidata.org/entity/Q81692> .
-
-<http://www.wikidata.org/entity/Q939183> ns1:P31 <http://www.wikidata.org/entity/Q939183> .
-
-<http://www.wikidata.org/entity/Q98> ns1:P31 <http://www.wikidata.org/entity/Q98> .
-
-<http://www.wikidata.org/entity/Q153840> ns1:P31 <http://www.wikidata.org/entity/Q1036221>,
-        <http://www.wikidata.org/entity/Q153840> ;
-    ns1:P4552 <http://www.wikidata.org/entity/Q153840> .
-
-<http://www.wikidata.org/entity/Q18712516> ns1:P123 <http://www.wikidata.org/entity/Q18712516> ;
-    ns1:P127 <http://www.wikidata.org/entity/Q18712516> .
-
 <http://www.wikidata.org/entity/Q20> ns1:P150 "Norwegian Institute for Water Research Oslo" .
 
 <http://www.wikidata.org/entity/Q2706> ns1:P17 <http://www.wikidata.org/entity/Q183> .
-
-<http://www.wikidata.org/entity/Q279724> ns1:P131 <http://www.wikidata.org/entity/Q26087> ;
-    ns1:P17 <http://www.wikidata.org/entity/Q20>,
-        <http://www.wikidata.org/entity/Q279724> .
-
-<http://www.wikidata.org/entity/Q4356293> ns1:P17 <http://www.wikidata.org/entity/Q4356293> .
 
 <http://www.wikidata.org/entity/Q5509000> ns1:P355 <http://www.wikidata.org/entity/Q6867530> ;
     ns1:P527 <http://www.wikidata.org/entity/Q6867530> .
@@ -115,16 +93,6 @@
     ns1:P749 <http://www.wikidata.org/entity/Q5509000> .
 
 <http://www.wikidata.org/entity/Q788> ns1:P527 <http://www.wikidata.org/entity/Q603523> .
-
-<http://www.wikidata.org/entity/Q189325> ns1:P159 <http://www.wikidata.org/entity/Q485176> ;
-    ns1:P355 <http://www.wikidata.org/entity/Q189325> ;
-    ns1:P749 <http://www.wikidata.org/entity/Q189325>,
-        <http://www.wikidata.org/entity/Q23548> .
-
-<http://www.wikidata.org/entity/Q3169> ns1:P138 <http://www.wikidata.org/entity/Q3169> ;
-    ns1:P31 <http://www.wikidata.org/entity/Q3169> ;
-    ns1:P527 "Hans Tore" ;
-    ns1:P59 <http://www.wikidata.org/entity/Q3169> .
 
 <http://www.wikidata.org/entity/Q23548> ns1:P355 <http://www.wikidata.org/entity/Q189325> .
 

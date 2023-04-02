@@ -1,33 +1,12 @@
 s,slabel,p,plabel,o,olabel,evaluation
-http://www.wikidata.org/entity/Q1231558,smart city,http://www.wikidata.org/prop/direct/P279,subclass of,http://www.wikidata.org/entity/Q1231558,smart city,yes
-http://www.wikidata.org/entity/Q1961016,Conference on Neural Information Processing Systems,http://www.wikidata.org/prop/direct/P580,start time,2440–24,,no
-http://www.wikidata.org/entity/Q3828114,Incorporated Council of Law Reporting,http://www.wikidata.org/prop/direct/P527,has part,http://www.wikidata.org/entity/Q3828114,Incorporated Council of Law Reporting,no
-http://www.wikidata.org/entity/Q172491,data mining,http://www.wikidata.org/prop/direct/P749,parent organization,http://www.wikidata.org/entity/Q14772,Baidu,yes
-http://www.wikidata.org/entity/Q4501917,National Natural Science Foundation of China,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q4501917,National Natural Science Foundation of China,no
-http://www.wikidata.org/entity/Q172491,data mining,http://www.wikidata.org/prop/direct/P127,owned by,http://www.wikidata.org/entity/Q14772,Baidu,yes
-http://www.wikidata.org/entity/Q2739680,Association for the Advancement of Artificial Intelligence,http://www.wikidata.org/prop/direct/P585,point in time,922–929,,no
-http://www.wikidata.org/entity/Q1961016,Conference on Neural Information Processing Systems,http://www.wikidata.org/prop/direct/P577,publication date,2440–24,,no
-http://www.wikidata.org/entity/Q14772,Baidu,http://www.wikidata.org/prop/direct/P355,subsidiary,http://www.wikidata.org/entity/Q172491,data mining,no
-http://www.wikidata.org/entity/Q5099725,China Information,http://www.wikidata.org/prop/direct/P355,subsidiary,http://www.wikidata.org/entity/Q5099725,China Information,no
-http://www.wikidata.org/entity/Q73820,The MIT Press,http://www.wikidata.org/prop/direct/P355,subsidiary,http://www.wikidata.org/entity/Q73820,The MIT Press,no
-http://www.wikidata.org/entity/Q2739680,Association for the Advancement of Artificial Intelligence,http://www.wikidata.org/prop/direct/P749,parent organization,http://www.wikidata.org/entity/Q2739680,Association for the Advancement of Artificial Intelligence,no
-http://www.wikidata.org/entity/Q15709949,Neurocomputing,http://www.wikidata.org/prop/direct/P279,subclass of,http://www.wikidata.org/entity/Q15709949,Neurocomputing,yes
-http://www.wikidata.org/entity/Q2739680,Association for the Advancement of Artificial Intelligence,http://www.wikidata.org/prop/direct/P127,owned by,http://www.wikidata.org/entity/Q2739680,Association for the Advancement of Artificial Intelligence,yes
-http://www.wikidata.org/entity/Q1666471,International Council for Open and Distance Education,http://www.wikidata.org/prop/direct/P749,parent organization,http://www.wikidata.org/entity/Q131566,Institute of Electrical and Electronics Engineers,no
-http://www.wikidata.org/entity/Q3828114,Incorporated Council of Law Reporting,http://www.wikidata.org/prop/direct/P361,part of,http://www.wikidata.org/entity/Q3828114,Incorporated Council of Law Reporting,no
-http://www.wikidata.org/entity/Q15131386,beryllium-5,http://www.wikidata.org/prop/direct/P3983,sports league level,http://www.wikidata.org/entity/Q15131386,beryllium-5,no
-http://www.wikidata.org/entity/Q1961016,Conference on Neural Information Processing Systems,http://www.wikidata.org/prop/direct/P131,located in the administrative territorial entity,http://www.wikidata.org/entity/Q1961016,Conference on Neural Information Processing Systems,no
-http://www.wikidata.org/entity/Q5099725,China Information,http://www.wikidata.org/prop/direct/P749,parent organization,http://www.wikidata.org/entity/Q5099725,China Information,no
-http://www.wikidata.org/entity/Q73820,The MIT Press,http://www.wikidata.org/prop/direct/P749,parent organization,http://www.wikidata.org/entity/Q73820,The MIT Press,no
+http://www.wikidata.org/entity/Q26841363,Han Chengkai,http://www.wikidata.org/prop/direct/P69,educated at,http://www.wikidata.org/entity/Q2299797,Beihang University,yes
 http://www.wikidata.org/entity/Q131566,Institute of Electrical and Electronics Engineers,http://www.wikidata.org/prop/direct/P355,subsidiary,http://www.wikidata.org/entity/Q1666471,International Council for Open and Distance Education,no
-http://www.wikidata.org/entity/Q863401,International Joint Conference on Artificial Intelligence,http://www.wikidata.org/prop/direct/P123,publisher,http://www.wikidata.org/entity/Q863401,International Joint Conference on Artificial Intelligence,yes
-http://www.wikidata.org/entity/Q863401,International Joint Conference on Artificial Intelligence,http://www.wikidata.org/prop/direct/P50,author,http://www.wikidata.org/entity/Q863401,International Joint Conference on Artificial Intelligence,no
-http://www.wikidata.org/entity/Q1961016,Conference on Neural Information Processing Systems,http://www.wikidata.org/prop/direct/P31,instance of,http://www.wikidata.org/entity/Q1961016,Conference on Neural Information Processing Systems,no
-http://www.wikidata.org/entity/Q5099725,China Information,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q5099725,China Information,no
-http://www.wikidata.org/entity/Q5099725,China Information,http://www.wikidata.org/prop/direct/P31,instance of,http://www.wikidata.org/entity/Q5099725,China Information,no
-http://www.wikidata.org/entity/Q73820,The MIT Press,http://www.wikidata.org/prop/direct/P31,instance of,http://www.wikidata.org/entity/Q73820,The MIT Press,no
 http://www.wikidata.org/entity/Q1961016,Conference on Neural Information Processing Systems,http://www.wikidata.org/prop/direct/P571,inception,2440–24,,no
-http://www.wikidata.org/entity/Q15131386,beryllium-5,http://www.wikidata.org/prop/direct/P585,point in time,http://www.wikidata.org/entity/Q15131386,beryllium-5,no
+http://www.wikidata.org/entity/Q1666471,International Council for Open and Distance Education,http://www.wikidata.org/prop/direct/P749,parent organization,http://www.wikidata.org/entity/Q131566,Institute of Electrical and Electronics Engineers,no
 http://www.wikidata.org/entity/Q47509047,PyTorch,http://www.wikidata.org/prop/direct/P277,programming language,http://www.wikidata.org/entity/Q28865,Python,yes
-http://www.wikidata.org/entity/Q15131386,beryllium-5,http://www.wikidata.org/prop/direct/P415,radio format,http://www.wikidata.org/entity/Q15131386,beryllium-5,no
-http://www.wikidata.org/entity/Q2739680,Association for the Advancement of Artificial Intelligence,http://www.wikidata.org/prop/direct/P1416,affiliation,http://www.wikidata.org/entity/Q2739680,Association for the Advancement of Artificial Intelligence,no
+http://www.wikidata.org/entity/Q172491,data mining,http://www.wikidata.org/prop/direct/P127,owned by,http://www.wikidata.org/entity/Q14772,Baidu,no
+http://www.wikidata.org/entity/Q14772,Baidu,http://www.wikidata.org/prop/direct/P355,subsidiary,http://www.wikidata.org/entity/Q172491,data mining,no
+http://www.wikidata.org/entity/Q1961016,Conference on Neural Information Processing Systems,http://www.wikidata.org/prop/direct/P580,start time,2440–24,,no
+http://www.wikidata.org/entity/Q1961016,Conference on Neural Information Processing Systems,http://www.wikidata.org/prop/direct/P577,publication date,2440–24,,no
+http://www.wikidata.org/entity/Q172491,data mining,http://www.wikidata.org/prop/direct/P749,parent organization,http://www.wikidata.org/entity/Q14772,Baidu,yes
+http://www.wikidata.org/entity/Q2739680,Association for the Advancement of Artificial Intelligence,http://www.wikidata.org/prop/direct/P585,point in time,922–929,,no

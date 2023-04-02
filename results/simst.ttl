@@ -3,38 +3,5 @@
 <http://www.wikidata.org/entity/Q6027324> ns1:P2283 "Graphsaint Graph sampling" ;
     ns1:P527 "Graphsaint Graph sampling" .
 
-<http://www.wikidata.org/entity/Q17087718> ns1:P101 <http://www.wikidata.org/entity/Q17087718> ;
-    ns1:P921 <http://www.wikidata.org/entity/Q17087718> .
-
-<http://www.wikidata.org/entity/Q213205> ns1:P361 <http://www.wikidata.org/entity/Q213205> ;
-    ns1:P527 <http://www.wikidata.org/entity/Q213205> .
-
-<http://www.wikidata.org/entity/Q2739680> ns1:P101 <http://www.wikidata.org/entity/Q2739680> ;
-    ns1:P123 <http://www.wikidata.org/entity/Q2739680> .
-
-<http://www.wikidata.org/entity/Q131566> ns1:P101 <http://www.wikidata.org/entity/Q131566> ;
-    ns1:P664 <http://www.wikidata.org/entity/Q131566> ;
-    ns1:P921 <http://www.wikidata.org/entity/Q131566> .
-
-<http://www.wikidata.org/entity/Q3295299> ns1:P123 <http://www.wikidata.org/entity/Q3295299> ;
-    ns1:P361 <http://www.wikidata.org/entity/Q3295299> ;
-    ns1:P527 <http://www.wikidata.org/entity/Q3295299> .
-
-<http://www.wikidata.org/entity/Q926486> ns1:P279 <http://www.wikidata.org/entity/Q926486> ;
-    ns1:P361 <http://www.wikidata.org/entity/Q926486> ;
-    ns1:P921 <http://www.wikidata.org/entity/Q926486> .
-
-<http://www.wikidata.org/entity/Q99> ns1:P131 <http://www.wikidata.org/entity/Q99> ;
-    ns1:P150 <http://www.wikidata.org/entity/Q99> ;
-    ns1:P17 <http://www.wikidata.org/entity/Q99> .
-
-<http://www.wikidata.org/entity/Q6803607> ns1:P127 <http://www.wikidata.org/entity/Q6803607>,
-        "MAPESimSTWN" ;
-    ns1:P1830 <http://www.wikidata.org/entity/Q6803607>,
-        "MAPESimSTWN" ;
-    ns1:P31 <http://www.wikidata.org/entity/Q29037> ;
-    ns1:P361 <http://www.wikidata.org/entity/Q6803607>,
-        "MAPESimSTWN" ;
-    ns1:P527 <http://www.wikidata.org/entity/Q6803607>,
-        "MAPESimSTWN" .
+<http://www.wikidata.org/entity/Q6803607> ns1:P31 <http://www.wikidata.org/entity/Q29037> .
 
