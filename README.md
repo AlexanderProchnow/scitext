@@ -21,11 +21,17 @@ pip install -r requirements.txt
 ## Use
 
 To run this pipeline on a single paper:
-```{python} python -m scitext.main --paper <path_to_pdf> [--evaluate]```
+```{python}
+python -m scitext.main --paper <path_to_pdf> [--evaluate]
+```
 This returns a knowledge graph in Turtle format.
 
+<br>
+
 To run this pipeline on a folder containing multiple PDF files:
-```{python} python -m scitext.main --folder <path_to_folder> [--evaluate]```
+```{python}
+python -m scitext.main --folder <path_to_folder> [--evaluate]
+```
 
 Using the optional --evaluate flag 
 requires an OpenAI API key set as an environment variable, and returns
@@ -36,9 +42,13 @@ with other requests. In both cases, executing the evaluation module separately a
 seconds can solve this issue. To do this, run the following command.
 
 Running evaluation separately on a single knowledge graph:
-```{python} python scitext/eval.py --ttl <path_to_turtle_kg>```
+```{python}
+python scitext/eval.py --ttl <path_to_turtle_kg>
+```
 
 Running evaluation separately on a folder containing multiple knowledge graphs:
-```{python} python scitext/eval.py --folder <path_to_folder>```
+```{python}
+python scitext/eval.py --folder <path_to_folder>
+```
 
 For example usages, inspect the help description of a command using `-h`.
