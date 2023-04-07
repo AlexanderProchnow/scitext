@@ -37,7 +37,13 @@ class Paper(PdfReader):
             text = self.get_text(page_num)
 
             # Extract relations from page using REBEL
-            sentences = sent_tokenize(text)
+            # download nltk punkt tokenizer if not already done
+            try:
+                sentences = sent_tokenize(text)
+            except LookupError:
+                import nltk
+                nltk.download('punkt')
+                sentences = sent_tokenize(text)
             for i, sent in enumerate(sentences): #tqdm(enumerate(sentences), total=len(sentences)):
                 # Preprocess sentence
                 sent = "".join(ch for ch in sent if ch not in [
