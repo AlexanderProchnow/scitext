@@ -9,7 +9,7 @@ import argparse
 def evaluate_kg(path_to_kg: Path, print_summary: bool=False):
     # Load KG
     kg = rdflib.Graph()
-    kg.parse(path_to_kg)#, format='turtle')
+    kg.parse(path_to_kg)
 
     out_file = Path(path_to_kg.stem + '_eval.csv')
     if out_file.exists():

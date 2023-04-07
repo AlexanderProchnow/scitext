@@ -44,7 +44,8 @@ class Paper(PdfReader):
                 import nltk
                 nltk.download('punkt')
                 sentences = sent_tokenize(text)
-            for i, sent in enumerate(sentences): #tqdm(enumerate(sentences), total=len(sentences)):
+
+            for i, sent in enumerate(sentences):
                 # Preprocess sentence
                 sent = "".join(ch for ch in sent if ch not in [
                     ',', '!', '?', '-', '(', ')', ':', ';', '\'', '\n'#, '.'
@@ -106,7 +107,6 @@ class Paper(PdfReader):
                         continue
 
                     relation_entry = rdflib.URIRef(
-                        # f'https://www.wikidata.org/wiki/Property:{relation_entry["uri"].iloc[0]}'
                         f'http://www.wikidata.org/prop/direct/{relation_entry["uri"].iloc[0]}' 
                     )
                     if head_entry == tail_entry:
@@ -118,14 +118,13 @@ class Paper(PdfReader):
 
     def _to_URI(self, h: pd.Series, kg: kglab.KnowledgeGraph, head: bool) -> rdflib.URIRef:
         # if no entity predicted, take best candidate
-        # TODO add confidence score of link prediction to KG
         if h['predicted_entity'] == None or h['predicted_entity']['wikidata_entity_id'] == None:
             if h['candidate_entities']:
                 qid, confidence = h['candidate_entities'][0]
             else: 
                 if not head:
                     node = rdflib.Literal(h['text'])
-                    # TODO do always?
+                    
                     # add predicted class to entity, e.g. node a scientist.
                     # for this, node must be made a IRI
                     # if h['predicted_entity_types']:
@@ -136,7 +135,6 @@ class Paper(PdfReader):
         else:
             qid = h['predicted_entity']['wikidata_entity_id']
 
-        # return rdflib.URIRef(f'https://www.wikidata.org/wiki/{qid}')
         return rdflib.URIRef(f'http://www.wikidata.org/entity/{qid}')
             
 
