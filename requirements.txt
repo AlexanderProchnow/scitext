@@ -1,5 +1,10 @@
+boto3
+kglab
+openai
+pandas
+pypdf
 transformers
 torch
 torchvision
 torchaudio
-git+https://github.com/amazon-science/ReFinED/archive/refs/tags/V1.zip
+https://github.com/amazon-science/ReFinED/archive/refs/tags/V1.zip
