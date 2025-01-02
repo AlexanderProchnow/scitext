@@ -3,8 +3,7 @@
 An automatic Text-to-Knowledge-Graph pipeline that was built to create knowledge graphs 
 from scientific papers and evaluate them automatically.
 
-This project was conducted as part of the Building and Mining Knowledge Graphs course
-at Maastricht University. The project report can be found [here](https://github.com/AlexanderProchnow/scitext/blob/main/Project_Report.pdf).
+A project report can be found [here](https://github.com/AlexanderProchnow/scitext/blob/main/Project_Report.pdf).
 
 ## First use
 
@@ -63,5 +62,7 @@ For example usages, inspect the help description of a command using `-h`.
 `scitext` contains the pipeline code, with each function's docstring explaining it's functionality.
 
 `mapping_dict.ipynb` contains the code used to generate the `rebel_vocab.csv`, with the required REBEL dataset downloaded from within the `rebel_dataset.zip` at https://huggingface.co/datasets/Babelscape/rebel-dataset/tree/main .
+
+`llm` contains experiments using the PDF Beta of Claude 3.5 Sonnet for knowledge graph extraction.
 
 `requirements.txt` for environment installation as explained above.

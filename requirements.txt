@@ -1,3 +1,4 @@
+# For REBEL/ReFinEd:
 boto3
 kglab
 openai
@@ -5,6 +6,10 @@ pandas
 pypdf
 transformers
 torch
-torchvision
-torchaudio
 https://github.com/amazon-science/ReFinED/archive/refs/tags/V1.zip
+
+# For Claude:
+anthropic
+python-dotenv
+pathlib
+httpx
